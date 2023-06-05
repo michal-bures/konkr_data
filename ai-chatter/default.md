@@ -3,118 +3,190 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 ## 1. When furious, simply throw insults
 
 ### When much weaker
-> is furious, is much weaker, is at peace
-- Mhhh...
-- Grrr...
-- You know what? Screw you.
-- One day you'll get what you deserve.
-
-> is furious, is much weaker, caused major damage
+> furious, much weaker, caused major damage, did not suffer major damage
 - Ahahahaha! That felt good!
 - Didn't expect that, did you?!
 - Now THAT was satisfying.
 - Didn't think I can still bite, did you?
 
-> is furious, is much weaker, was not hostile, was at peace, suffered major damage
+> furious, much weaker, was not hostile, suffered major damage, did not cause major damage
 - How could you!
-- You bloody bastard!
-- Should have seen that coming...
-- @#$%! 
-
-> is furious, is much weaker, suffered crippling damage
+- You bastard!
+- GAH! Should have seen that coming!
 - @#$%!
-- @#$% &$%$ #$@§!
-- I hate you!
-- You... You!
-  
-> is furious, is much weaker, is at war
-- It's time for swords, not words.
+- No. No. NO!
+- Arrrgh!
+- No! I can't believe you've done this!
+
+> furious, much weaker, suffered damage
+- @#$%!
+- I HATE you!
+- You... You! 
+- No. No. NO!
+- Arrrgh!
+- You bastard!
+
+> furious, much weaker, fighting
 - Not going down without a fight!
+- I'll go down swinging!
+- I'll never give up!
+- Never give up! Never surrender!
+- I'll take you down with me!
+- Maybe I can't win, but I can still bite!
+
+> furious, much weaker, truce
+- Mhhh...
+- Grrr...
+- Screw you.
+- ...
 
 ### When stronger
-> is furious, is much stronger, is at peace
-- Sooner or later I'll crush you like a bug
-- Your days are numbered.
-- You better run while you still can.
+> furious, much stronger, caused major damage, did not suffer major damage
+- It will be over soon enough!
+- AHA! Take THAT!
+- Yes, yes, YES!
+- That's what you get!
+- AHA!
 
-> is furious, is much stronger, is at war
+> furious, much stronger, fighting
 - Came to beg for mercy?
 - Time to say goodbye.
 - We both know it's over.
+- Too late to be sorry!
 
-> is furious, is stronger, is at peace
+> furious, stronger, truce
 - Just you wait...
 - You'll pay for your insolence.
 - You'll pay for that soon enough.
 - Don't worry, I'll get to you soon enough.
 - You're next.
-- Insolent little brat...
+- Insolent little...
 
-> is furious, is stronger, suffered major damage
+> furious, stronger, suffered major damage, did not cause major damage
 - Hey, that hurt! I'll get you for that!
 - You'll pay for that!
-- Ouch! Insolent little bastard!
+- Ow! Insolent little...
 
-> is furious, is stronger, is at war
+> furious, stronger, fighting
 - You're going down.
-- This is over for you, trust me.
-- Let's face it, this is over for you.
+- It's over for you, trust me.
+- Let's face it, it's over for you.
 - You picked the wrong fight.
 - Came to beg for mercy?
 - Too late for words now.
 - We're done talking.
 
-### When comparable strength
-> is furious, is at peace
+### When slightly weaker or comparable strength
+> furious, caused major damage, did not suffer major damage
+- Take THAT!
+- That's what you get!
+- I'm winning! I'm winning, right?
+
+> furious, suffered major damage, did not cause major damage
+- You'll pay for that!
+- You'll regret that!
+- You'll pay for that soon enough!
+- I'll get you for this!
+- Damnit!
+- You bastard!
+- No! Damnit!
+
+> furious, truce
 - Just you wait...
 - You... You!
 - You'll pay.
+- You'll pay. You'll PAY!
 - @#$% you!
 
-> is furious, is at war
+> furious, fighting
 - Shut up.
 - Get out of my face.
 - Get out of my sight.
 - We're done talking.
-- You're going down.
-- Too late for words now. 
-- You picked the wrong fight.
+- We're past words.
+- I'm done talking to you.
+- I'm done talking.
+
+## 2. Surrender stages
+
+> surrendering, hostile
+- Screw this, I give up.
+- Goddamnit, this is hopeless.
+- Damn, what's the point of fighting anymore.
+- This is bloody hopeless.
+- Who am I kidding, I'm done.
+
+> surrendering, not hostile
+- Well, I know when I'm outmatched.
+- Well played, damnit.
+- Sigh... I guess you won.
+- Fine, you win.
+- Fine, I give up.
+
+> surrendering, friendly
+- Well played!
+- Congratulations!
+
+> declined surrender, much weaker, truce, not hostile
+- Hey, thanks for sparing me! You ARE sparing me, right?
+- Wait, why am I still alive?
+- I have no idea what's going on right now...
+- What, some kind of pet to you now?
+- Very funny...
+- Sigh... Done gloating?
 
 ## 2. React to unprovoked player attacks
 
 ## Major damage
 
-> was just attacked, was at peace, suffered major damage, was ally
+> invaded, suffered major damage, was ally
 - You treacherous bastard!
 - How could you!
-- Should have seen this coming!
+- Should have seen it coming!
 - You'll pay for that!
 - Treachery!
-- Outrageous!
+- This is outrageous!
 - You... You!
 - I have no words for what you just did.
 - Disgraceful!
 
-> was just attacked, was at peace, suffered major damage, was friendly
+> invaded, suffered major damage, was friendly
 - I knew you couldn't be trusted.
 - So that's how it is.
 - Of course you would do that.
+- I don't know what I expected.
 
-> was just attacked, was at peace, suffered major damage, is stronger
+> invaded, suffered major damage, was friendly, had common enemy
+- Really? You chose to focus on ME?
+- What?! I'm not the one you should be worried about!
+- You're making a mistake here!
+- Wow! You must really want the other guy to win.
+- Wow! How stupid of you.
+
+> invaded, suffered major damage, had common enemy
+- Don't you have bigger problems then me?
+- Why me? Why now?!
+- Wow! You must really want the other guy to win.
+- Wow! How stupid of you.
+
+> invaded, suffered major damage, stronger
 - Ohh! Ok, let's dance!
 - Ha, you're going to regret that!
 - You're going to pay for that!
 - Oh man, you have no idea what you just signed up for.
 - Ok, it is on now!
-- Hohoho, some is asking for trouble!
+- Hohoho, someone is asking for trouble!
 
-> was just attacked, was at peace, suffered major damage
+> invaded, suffered major damage, similar strength
 - Bastard!
 - You'll pay for that!
 - Should have seen that coming I suppose...
 
+> invaded, suffered major damage, weaker, was weaker, common enemy
+- Pick a fight with someone your size!
+
 ### Minor damage
-> was just attacked, was at peace, suffered minor damage, is friendly, is stronger
+> invaded, suffered minor damage, friendly, stronger
 - Careful now...
 - Really? You sure you want to do that?
 - My patience has its limits, you know?
@@ -122,307 +194,347 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Now you're really pushing your luck...
 - Testing my patience, are you?
 
-> was just attacked, was at peace, suffered minor damage, is friendly
+> invaded, suffered minor damage, friendly
 - Hey! What was that for?
 - What the hell?
 - What was that?
+- Like, seriously?
 
-> was just attacked, was at peace, suffered minor damage, is neutral, is stronger
+> invaded, suffered minor damage, neutral, stronger
 - Hey! What do you think you're doing?!
 - I did not allow you to take that!
-- You just can't help yourself, can you...
+- Looking for trouble, huh?
+- You're really pushing it, you know?
 
-> was just attacked, was at peace, suffered minor damage, is hostile, is stronger
+> invaded, suffered minor damage, hostile, stronger
 - You will regret that. 
-- No, I will not let this slide.
+- No, I will not let that slide.
 - You're going to pay for that.
+- Looking for more trouble, huh?
 
-> was just attacked, was at peace, suffered minor damage, is not friendly
+> invaded, suffered minor damage, not friendly
 - I knew this was coming...
 - I knew you couldn't be trusted...
 - I knew you were up to no good...
 
 ## 3. Explain your own unprovoked attacks
 
-### Try to explain away minor transgression
+### Justify trying to stop the player from dominating
+> invading, was angered by dominance, not hostile, not weaker
+- Nothing personal, but you were getting too powerful for your own good.
+- Look I'm sorry, but somebody had to clip your wings a bit.
+- Sorry, you were just getting too big for comfort there.
+- Apologies, had to reign you in a little there.
+- Sorry, somebody had to put a stop to your sprawl.
+- Sorry, you were getting a bit too powerful for your own good.
+- Sorry, someone had to put your ambitions in check.
+- Sorry, but someone had to put a limit on your greed.
+ 
+> invading, was angered by dominance, friendly
+- I'm sorry it came to this, but you're scaring me at this point!
+- I didn't want to do this, but you're just growing way too powerful.
+- I'm sorry, but you're getting too big for your own good.
 
+> invading, was angered by dominance
+- You can't be allowed to wield this kind of power.
+- I won't just sit here and watch you crush everyone.
+- Someone had to try to stop your expansion.
+- I will not stand by waiting for the inevitable.
+- Someone has to put a stop to your reign  before it's too late.
+- You can't be allowed to get away with such unchecked expansion.
+- Somebody has to resist you.
+- It's time to put your ambition in check.
+- It's time to reign you in a bit.
+- Your greed must be put in check.
+
+### Justify based on past grievances
+> invading, was angered by credit, not hostile
+- There, now we're even.
+- You know you deserved that.
+- Life has a way of balancing things out, doesn't it.
+
+> invading, was angered by credit, hostile
+- You know you had that one coming.
+- You reap what you sow.
+- Don't act surprised now...
+
+## Act dismissive about minor transgressions
 #### a) from position of strength
 
-> caused minor damage, was at peace, is stronger, is friendly
+> invading, caused minor damage, stronger, friendly
 - I needed to take that, I'm sure you understand.
 - Surely you can spare a bit of land for me.
 - Sorry about that, just really needed that land.
-- I'll just grab this tiny piece of land over here... there we go, now I'm good!
+- I'll just grab thtiny piece of land over here... there we go, now I'm good!
 - Don't worry, we're still good, just needed that land over there.
 
-> caused minor damage, was at peace, is stronger, is neutral
+> invading, caused minor damage, stronger, neutral
 - I had to take that land, no need to overreact.
 - I needed that land, don't make a fuss.
 - Don't worry, just needed a bit more land.
 - I just needed that land, ok?
 
-> caused minor damage, was at peace, is stronger, is hostile
+> invading, caused minor damage, stronger, hostile
 - I needed that land, going to do anything about it?
 - Yeah, yeah. I grabbed some of your land, big deal.
 - Look, I take what I want, and I wanted that land.
 
 #### b) from equal position
 
-> caused minor damage, was at peace, is similar strength, is friendly
+> invading, caused minor damage, similar strength, friendly
 - I can have a bit more land, right?
 - Surely you can spare a bit of land for me? Please?
 - See I really needed that bit of land. Don't be mad!
 - Sorry about that, just really needed that land.
-- I'll just grab this tiny piece of land over here... there we go, now I'm good!
+- I'll just grab thtiny piece of land over here... there we go, now I'm good!
 
-> caused minor damage, was at peace, is similar strength, is neutral
->
+> invading, caused minor damage, similar strength, neutral
+- Hey, nothing personal, just needed that land.
+- You know I needed that land, right? No need to get mad over it.
+- I just needed that land, ok?
 
-#### c) from desperate position
+> invading, caused minor damage, similar strength, hostile
+- Let's not start a big fight over this, ok?
+- Just look another way for a bit, ok?
 
-> caused minor damage, was at peace, is much weaker, is friendly
+#### c) from weaker position
+
+> invading, caused minor damage, weaker, friendly
 - Look I really had to take that land, forgive me please?
 - Oh hi, don't be mad please? I just really needed to take that.
 - I can have a bit more land, right my friend?
 
-> caused minor damage, was at peace, is much weaker, is neutral
+> invading, caused minor damage, weaker, neutral
 - Oh crap you noticed? Look I just need a bit more land, so have mercy?
 - Uhh, surely you didn't care about that tiny bit of land?
 - I just needed that land, ok? Please don't be mad.
-- Eh, can you let it slide just this once?
+- Eh, can you let it slide just thonce?
 
-> caused minor damage, was at peace, is much weaker, is hostile
+> invading, caused minor damage, weaker, hostile
 - Oh #$@& he noticed.
 - Oh crap, I'm in trouble now, aren't I.
 - Come on, you have better things to do.
 
-### Justify trying to stop the player from dominating
-> did just attack, was at peace, was provoked by player dominance, is not hostile, is not weaker
-- Nothing personal, but you were getting a too powerful for your own good.
-- Look I'm sorry, but somebody had to clip your wings a bit.
-- Sorry, you were just getting too big for comfort there.
-- Apologies, had to reign you in a little there.
-- Sorry, somebody had to put a stop to your sprawl.
-- Sorry, you were getting a bit too powerful for your own good.
-- Sorry, someone had to put your ambitions in check. 
-
-> did just attack, was at peace, was provoked by player dominance, is friendly
-- I'm sorry it came to this, but you're scaring me at this point!
-- I didn't want to do this, but you're just growing way too powerful.
-
-> did just attack, was at peace, was provoked by player dominance, is weaker
-- You can't be allowed to wield this kind of power.
-- I won't just sit here and watch you dominate.
-- Someone had to try to stop your unchecked expansion.
-- I will not just wait here for my inevitable demise.
-- I will not go silently into the night.
-- Someone has to put a stop to your sprawl before it's too late.
-- You can't be allowed to get away with such unchecked expansion.
-
-### Justify based on past grievances
-> did just attack, was at peace, was provoked by player credit, is not hostile
-- There, now we're even.
-- You know you deserved that.
-- Life has a way of balancing things out, doesn't it.
-
-> did just attack, was at peace, was provoked by player credit, is hostile
-- You had that one coming.
-- You reap what you sow.
-
-### Justify by desperation
-> did just attack, was at peace, was provoked by combative nature, is much weaker, is not hostile
-- Sorry, I had to do something!
-- Sorry, I'm just kind of desperate over here.
-- Sorry, I didn't know what else to do.
-
 ### No good reason
-> caused major damage, was at peace, is stronger, is not hostile
+> invading, caused major damage, was angered by nature, not hostile
+- What can I say, sometimes I just can't help myself.
+- Oops, I guess that was too tempting.
+- Hehe... sorry, I just couldn't resist.
+- You were kind of asking for this one, you know?
+
+> invading, caused major damage, stronger, not hostile
 - Nothing personal, but you were kind of in the way.
 - Sorry, have to look after my own interests.
+- Sorry, but you were kind of a nuisance.
 
-### 4. Comment on a large shifts in relative power
+### 4. Comment on the ongoing fight
 
-#### a) stronger -> weaker (big loss)
+#### Significant twists
 
-> is hostile, was stronger, is weaker
+> fighting, was stronger, weaker
 - Gah, I'm in trouble now.
 - Oh crap, I guess I missed that.
-- Oh no! How did that happen.
+- Oh no! How did this happen!
+- Oh no, I'm in trouble now, aren't I. 
 
-#### b) weaker -> stronger (big gain)
-
-> is hostile, was weaker, is stronger
+> fighting, was weaker, stronger
 - Oh, how the turntables...
 - Not so cocky now, are you?
 - Oh, you're in trouble now, aren't you?
 - Yes! Now we're getting somewhere.
 
-### 5. General comments
-#### hostile + much stronger (gloating)
-> is hostile, is much stronger, is at peace
+#### Motivation to keep fighting
+> fighting, angered by credit, hostile
+- I still have a score to settle with you.
+- I'm not done with you yet.
+- I'm not letting you get away with this.
+
+> fighting, angered by dominance, hostile
+- If we don't stop you now, it will be too late.
+- You must be stopped.
+- You must be stopped before it's too late.
+- Someone needs to put a break on your expansion.
+- I'm not letting you grow any larger!
+- Your greed must be put in check!
+
+> fighting, angered by dominance, not hostile
+- Sorry, but you're still too large for comfort.
+- Sorry, a balance has to be restored.
+
+> fighting, angered by losses, hostile
+- You will pay.
+- My fallen warriors will be avenged!
+- You will regret this.
+
+#### Motivation to STOP fighting
+
+> fighting, not hostile, common enemy 
+- We should stop this fight, we have a bigger problem brewing.
+- Our common foe smiles as we fight. We should stop this.
+- You sure you want to keep fighting ME?
+- You sure I'm still your biggest problem?
+
+> fighting, not hostile, stronger
+- You should stop messing with me while you still can.
+- This is your chance to back down.
+
+> fighting, not hostile, similar strength
+- We don't HAVE to fight this out to the bitter end, you know?
+- I'm getting tired of fighting you.
+- You sure you want to keep going at this?
+- Look, I COULD leave you alone if you do the same.
+- Don't you have better things to do than fight me?
+- Look, I'm willing to move past this if you are.
+- Let's call it even?
+
+> fighting, not hostile, weaker
+- I don't enjoy this fight at all...
+- Any chance you could leave me alone?
+- Any change for a truce?
+- Truce maybe?
+
+### 5. Comment on player dominance
+
+> angered by dominance, not friendly
+- Oh man, this is getting out of hand...
+- Not gonna lie, you are making me nervous...
+- Oh wow, you've grown... a LOT.
+- Damn... you're getting big.
+
+> angered by dominance, friendly
+- Oh god. I mean hi friend!
+- Sure glad to be on your good side, haha. Ha...
+- H-hi?
+- W-we're still good, right?
+- I can still trust you, right?
+
+### 6. Comment on common enemy
+
+> common enemy, neutral
+- It's not me you should worry about.
+- You know who the real enemy is, right?
+- We should be working together if we want to survive.
+
+> common enemy, friendly
+- Let's work together!
+- We should work together!
+- We should team up!
+
+### 7. Idle comments
+
+#### Hostile
+> truce, hostile, much stronger
 - I don't talk to ants.
 - You're pathetic.
 - You're nothing to me.
 - You're not worth my time.
+- Don't waste my time.
 
-> is hostile, is much stronger, is at war, did not suffer major damage
-- Pathetic.
-- Regretting your choices now, don't you?
-- Came to beg for mercy?
-
-> is hostile, is much stronger, is at war
-- It's almost over now.
-- Came to beg for mercy?
-- Can't wait to finally be rid of you.
-
-#### hostile + stronger (bully)
-
-> is hostile, is stronger, is at peace
+> truce, hostile, stronger
 - Mhhh...
 - I'll get to you soon enough.
 - You want to start something? Yeah?
 - Wanna dance?
 
-> is hostile, is stronger, is at war, did not suffer major damage, inflicted major damage
-- Now you're going down.
-- Look, just stop struggling.
-
-> is hostile, is stronger, is at war, suffered major damage, did not inflict major damage
-- Damn, you sure know how to be a nuisance.
-- Goddamnit, could you stop being so annoying?!
-- You sneaky little bugger!
-
-> is hostile, is stronger, is at war
-- You know you're not going to win this.
-- Let the swords do the talking.
-
-#### hostile + similar strength
-
-> is hostile, is similar strength, is at peace
+> truce, hostile, similar strength
 - I have nothing to say to you.
 - I look forward to meeting you in battle.
+- We shall meet in battle soon enough.
+- Wanna dance?
 
-> is hostile, is similar strength, is at war, did not suffer major damage, inflicted major damage
-- Yes! I can win this!
-- Ha! Take that!
-- Onwards to victory!
-
-> is hostile, is similar strength, is at war, suffered major damage, did not inflict major damage
-- Nice move, but it's not over yet.
-
-> is hostile, is similar strength, is at war
-- I have nothing to say to you.
-- Let the swords do the talking.
-- It is on!
-- I will prevail!
-
-#### hostile + weaker (slightly desperate)
-
-> is hostile, is weaker, is at peace
+> truce, hostile, weaker
 - This is not good...
-- Do what you must.
+- Oh man, oh man...
+- Damnit...
 
-> is hostile, is weaker, is at war, suffered major damage
-- Damnit! Damn you!
-- Oh no, this is all wrong.
-- No no no...
+#### Neutral
 
-> is hostile, is weaker, is at war
-- Do your worst.
-- I won't get me without a fight.
+> truce, neutral, much stronger
+- Oh, it's you, how quaint.
+- Oh, it's you again.
+- Oh, it's you.
+- I don't care.
+- You better behave.
+- I'm watching you.
+- Be nice.
 
-#### hostile + much weaker (very desperate)
-
-> is hostile, is much weaker, suffered major damage
-- Finish this already!
-- Do your worst.
-- Sigh... I guess this is it.
-- Maybe I cannot win, but I can still fight!
-
-> is hostile, is much weaker
-- ...
-- I wish someone could make you pay.
-- Yeah I'm screwed, no need to rub it in.
-
-#### neutral + stronger
-
-> is neutral, is stronger, is at peace
+> truce, neutral, stronger
+- Oh, it's you again.
+- Oh, it's you.
+- I'm watching you.
+- I'm keeping my eye on you.
+- Don't even think about it.
 - Don't start any trouble, ok?
+- Trust me, you don't want to mess with me.
+
+> truce, neutral, similar strength
+- Oh, it's you.
 - I'm watching you.
+- I'm keeping my eye on you.
 - Don't even think about it.
+- You don't want to mess with me, trust me.
+- You're not about to start anything, are you?
+- ...
 
-> is neutral, is stronger, is at war
-- You should stop messing with me while you still can.
-- This is your chance to back down.
+> truce, neutral, much weaker
+- Oh no. I mean, hi?
+- D-Don't look at me like that!
+- Please don't.
+- I know my place, ok?
+- You know I'm not worth worrying about.
 
-### neutral + similar strength
-
-> is neutral, is similar strength, is at peace
-- I'm watching you.
-- Don't even think about it.
-
-> is neutral, is similar strength, is at war, did not suffer major damage, did not inflict major damage
-- Let's stop this before it goes too far
-
-> is neutral, is similar strength, is at war
-- All this fighting... for what?
-
-### neutral
-
-> is neutral, is much weaker, is at peace
-- Oh god. I mean hi!
-- D-do we have a problem?
-
-> is neutral, is weaker, is at peace
-- Oh, hi. Nothing to see here.
-- I'm not going to cause trouble if you leave me alone.
-
-> is neutral, is weaker, is at war
-- Let's stop this madness!
-- All this fighting... for what?
+> truce, neutral, weaker
+- Trust me, I'm not worth the trouble.
+- Is there a problem?
+- Should I be worried?
+- I assure you I can still bite if you mess with me.
+- Oh, hi.
+- ...
 
 
-### friendly
-> is friendly, is at peace, is not weaker
+### Friendly
+> truce, friendly, not weaker
+- Hi, hi!
 - Hey there, friend.
 - Hey, what's up?
 - Hi!
 - How's it going?
 - Good to see you.
-- Peace be with you.
+- Howdy!
 
-> is friendly, is at peace, is weaker
-- I'm glad we're friends!
-- Oh, hi there!
-- I'm sure glad we're on the same side!
-- You wouldn't turn against me, would you?
-- I can still trust you, right?
-
-> is friendly, is at peace, is much weaker 
+> truce, friendly, much weaker
 - Oh god. I mean hi friend!
 - Glad to be on your good side, haha. Ha...
 - H-hi?
 - W-we're still good, right?
 - I can still trust you, right?
+- 
+> truce, friendly, weaker
+- Wow, you're doing great! 
+- I'm glad we're friends!
+- I'm sure glad we're on the same side!
+- You wouldn't turn against me, would you?
+- I can still trust you, right?
+
 
 ### ally
-> is ally, is at peace, is stronger
+> truce, ally, stronger
 - Don't worry, I got you covered.
 - I can protect you.
 - I'll keep you safe.
 - You're safe with me.
 
-> is ally, is at peace, is similar strength
+> truce, ally, similar strength
 - We're in this together!
 - Together we can prevail!
 - Let's do this!
 - I got your back!
 - You can count on me!
 
-> is ally, is at peace, is much weaker
+> truce, ally, much weaker
 - Hey, it's just little me, your humble servant!
-- I know it's not much, but I'll do what I can! 
+- I know it's not much, but I'll do what I can to help! 
 
-> is ally, is at peace, is weaker
+> truce, ally, weaker
 - I'm here to help!
 - I'll do my best!
