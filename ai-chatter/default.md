@@ -1,6 +1,44 @@
 konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file type when dropping this into the game*
 
-## 1. When furious, simply throw insults
+## 1. Surrender
+
+> surrendering, hostile
+- Screw this, I give up.
+- Goddamnit, this is hopeless.
+- Damn, what's the point of fighting anymore.
+- This is bloody hopeless.
+- Who am I kidding, I'm done.
+
+> surrendering, not hostile
+- Well, I know when I'm outmatched.
+- Well played, damnit.
+- Sigh... I guess you won.
+- Fine, you win.
+- Fine, I give up.
+
+> surrendering, friendly
+- Well played!
+- Congratulations!
+- I concede.
+
+> surrender declined, much weaker, hostile
+- Fine! I'll go down swinging!
+- Bastard! Come at me then!
+- Damn you!
+- To the death it is.
+- I'll gladly fight this to the bitter end.
+- To the death then!
+- Good, I didn't REALLY want to surrender anyway!
+
+> surrender declined, much weaker, truce, not hostile
+- Hey, thanks for sparing me! You ARE sparing me, right?
+- Wait, why am I still alive?
+- I have no idea what's going on right now...
+- What, am I supposed to be your pet or something now?
+- Very funny...
+- Sigh... Done gloating?
+
+## 2. When furious, simply throw insults
 
 ### When much weaker
 > furious, much weaker, caused major damage, did not suffer major damage
@@ -106,34 +144,6 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - We're past words.
 - I'm done talking to you.
 - I'm done talking.
-
-## 2. Surrender stages
-
-> surrendering, hostile
-- Screw this, I give up.
-- Goddamnit, this is hopeless.
-- Damn, what's the point of fighting anymore.
-- This is bloody hopeless.
-- Who am I kidding, I'm done.
-
-> surrendering, not hostile
-- Well, I know when I'm outmatched.
-- Well played, damnit.
-- Sigh... I guess you won.
-- Fine, you win.
-- Fine, I give up.
-
-> surrendering, friendly
-- Well played!
-- Congratulations!
-
-> declined surrender, much weaker, truce, not hostile
-- Hey, thanks for sparing me! You ARE sparing me, right?
-- Wait, why am I still alive?
-- I have no idea what's going on right now...
-- What, some kind of pet to you now?
-- Very funny...
-- Sigh... Done gloating?
 
 ## 2. React to unprovoked player attacks
 
@@ -398,10 +408,15 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 > angered by dominance, not friendly
 - Oh man, this is getting out of hand...
 - Not gonna lie, you are making me nervous...
-- Oh wow, you've grown... a LOT.
-- Damn... you're getting big.
+- Oh wow, you've grown... A LOT.
+- Damn... You're getting big.
+- Easy there, cowboy.
+- I don't like where this is going...
+- Damn, how did you get so far ahead?
+- Doing quite good for yourself, aren't you?...
 
 > angered by dominance, friendly
+- I'm impressed and a bit worried if I'm honest.
 - Oh god. I mean hi friend!
 - Sure glad to be on your good side, haha. Ha...
 - H-hi?
