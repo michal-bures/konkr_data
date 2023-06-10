@@ -145,6 +145,21 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - I'm done talking to you.
 - I'm done talking.
 
+## 1.1 React to things going horribly wrong
+> fighting, was not weaker, much weaker
+- Oh my, what have I done!
+- Oh no, that was not supposed to happen!
+- Oh no, it was not supposed to be like this at all!
+- Well. That didn't go as planned.
+- Oh no, this is not good at all.
+- Aaand I'm screwed.
+- Well, that didn't work.
+- Well, that went horribly wrong.
+- This was going to work out differently in my head.
+- I made a huge mistake.
+- Gah! I'm screwed!
+- Geez, how did I let this happen?!
+
 ## 2. React to unprovoked player attacks
 
 ## Major damage
@@ -229,6 +244,28 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 
 ## 3. Explain your own unprovoked attacks
 
+### Comment on endgame battle
+
+> invading, was angered by rivalry, not hostile, not weaker
+- I'm sorry, but it's you or me now. And I prefer me.
+- Sorry, but you know this island is not big enough for the two of us.
+- It's time to finish this.
+- Don't take it personally, but I intend to win this one.
+- You and me, now. Let's finish this.
+- It's you and me now, let the better one win.
+
+> invading, was angered by rivalry, not hostile, weaker
+- Can't blame me for trying, right?
+- I'm sorry, but I can't just let you win, can I?
+- I'm sorry, but I want to win this too.
+- I had to try... It's you or me now.
+
+> invading, was angered by rivalry, hostile, not weaker
+- Time to finish this.
+- Let's get this over with.
+- Just you and me now, just how I like it.
+- Time to finish this once and for all.
+
 ### Justify trying to stop the player from dominating
 > invading, was angered by dominance, not hostile, not weaker
 - Nothing personal, but you were getting too powerful for your own good.
@@ -249,11 +286,11 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - You can't be allowed to wield this kind of power.
 - I won't just sit here and watch you crush everyone.
 - Someone had to try to stop your expansion.
-- I will not stand by waiting for the inevitable.
+- I will not just stand by waiting to be crushed.
 - Someone has to put a stop to your reign  before it's too late.
 - You can't be allowed to get away with such unchecked expansion.
 - Somebody has to resist you.
-- It's time to put your ambition in check.
+- It's time to put your ambitions in check.
 - It's time to reign you in a bit.
 - Your greed must be put in check.
 
@@ -296,7 +333,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Surely you can spare a bit of land for me? Please?
 - See I really needed that bit of land. Don't be mad!
 - Sorry about that, just really needed that land.
-- I'll just grab thtiny piece of land over here... there we go, now I'm good!
+- I'll just grab this tiny piece of land over here... there we go, now I'm good!
 
 > invading, caused minor damage, similar strength, neutral
 - Hey, nothing personal, just needed that land.
@@ -315,17 +352,22 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - I can have a bit more land, right my friend?
 
 > invading, caused minor damage, weaker, neutral
-- Oh crap you noticed? Look I just need a bit more land, so have mercy?
+- Look I just need a bit more land, so have mercy?
 - Uhh, surely you didn't care about that tiny bit of land?
 - I just needed that land, ok? Please don't be mad.
-- Eh, can you let it slide just thonce?
+- Eh, can you let it slide just this once?
 
 > invading, caused minor damage, weaker, hostile
-- Oh #$@& he noticed.
-- Oh crap, I'm in trouble now, aren't I.
+- I'm in trouble now, aren't I.
 - Come on, you have better things to do.
+- Come on, let this slide for once.
 
 ### No good reason
+> invading, caused major damage, stronger, was friendly
+- I... Don't know what to say.
+- Oh. This is awkward.
+- Oops... I guess I got a bit carried away there.
+
 > invading, caused major damage, was angered by nature, not hostile
 - What can I say, sometimes I just can't help myself.
 - Oops, I guess that was too tempting.
@@ -337,6 +379,8 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Sorry, have to look after my own interests.
 - Sorry, but you were kind of a nuisance.
 
+
+
 ### 4. Comment on the ongoing fight
 
 #### Significant twists
@@ -347,13 +391,40 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Oh no! How did this happen!
 - Oh no, I'm in trouble now, aren't I. 
 
-> fighting, was weaker, stronger
+> was weaker, stronger, hostile
 - Oh, how the turntables...
 - Not so cocky now, are you?
 - Oh, you're in trouble now, aren't you?
 - Yes! Now we're getting somewhere.
 
 #### Motivation to keep fighting
+> fighting, angered by rivalry, hostile, not weaker
+- What is there left to say?
+- Words won't help you here. Time to fight.
+- Less talk, more fight.
+- I'm not letting you win this.
+- This is it, it's you or me now.
+
+> fighting, angered by rivalry, not hostile, stronger 
+- Sorry, but there can be only one king.
+- It's you or me now. And it's gonna be me, isn't it.
+- Sorry, it's time to finish this.
+
+> fighting, angered by rivalry, not hostile, similar strength
+- It's between you and me now. Let the better one prevail.
+- Finally, an honest battle. Let's see who wins.
+- So it's just you and me now, huh? Let's see who's better.
+- This is it, it's you or me now. Good luck.
+- It's you or me now. May the best one win.
+- It's you or me now. Let's see who's better.
+
+> fighting, angered by rivalry, weaker
+- Maybe I can still stop you?
+- What is there left to say?
+- I guess it's just you and me now, great...
+- Damn, how do I win this now?
+- Damnit. I guess all I can do is keep fighting...
+
 > fighting, angered by credit, hostile
 - I still have a score to settle with you.
 - I'm not done with you yet.
@@ -378,17 +449,17 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 
 #### Motivation to STOP fighting
 
-> fighting, not hostile, common enemy 
+> suffered damage, not hostile, common enemy 
 - We should stop this fight, we have a bigger problem brewing.
 - Our common foe smiles as we fight. We should stop this.
 - You sure you want to keep fighting ME?
 - You sure I'm still your biggest problem?
 
-> fighting, not hostile, stronger
+> suffered damage, not hostile, stronger
 - You should stop messing with me while you still can.
 - This is your chance to back down.
 
-> fighting, not hostile, similar strength
+> suffered damage, not hostile, similar strength
 - We don't HAVE to fight this out to the bitter end, you know?
 - I'm getting tired of fighting you.
 - You sure you want to keep going at this?
@@ -397,10 +468,10 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Look, I'm willing to move past this if you are.
 - Let's call it even?
 
-> fighting, not hostile, weaker
+> suffered damage, not hostile, weaker
 - I don't enjoy this fight at all...
 - Any chance you could leave me alone?
-- Any change for a truce?
+- Any chance of a truce?
 - Truce maybe?
 
 ### 5. Comment on player dominance
@@ -423,17 +494,36 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - W-we're still good, right?
 - I can still trust you, right?
 
+### 5. Comment on rivalry
+
+> truce, angered by rivalry, not hostile, not weaker
+- You're kind of undermining my authority here.
+- Looks like we have a problem here.
+- This island isn't large enough for the two of us, is it?
+- Ready to finish this?
+- Shall we get this over with?
+- Time for a final showdown?
+
 ### 6. Comment on common enemy
 
-> common enemy, neutral
+> truce, common enemy, neutral
 - It's not me you should worry about.
 - You know who the real enemy is, right?
 - We should be working together if we want to survive.
 
-> common enemy, friendly
+> truce, common enemy, friendly, weaker
+- I can help!
+- I can help you turn this around!
+- Let's team up!
+- I'm on your side!
+- I'm in this with you!
+
+> truce, common enemy, friendly
 - Let's work together!
 - We should work together!
 - We should team up!
+
+
 
 ### 7. Idle comments
 
@@ -508,6 +598,13 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 
 
 ### Friendly
+> truce, friendly, stronger
+- Hey there little fella.
+- Hey there, buddy.
+- Oh, what a quaint little kingdom you have!
+- Aww, you're cute.
+- You're doing great, little buddy!
+
 > truce, friendly, not weaker
 - Hi, hi!
 - Hey there, friend.
