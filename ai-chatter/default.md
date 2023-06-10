@@ -47,7 +47,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Now THAT was satisfying.
 - Didn't think I can still bite, did you?
 
-> furious, much weaker, was not hostile, suffered major damage, did not cause major damage
+> reaction, furious, much weaker, was not hostile, suffered major damage, did not cause major damage
 - How could you!
 - You bastard!
 - GAH! Should have seen that coming!
@@ -56,7 +56,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Arrrgh!
 - No! I can't believe you've done this!
 
-> furious, much weaker, suffered damage
+> reaction, furious, much weaker, suffered damage
 - @#$%!
 - I HATE you!
 - You... You! 
@@ -92,6 +92,11 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - We both know it's over.
 - Too late to be sorry!
 
+> reaction, furious, stronger, suffered major damage, did not cause major damage
+- Hey, that hurt! I'll get you for that!
+- You'll pay for that!
+- Ow! Insolent little...
+
 > furious, stronger, truce
 - Just you wait...
 - You'll pay for your insolence.
@@ -99,11 +104,6 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Don't worry, I'll get to you soon enough.
 - You're next.
 - Insolent little...
-
-> furious, stronger, suffered major damage, did not cause major damage
-- Hey, that hurt! I'll get you for that!
-- You'll pay for that!
-- Ow! Insolent little...
 
 > furious, stronger, fighting
 - You're going down.
@@ -120,7 +120,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - That's what you get!
 - I'm winning! I'm winning, right?
 
-> furious, suffered major damage, did not cause major damage
+> reaction, furious, suffered major damage, did not cause major damage
 - You'll pay for that!
 - You'll regret that!
 - You'll pay for that soon enough!
@@ -128,6 +128,15 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Damnit!
 - You bastard!
 - No! Damnit!
+
+> reaction, furious, suffered major damage
+- Bastard!
+- Grrr...
+- Gah!
+- No! Damnit!
+- You bastard!
+- Oh no...
+- Not fair!
 
 > furious, truce
 - Just you wait...
@@ -164,7 +173,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 
 ## Major damage
 
-> invaded, suffered major damage, was ally
+> reaction, invaded, suffered major damage, was ally
 - You treacherous bastard!
 - How could you!
 - Should have seen it coming!
@@ -175,26 +184,33 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - I have no words for what you just did.
 - Disgraceful!
 
-> invaded, suffered major damage, was friendly
+> reaction, invaded, suffered major damage, was friendly
 - I knew you couldn't be trusted.
 - So that's how it is.
 - Of course you would do that.
 - I don't know what I expected.
 
-> invaded, suffered major damage, was friendly, had common enemy
+> reaction, invaded, suffered major damage, was friendly, had common enemy
 - Really? You chose to focus on ME?
 - What?! I'm not the one you should be worried about!
 - You're making a mistake here!
 - Wow! You must really want the other guy to win.
 - Wow! How stupid of you.
 
-> invaded, suffered major damage, had common enemy
+> reaction, invaded, suffered major damage, weaker, was weaker, was not hostile, common enemy
+- Pick a fight with someone your own size!
+- I could have helped, you know?
+- Sure, pick on the little guy.
+- How brave of you...
+
+> reaction, invaded, suffered major damage, had common enemy
 - Don't you have bigger problems then me?
 - Why me? Why now?!
 - Wow! You must really want the other guy to win.
 - Wow! How stupid of you.
+- You're making a mistake here!
 
-> invaded, suffered major damage, stronger
+> reaction, invaded, suffered major damage, stronger
 - Ohh! Ok, let's dance!
 - Ha, you're going to regret that!
 - You're going to pay for that!
@@ -202,16 +218,13 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Ok, it is on now!
 - Hohoho, someone is asking for trouble!
 
-> invaded, suffered major damage, similar strength
+> reaction, invaded, suffered major damage, similar strength
 - Bastard!
 - You'll pay for that!
 - Should have seen that coming I suppose...
 
-> invaded, suffered major damage, weaker, was weaker, common enemy
-- Pick a fight with someone your size!
-
 ### Minor damage
-> invaded, suffered minor damage, friendly, stronger
+> reaction, invaded, suffered minor damage, friendly, stronger
 - Careful now...
 - Really? You sure you want to do that?
 - My patience has its limits, you know?
@@ -219,25 +232,25 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Now you're really pushing your luck...
 - Testing my patience, are you?
 
-> invaded, suffered minor damage, friendly
+> reaction, invaded, suffered minor damage, friendly
 - Hey! What was that for?
 - What the hell?
 - What was that?
 - Like, seriously?
 
-> invaded, suffered minor damage, neutral, stronger
+> reaction, invaded, suffered minor damage, neutral, stronger
 - Hey! What do you think you're doing?!
 - I did not allow you to take that!
 - Looking for trouble, huh?
 - You're really pushing it, you know?
 
-> invaded, suffered minor damage, hostile, stronger
+> reaction, invaded, suffered minor damage, hostile, stronger
 - You will regret that. 
 - No, I will not let that slide.
 - You're going to pay for that.
 - Looking for more trouble, huh?
 
-> invaded, suffered minor damage, not friendly
+> reaction, invaded, suffered minor damage, not friendly
 - I knew this was coming...
 - I knew you couldn't be trusted...
 - I knew you were up to no good...
@@ -295,15 +308,62 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Your greed must be put in check.
 
 ### Justify based on past grievances
+> invading, was angered by credit, caused major damage, not hostile, common enemy
+- I know we have bigger problems now, but you had this coming.
+- Just because we have a common enemy doesn't mean I've forgotten what you did.
+- Sorry, common enemy or not, I had a score to settle with you.
+- Oh, You wanted me to help? Should have thought of that before messing with my stuff.
+- Yeah, I might have doomed us there, but damn, it was worth it.
+
+> invading, was angered by credit, not hostile, not weaker
+- I hope you've learned your lesson now.
+- Learned your lesson yet?
+- Ah, sweet justice.
+- Consider that a taste of your own medicine.
+- Ah, sweet retribution.
+- Ah, the sweet taste of vindication.
+
 > invading, was angered by credit, not hostile
 - There, now we're even.
 - You know you deserved that.
 - Life has a way of balancing things out, doesn't it.
+- Justice has been served, my friend.
+- Actions have consequences.
 
 > invading, was angered by credit, hostile
 - You know you had that one coming.
 - You reap what you sow.
 - Don't act surprised now...
+- You deserve that and more.
+
+### Justify based on past retribution
+> invading, was angered by losses, caused major damage, not hostile, common enemy
+- I know we have bigger problems now, but you had this coming.
+- Just because we have a common enemy doesn't mean I've forgotten what you did.
+- Sorry, common enemy or not, I had a score to settle with you.
+- Oh, You wanted me to help? Should have thought of that before messing with my stuff.
+- Yeah, I might have doomed us there, but damn, it was worth it.
+
+> invading, was angered by losses, not hostile, not weaker
+- I hope you've learned your lesson now.
+- Learned your lesson yet?
+- Ah, sweet justice.
+- Consider that a taste of your own medicine.
+- Ah, sweet retribution.
+- Ah, the sweet taste of vindication.
+
+> invading, was angered by losses, not hostile
+- There, now we're even.
+- You know you deserved that.
+- Life has a way of balancing things out, doesn't it.
+- Justice has been served, my friend.
+- Actions have consequences.
+
+> invading, was angered by losses, hostile
+- You know you had that one coming.
+- You reap what you sow.
+- Don't act surprised now...
+- You deserve that and more.
 
 ## Act dismissive about minor transgressions
 #### a) from position of strength
