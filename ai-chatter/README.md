@@ -17,11 +17,11 @@ Now let's dig into it!
 
 ## How does the chatter file work?
 
-It's really quite simple! AI chatter file is just a list of simple **rules**. Each rule tells the game what the AI
+It's really quite simple! AI chatter file is just a glorified [Markdown](https://en.wikipedia.org/wiki/Markdown) file with a list of simple **rules**. Each rule tells the game what the AI
 rivals should say in a particular situation.
 
-* Here's the [default chatter file](./default.md) for example
-* And here it is in [plain text without formatting](https://raw.githubusercontent.com/michal-bures/konkr_data/master/ai-chatter/default.md)  for easy download or copy/paste
+* For example, here's the <a href="./default.md" target="_blank">[default chatter file](./default.md)</a> used by the game. 
+* And here it is in <a href="https://raw.githubusercontent.com/michal-bures/konkr_data/master/ai-chatter/default.md" target="_blank">plain text without formatting</a> for easy download or copy/paste
 
 ### So what exactly is a rule?
 
