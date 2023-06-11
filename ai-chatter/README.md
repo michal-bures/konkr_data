@@ -2,14 +2,14 @@
 
 Hi there, thanks for your interest! Let me de-mystify how the AI chatter file works for you.
 
-Aside of satisfying your curiosity, you can then use this knowledge to:
-- customize the AI chatter to your liking - you can create your own chatter file (You can use the [default](./default.md) one as template or start with something much more simple),
+Aside of satisfying your curiosity, you could then use this knowledge to:
+- Customize the AI chatter to your liking - you can create your own chatter file (You can use the [default](./default.md) one as template or start with something much more simple),
 drop it into the game window on [https://www.konkr.io](www.konkr.io) and the game will import it! 
-- help me improve the default chatter file - whether you spotted some grammar error or just have a cool idea what the AI should say in a particular situation, contributions are welcome!
-- help me localize the AI chatter to another language
-- help me create an alternative AI chatter style - Noble and polite? Sarcastic and snarky? You name it!
+- Help me improve the default chatter file - whether you spotted some grammar error or just have a cool idea for more lines the AI could use in a particular situation, contributions are welcome!
+- Help me localize the AI chatter to another language!
+- Help me create an alternative AI chatter style - Noble and polite? Sarcastic and snarky? You name it!
 
-The ideal way to submit a customized AI chatter for review and possible addition to the game is to fork this repository and create a pull request.
+The ideal way to submit a customized AI chatter for review and possible addition to the game is to [fork this repository](https://github.com/michal-bures/konkr_data/fork) and create a pull request.
 
 But if you're not that familiar with GitHub, you can also just post your chatter file to the [discord server](https://discord.com/invite/C9HucB9arH) or [mail it to me](mailto:dev@konkr.io).
 
@@ -19,6 +19,9 @@ Now let's dig into it!
 
 It's really quite simple! AI chatter file is just a list of simple **rules**. Each rule tells the game what the AI
 rivals should say in a particular situation.
+
+* Here's the [default chatter file](./default.md) for example
+* And here it is in [plain text without formatting](https://raw.githubusercontent.com/michal-bures/konkr_data/master/ai-chatter/default.md)  for easy download or copy/paste
 
 ### So what exactly is a rule?
 
