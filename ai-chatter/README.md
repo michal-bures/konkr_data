@@ -1,6 +1,6 @@
 # Customizing AI chatter
 
-Hi there, thanks for your interest! Let me de-mystify how the AI chatter file works for you.
+Hi there, thanks for your interest! Let's de-mystify how the AI chatter in Konkr works!
 
 Aside of satisfying your curiosity, you could then use this knowledge to:
 - Customize the AI chatter to your liking - you can create your own chatter file (You can use the [default](./default.md) one as template or start with something much more simple),
