@@ -1,5 +1,7 @@
 konkraichatter.v1 *<-- don't remove this line, it's used to indicate the file type when dropping this into the game*
 
+See [README.md](./README.md) for documentation on how you can use and customize this file.
+
 ## 1. Surrender
 
 > surrendering, hostile
@@ -153,22 +155,7 @@ konkraichatter.v1 *<-- don't remove this line, it's used to indicate the file ty
 - I'm done talking to you.
 - I'm done talking.
 
-## 1.1 React to things going horribly wrong
-> fighting, was not weaker, much weaker
-- Oh my, what have I done!
-- Oh no, that was not supposed to happen!
-- Oh no, it was not supposed to be like this at all!
-- Well. That didn't go as planned.
-- Oh no, this is not good at all.
-- Aaand I'm screwed.
-- Well, that didn't work.
-- Well, that went horribly wrong.
-- This was going to work out differently in my head.
-- I made a huge mistake.
-- Gah! I'm screwed!
-- Geez, how did I let this happen?!
-
-## 2. React to unprovoked player attacks
+## 3. React to unprovoked player attacks
 
 ## Major damage
 
@@ -254,7 +241,7 @@ konkraichatter.v1 *<-- don't remove this line, it's used to indicate the file ty
 - I knew you couldn't be trusted...
 - I knew you were up to no good...
 
-## 3. Explain your own unprovoked attacks
+## 4. Explain your own unprovoked attacks
 
 ### Comment on endgame battle
 
@@ -438,11 +425,23 @@ konkraichatter.v1 *<-- don't remove this line, it's used to indicate the file ty
 - Sorry, have to look after my own interests.
 - Sorry, but you were kind of a nuisance.
 
-
-
-### 4. Comment on the ongoing fight
+### 5. Comment on the ongoing fight
 
 #### Significant twists
+
+> fighting, was not weaker, much weaker
+- Oh my, what have I done!
+- Oh no, that was not supposed to happen!
+- Oh no, it was not supposed to be like this at all!
+- Well. That didn't go as planned.
+- Oh no, this is not good at all.
+- Aaand I'm screwed.
+- Well, that didn't work.
+- Well, that went horribly wrong.
+- This was going to work out differently in my head.
+- I made a huge mistake.
+- Gah! I'm screwed!
+- Geez, how did I let this happen?!
 
 > fighting, was stronger, weaker
 - Gah, I'm in trouble now.
@@ -533,7 +532,7 @@ konkraichatter.v1 *<-- don't remove this line, it's used to indicate the file ty
 - Any chance of a truce?
 - Truce maybe?
 
-### 5. Comment on player dominance
+### 6. Comment on player dominance
 
 > angered by dominance, not friendly
 - Oh man, this is getting out of hand...
@@ -553,7 +552,7 @@ konkraichatter.v1 *<-- don't remove this line, it's used to indicate the file ty
 - W-we're still good, right?
 - I can still trust you, right?
 
-### 5. Comment on rivalry
+### 7. Comment on rivalry
 
 > truce, angered by rivalry, not hostile, not weaker
 - You're kind of undermining my authority here.
@@ -563,7 +562,7 @@ konkraichatter.v1 *<-- don't remove this line, it's used to indicate the file ty
 - Shall we get this over with?
 - Time for a final showdown?
 
-### 6. Comment on common enemy
+### 8. Comment on common enemy
 
 > truce, common enemy, neutral
 - It's not me you should worry about.
@@ -582,9 +581,7 @@ konkraichatter.v1 *<-- don't remove this line, it's used to indicate the file ty
 - We should work together!
 - We should team up!
 
-
-
-### 7. Idle comments
+### 9. Idle comments
 
 #### Hostile
 > truce, hostile, much stronger
