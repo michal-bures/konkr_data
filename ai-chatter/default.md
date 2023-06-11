@@ -1,4 +1,4 @@
-konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file type when dropping this into the game*
+konkraichatter.v1 *<-- don't remove this line, it's used to indicate the file type when dropping this into the game*
 
 ## 1. Surrender
 
@@ -9,17 +9,17 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - This is bloody hopeless.
 - Who am I kidding, I'm done.
 
+> surrendering, friendly
+- Well played!
+- Congratulations!
+- I concede.
+
 > surrendering, not hostile
 - Well, I know when I'm outmatched.
 - Well played, damnit.
 - Sigh... I guess you won.
 - Fine, you win.
 - Fine, I give up.
-
-> surrendering, friendly
-- Well played!
-- Congratulations!
-- I concede.
 
 > surrender declined, much weaker, hostile
 - Fine! I'll go down swinging!
@@ -47,7 +47,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Now THAT was satisfying.
 - Didn't think I can still bite, did you?
 
-> reaction, furious, much weaker, was not hostile, suffered major damage, did not cause major damage
+> furious, much weaker, was not hostile, suffered major damage, did not cause major damage, angry reaction
 - How could you!
 - You bastard!
 - GAH! Should have seen that coming!
@@ -56,7 +56,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Arrrgh!
 - No! I can't believe you've done this!
 
-> reaction, furious, much weaker, suffered damage
+> furious, much weaker, suffered damage, angry reaction
 - @#$%!
 - I HATE you!
 - You... You! 
@@ -92,7 +92,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - We both know it's over.
 - Too late to be sorry!
 
-> reaction, furious, stronger, suffered major damage, did not cause major damage
+> furious, stronger, suffered major damage, did not cause major damage, angry reaction
 - Hey, that hurt! I'll get you for that!
 - You'll pay for that!
 - Ow! Insolent little...
@@ -116,11 +116,10 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 
 ### When slightly weaker or comparable strength
 > furious, caused major damage, did not suffer major damage
-- Take THAT!
-- That's what you get!
+- Take THAT!- That's what you get!
 - I'm winning! I'm winning, right?
 
-> reaction, furious, suffered major damage, did not cause major damage
+> furious, suffered major damage, did not cause major damage, angry reaction
 - You'll pay for that!
 - You'll regret that!
 - You'll pay for that soon enough!
@@ -129,7 +128,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - You bastard!
 - No! Damnit!
 
-> reaction, furious, suffered major damage
+> furious, suffered major damage, angry reaction
 - Bastard!
 - Grrr...
 - Gah!
@@ -173,7 +172,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 
 ## Major damage
 
-> reaction, invaded, suffered major damage, was ally
+> invaded, suffered major damage, was ally, angry reaction
 - You treacherous bastard!
 - How could you!
 - Should have seen it coming!
@@ -184,33 +183,33 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - I have no words for what you just did.
 - Disgraceful!
 
-> reaction, invaded, suffered major damage, was friendly
+> invaded, suffered major damage, was friendly, angry reaction
 - I knew you couldn't be trusted.
 - So that's how it is.
 - Of course you would do that.
 - I don't know what I expected.
 
-> reaction, invaded, suffered major damage, was friendly, had common enemy
+> invaded, suffered major damage, was friendly, had common enemy, angry reaction
 - Really? You chose to focus on ME?
 - What?! I'm not the one you should be worried about!
 - You're making a mistake here!
 - Wow! You must really want the other guy to win.
 - Wow! How stupid of you.
 
-> reaction, invaded, suffered major damage, weaker, was weaker, was not hostile, common enemy
+> invaded, suffered major damage, weaker, was weaker, was not hostile, common enemy, angry reaction
 - Pick a fight with someone your own size!
 - I could have helped, you know?
 - Sure, pick on the little guy.
 - How brave of you...
 
-> reaction, invaded, suffered major damage, had common enemy
+> invaded, suffered major damage, had common enemy, angry reaction
 - Don't you have bigger problems then me?
 - Why me? Why now?!
 - Wow! You must really want the other guy to win.
 - Wow! How stupid of you.
 - You're making a mistake here!
 
-> reaction, invaded, suffered major damage, stronger
+> invaded, suffered major damage, stronger, angry reaction
 - Ohh! Ok, let's dance!
 - Ha, you're going to regret that!
 - You're going to pay for that!
@@ -218,13 +217,13 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Ok, it is on now!
 - Hohoho, someone is asking for trouble!
 
-> reaction, invaded, suffered major damage, similar strength
+> invaded, suffered major damage, similar strength, angry reaction
 - Bastard!
 - You'll pay for that!
 - Should have seen that coming I suppose...
 
 ### Minor damage
-> reaction, invaded, suffered minor damage, friendly, stronger
+> invaded, suffered minor damage, friendly, stronger, angry reaction
 - Careful now...
 - Really? You sure you want to do that?
 - My patience has its limits, you know?
@@ -232,25 +231,25 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Now you're really pushing your luck...
 - Testing my patience, are you?
 
-> reaction, invaded, suffered minor damage, friendly
+> invaded, suffered minor damage, friendly, angry reaction
 - Hey! What was that for?
 - What the hell?
 - What was that?
 - Like, seriously?
 
-> reaction, invaded, suffered minor damage, neutral, stronger
+> invaded, suffered minor damage, neutral, stronger, angry reaction
 - Hey! What do you think you're doing?!
 - I did not allow you to take that!
 - Looking for trouble, huh?
 - You're really pushing it, you know?
 
-> reaction, invaded, suffered minor damage, hostile, stronger
+> invaded, suffered minor damage, hostile, stronger, angry reaction
 - You will regret that. 
 - No, I will not let that slide.
 - You're going to pay for that.
 - Looking for more trouble, huh?
 
-> reaction, invaded, suffered minor damage, not friendly
+> invaded, suffered minor damage, not friendly, angry reaction
 - I knew this was coming...
 - I knew you couldn't be trusted...
 - I knew you were up to no good...
@@ -656,6 +655,27 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - Oh, hi.
 - ...
 
+### ally
+> truce, ally, stronger
+- Don't worry, I got you covered.
+- I can protect you.
+- I'll keep you safe.
+- You're safe with me.
+
+> truce, ally, similar strength
+- We're in this together!
+- Together we can prevail!
+- Let's do this!
+- I got your back!
+- You can count on me!
+
+> truce, ally, much weaker
+- Hey, it's just little me, your humble servant!
+- I know it's not much, but I'll do what I can to help!
+
+> truce, ally, weaker
+- I'm here to help!
+- I'll do my best!
 
 ### Friendly
 > truce, friendly, stronger
@@ -680,7 +700,7 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - H-hi?
 - W-we're still good, right?
 - I can still trust you, right?
-- 
+
 > truce, friendly, weaker
 - Wow, you're doing great! 
 - I'm glad we're friends!
@@ -688,25 +708,18 @@ konkr.aichatter.v1 *<-- don't remove this line, it's used to indicate the file t
 - You wouldn't turn against me, would you?
 - I can still trust you, right?
 
+### Positive reactions
 
-### ally
-> truce, ally, stronger
-- Don't worry, I got you covered.
-- I can protect you.
-- I'll keep you safe.
-- You're safe with me.
+> pleased reaction, friendly
+- Nicely done!
+- Good job!
+- Well done!
+- Wow, nice one!
+- Amazing!
+- Yes!
+- Thank you!
 
-> truce, ally, similar strength
-- We're in this together!
-- Together we can prevail!
-- Let's do this!
-- I got your back!
-- You can count on me!
-
-> truce, ally, much weaker
-- Hey, it's just little me, your humble servant!
-- I know it's not much, but I'll do what I can to help! 
-
-> truce, ally, weaker
-- I'm here to help!
-- I'll do my best!
+> pleased reaction, not friendly
+- Hmm, not bad.
+- Huh, maybe you're not so bad after all.
+- Not bad.
