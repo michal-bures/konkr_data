@@ -2,7 +2,7 @@
 
 Hi there, thanks for your interest! Let's de-mystify how the AI chatter in Konkr works!
 
-Aside of satisfying your curiosity, you could then use this knowledge to:
+Aside of satisfying your curiosity, feel free to use this secret knowledge to:
 - Customize the AI chatter to your liking - you can create your own chatter file (You can use the [default](./default.md) one as template or start with something much more simple),
 drop it into the game window on [https://www.konkr.io](www.konkr.io) and the game will import it! 
 - Help me improve the default chatter file - whether you spotted some grammar error or just have a cool idea for more lines the AI could use in a particular situation, contributions are welcome!
