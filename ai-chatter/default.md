@@ -707,16 +707,28 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 
 ### Positive reactions
 
-> pleased reaction, friendly
+> approving attack, friendly
+- Right on!
+- That's the spirit!
 - Nicely done!
 - Good job!
 - Well done!
 - Wow, nice one!
-- Amazing!
-- Yes!
-- Thank you!
 
-> pleased reaction, not friendly
+> approving attack, not friendly
 - Hmm, not bad.
 - Huh, maybe you're not so bad after all.
 - Not bad.
+
+> approving non-aggression, friendly
+- Wow, thanks!
+- I knew I could trust you.
+- I appreciate that!
+- Thank you!
+- Thanks!
+
+> approving non-aggression, not friendly
+- Wait, what?
+- Huh.
+- Huh, did not expect you to hold back.
+- Huh, I guess you're not so bad after all.

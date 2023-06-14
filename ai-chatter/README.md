@@ -239,7 +239,8 @@ While the most common use of AI chatter is after the player selected a rival pro
 
 These tags do not describe the situation on the map, but rather they describe which trigger caused the AI chatter to be requested.
 
-| Tag                | Meaning                                                                                                                         |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| `angry reaction`   | Rival is reacting to a hostile move by the player. (note this does NOT disqualify the rule from being used in other situations) |
-| `pleased reaction` | Rival is reacting to a friendly move by the player.                                                                             |
+| Tag                        | Meaning                                                                                                                         |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| `angry reaction`           | Rival is reacting to a hostile move by the player. (note this does NOT disqualify the rule from being used in other situations) |
+| `approving attack`         | Rival is reacting postively to an attack move by the player (against a third party).                                            |
+| `approving non-aggression` | Rival is reacting postively to the player choosing not to attack them                                                           |
