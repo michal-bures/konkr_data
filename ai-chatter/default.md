@@ -159,7 +159,17 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 
 ## Major damage
 
-> invaded, suffered major damage, was ally, angry reaction
+> invaded, suffered major damage, was friendly, friendly, not weaker, angry reaction
+- Ok, maybe just this once, I'll let you get away with this.
+- Uh... I'm sure you had a good reason for this?
+
+> invaded, suffered major damage, was friendly, friendly, angry reaction
+- Wait what?...
+- I don't understand...
+- Um, what is the meaning of this?
+- Eh, what are you doing?...
+
+> invaded, suffered major damage, was ally, not friendly, angry reaction
 - You treacherous bastard!
 - How could you!
 - Should have seen it coming!
@@ -170,7 +180,7 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - I have no words for what you just did.
 - Disgraceful!
 
-> invaded, suffered major damage, was friendly, angry reaction
+> invaded, suffered major damage, was friendly, not friendly, angry reaction
 - I knew you couldn't be trusted.
 - So that's how it is.
 - Of course you would do that.
