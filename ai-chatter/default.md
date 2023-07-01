@@ -368,7 +368,7 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - I needed to take that, I'm sure you understand.
 - Surely you can spare a bit of land for me.
 - Sorry about that, just really needed that land.
-- I'll just grab thtiny piece of land over here... there we go, now I'm good!
+- I'll just grab this tiny piece of land over here... there we go, now I'm good!
 - Don't worry, we're still good, just needed that land over there.
 
 > invading, caused minor damage, stronger, neutral
