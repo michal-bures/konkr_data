@@ -222,7 +222,7 @@ You can also add `was` in front of these tags (for example `was stronger`) to re
 Additional tags that overlap with the ones above are:
 
 * `not weaker` = `similar strength` or `stronger` or `much stronger`
-* `not friendly` = `similar strength` or `weaker` or `much weaker`
+* `not stronger` = `similar strength` or `weaker` or `much weaker`
 
 ### Overall situation
 
