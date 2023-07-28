@@ -10,11 +10,24 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Damn, what's the point of fighting anymore.
 - This is bloody hopeless.
 - Who am I kidding, I'm done.
+- Damn, this is getting too depressing.
+- What's the point of fighting anymore?
+- You've beaten me.
+- Oh well.
+- So be it.
+- I'm defeated.
+- Well, that's that.
+- Give me a break.
+- Fine, you win.
+- Yeah, this is going nowhere.
 
 > surrendering, friendly
 - Well played!
 - Congratulations!
 - I concede.
+- I acknowledge defeat.
+- Very impressive.
+- Well done. 
 
 > surrendering, not hostile
 - Well, I know when I'm outmatched.
@@ -22,6 +35,11 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Sigh... I guess you won.
 - Fine, you win.
 - Fine, I give up.
+- Allright, you got me.
+- I see I was outmatched.
+- Okay, you win.
+- Well, I'm beat.
+- Yeah, this is going nowhere.
 
 > surrender declined, much weaker, hostile
 - Fine! I'll go down swinging!
@@ -31,6 +49,9 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - I'll gladly fight this to the bitter end.
 - To the death then!
 - Good, I didn't REALLY want to surrender anyway!
+- Fine then. Bring it!
+- I'm gonna make you eat your own teeth!
+- Let's get on with it then.
 
 > surrender declined, much weaker, truce, not hostile
 - Hey, thanks for sparing me! You ARE sparing me, right?
@@ -38,7 +59,10 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - I have no idea what's going on right now...
 - What, am I supposed to be your pet or something now?
 - Very funny...
-- Sigh... Done gloating?
+- Sigh... Done gloating? 
+- So uh, what is this, anyway?
+- So now you expect me to do what exactly? 
+- Waiting for me to compliment you or something?
 
 ## 2. When furious, simply throw insults
 
@@ -48,6 +72,8 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Didn't expect that, did you?!
 - Now THAT was satisfying.
 - Didn't think I can still bite, did you?
+- Take that!
+- Hah! That's what you get!  
 
 > furious, much weaker, was not hostile, suffered major damage, did not cause major damage, angry reaction
 - How could you!
@@ -56,15 +82,24 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - @#$%!
 - No. No. NO!
 - Arrrgh!
-- No! I can't believe you've done this!
+- I can't believe you've done this!
+- NOOOOOO!
+- You snake!
+- Oh no!
+- This can't be happening!
+- I can't believe this! 
+- You are impossible!
 
 > furious, much weaker, suffered damage, angry reaction
 - @#$%!
-- I HATE you!
+- I hate you!
 - You... You! 
 - No. No. NO!
 - Arrrgh!
 - You bastard!
+- This is so unfair!
+- Argh!
+- Why you!
 
 > furious, much weaker, fighting
 - Not going down without a fight!
@@ -73,12 +108,19 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Never give up! Never surrender!
 - I'll take you down with me!
 - Maybe I can't win, but I can still bite!
+- I'll never give in!
+- I will not yield!
+- I am not finished yet!
 
 > furious, much weaker, truce
 - Mhhh...
 - Grrr...
 - Screw you.
 - ...
+- Shut up.
+- Here to gloat?
+- Bastard.
+- Foul villain.
 
 ### When stronger
 > furious, much stronger, caused major damage, did not suffer major damage
@@ -87,17 +129,41 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Yes, yes, YES!
 - That's what you get!
 - AHA!
+- Taste my wrath!
+- Your time has come!
+- Now you're done!
+- Yes, I'm unstoppable!
+- Too late for words!
+- You are done for!
+- No amount of begging will save you now.
+- Nowhere left to hide, eh?
+- There is no escape.
+- Your reign ends here.
+- Justice has arrived.
+- This is just too easy.
+- This won't take long.
 
 > furious, much stronger, fighting
 - Came to beg for mercy?
 - Time to say goodbye.
 - We both know it's over.
 - Too late to be sorry!
+- You'll die for this. 
+- I've had enough of you.
+- You're done for.
+- It's time to end this.
 
 > furious, stronger, suffered major damage, did not cause major damage, angry reaction
 - Hey, that hurt! I'll get you for that!
 - You'll pay for that!
 - Ow! Insolent little...
+- Trust me, you're not getting away with this!
+- Ohh now, you've done it!
+- How dare you!
+- This is going to cost you!
+- You picked the wrong fight!
+- This will not go unpunished!
+- For that, I'll make it slow and painful.
 
 > furious, stronger, truce
 - Just you wait...
@@ -106,6 +172,8 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Don't worry, I'll get to you soon enough.
 - You're next.
 - Insolent little...
+- Your time will come.
+- I will have my vengeance eventually. 
 
 > furious, stronger, fighting
 - You're going down.
@@ -115,11 +183,23 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Came to beg for mercy?
 - Too late for words now.
 - We're done talking.
+- You don't scare me.
+- It's time you learnt to fear my name.
 
 ### When slightly weaker or comparable strength
 > furious, caused major damage, did not suffer major damage
-- Take THAT!- That's what you get!
+- Take THAT!
+- That's what you get!
 - I'm winning! I'm winning, right?
+- Yaaaah!
+- Yes, I can do this!
+- AHA! I got this!
+- Hahahaha! Do your worst!
+- Yee haa! 
+- Bring it on! 
+- Yeah, that's right!
+- I'm not scared of you!
+- You think I'm scared of you?
 
 > furious, suffered major damage, did not cause major damage, angry reaction
 - You'll pay for that!
@@ -129,6 +209,9 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Damnit!
 - You bastard!
 - No! Damnit!
+- This is preposterous!
+- You fiend!
+- You'll pay for this, villain!
 
 > furious, suffered major damage, angry reaction
 - Bastard!
@@ -138,6 +221,9 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - You bastard!
 - Oh no...
 - Not fair!
+- Damn you!
+- Damn it all!
+- This can't be!
 
 > furious, truce
 - Just you wait...
@@ -145,6 +231,11 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - You'll pay.
 - You'll pay. You'll PAY!
 - @#$% you!
+- You'll pay in time.
+- My time will come.
+- I'll have my vengeance soon enough.
+- I can be patient.
+- This is not over!
 
 > furious, fighting
 - Shut up.
@@ -154,20 +245,40 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - We're past words.
 - I'm done talking to you.
 - I'm done talking.
-
+- Out of my sight!
+- There's nothing left to be said.
+- I have nothing left to say.
+- We're through talking.
+- Words are cheap.
+- I refuse to say another word to you.
+- Let our armies do the talking.
+ 
 ## 3. React to unprovoked player attacks
 
 ## Major damage
 
 > invaded, suffered major damage, was friendly, friendly, not weaker, angry reaction
-- Ok, maybe just this once, I'll let you get away with this.
+- Fine, maybe just this once, I'll let you get away with this.
 - Uh... I'm sure you had a good reason for this?
+- Eh, I'm sure you had a good reason for this?
+- So what was this supposed to accomplish exactly?
+- What the... Are you done?
+- My patience has its limits, you know?
+- I guess I still owe you one, but don't push it.
+- Oh, I get it. This is your way of saying "hello", isn't it?
+- I'm not mad, just disappointed.
 
 > invaded, suffered major damage, was friendly, friendly, angry reaction
 - Wait what?...
 - I don't understand...
 - Um, what is the meaning of this?
 - Eh, what are you doing?...
+- Wait no! Stop!
+- What are you doing?
+- What's going on here?!
+- Hey, what did I do to deserve this?
+- What? No!
+- Hold on, what is this?!
 
 > invaded, suffered major damage, was ally, not friendly, angry reaction
 - You treacherous bastard!
@@ -179,12 +290,20 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - You... You!
 - I have no words for what you just did.
 - Disgraceful!
+- You just made yourself an enemy.
+- A shameful display.
+- Your dishonor will not be forgotten!
+- You treacherous snake!
+- It's a dog-eat-dog world, isn't it?
+- What an appalling disgrace.
 
 > invaded, suffered major damage, was friendly, not friendly, angry reaction
 - I knew you couldn't be trusted.
 - So that's how it is.
+- You want to play it like that eh?
 - Of course you would do that.
 - I don't know what I expected.
+- This is why we can’t have nice things.
 
 > invaded, suffered major damage, was friendly, had common enemy, angry reaction
 - Really? You chose to focus on ME?
@@ -192,6 +311,7 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - You're making a mistake here!
 - Wow! You must really want the other guy to win.
 - Wow! How stupid of you.
+- This is why we can’t have nice things.
 
 > invaded, suffered major damage, weaker, was weaker, was not hostile, common enemy, angry reaction
 - Pick a fight with someone your own size!
@@ -280,7 +400,7 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Nothing personal, but you were getting too powerful for your own good.
 - Look I'm sorry, but somebody had to clip your wings a bit.
 - Sorry, you were just getting too big for comfort there.
-- Apologies, had to reign you in a little there.
+- Apologies, had to rein you in a little there.
 - Sorry, somebody had to put a stop to your sprawl.
 - Sorry, you were getting a bit too powerful for your own good.
 - Sorry, someone had to put your ambitions in check.
@@ -300,7 +420,7 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - You can't be allowed to get away with such unchecked expansion.
 - Somebody has to resist you.
 - It's time to put your ambitions in check.
-- It's time to reign you in a bit.
+- It's time to rein you in a bit.
 - Your greed must be put in check.
 
 ### Justify based on past grievances
@@ -398,7 +518,7 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 
 > invading, caused minor damage, similar strength, hostile
 - Let's not start a big fight over this, ok?
-- Just look another way for a bit, ok?
+- Just look away for a bit, ok?
 
 #### c) from weaker position
 
@@ -445,12 +565,12 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Oh no, it was not supposed to be like this at all!
 - Well. That didn't go as planned.
 - Oh no, this is not good at all.
-- Aaand I'm screwed.
+- Aaand I'm doomed.
 - Well, that didn't work.
 - Well, that went horribly wrong.
 - This was going to work out differently in my head.
 - I made a huge mistake.
-- Gah! I'm screwed!
+- Gah! I'm doomed!
 - Geez, how did I let this happen?!
 
 > fighting, was stronger, weaker
