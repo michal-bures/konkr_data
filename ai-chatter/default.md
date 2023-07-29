@@ -121,6 +121,7 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Here to gloat?
 - Bastard.
 - Foul villain.
+- Your mother was a hamster and your father smelt of elderberries!
 
 ### When stronger
 > furious, much stronger, caused major damage, did not suffer major damage
@@ -212,6 +213,7 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - This is preposterous!
 - You fiend!
 - You'll pay for this, villain!
+- I'll have revenge!
 
 > furious, suffered major damage, angry reaction
 - Bastard!
@@ -224,6 +226,7 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Damn you!
 - Damn it all!
 - This can't be!
+- How in the...?
 
 > furious, truce
 - Just you wait...
@@ -267,6 +270,8 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - I guess I still owe you one, but don't push it.
 - Oh, I get it. This is your way of saying "hello", isn't it?
 - I'm not mad, just disappointed.
+- You're joking, right?
+- With allies like these, who needs enemies...
 
 > invaded, suffered major damage, was friendly, friendly, angry reaction
 - Wait what?...
@@ -279,6 +284,8 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Hey, what did I do to deserve this?
 - What? No!
 - Hold on, what is this?!
+- Are you kidding me...
+- Can we talk about this?
 
 > invaded, suffered major damage, was ally, not friendly, angry reaction
 - You treacherous bastard!
@@ -291,11 +298,15 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - I have no words for what you just did.
 - Disgraceful!
 - You just made yourself an enemy.
+- It didn't have to be this way. 
 - A shameful display.
 - Your dishonor will not be forgotten!
 - You treacherous snake!
 - It's a dog-eat-dog world, isn't it?
 - What an appalling disgrace.
+- My disappointment is immeasurable and my day is ruined.
+- Unbelievable!
+- Outrageous!
 
 > invaded, suffered major damage, was friendly, not friendly, angry reaction
 - I knew you couldn't be trusted.
@@ -304,6 +315,15 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Of course you would do that.
 - I don't know what I expected.
 - This is why we can’t have nice things.
+- Should have seen it coming!
+- You just made yourself an enemy.
+- Of course, I'm not even surprised.
+- Say hello to my complete lack of surprise.
+- I knew you were trouble.
+- How disappointing.
+- Should have seen that coming.
+- This is going to end badly for you.
+- It didn't have to be this way.
 
 > invaded, suffered major damage, was friendly, had common enemy, angry reaction
 - Really? You chose to focus on ME?
@@ -312,12 +332,24 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Wow! You must really want the other guy to win.
 - Wow! How stupid of you.
 - This is why we can’t have nice things.
+- A very poor choice, a fatal mistake even.
+- Oh. How disappointing.
+- Sigh... This is going to end badly for both of us.
+- Wow. This is really disappointing.
+- Oh, you have got to be kidding me...
 
 > invaded, suffered major damage, weaker, was weaker, was not hostile, common enemy, angry reaction
 - Pick a fight with someone your own size!
 - I could have helped, you know?
 - Sure, pick on the little guy.
 - How brave of you...
+- How very brave of you... 
+- Seriously? You're picking on me?
+- Oh, you have got to be kidding me...
+- You sure I'm the one you want to be fighting right now?
+- Don't you have bigger problems to worry about?
+- You sure I'm the enemy here? 
+- You think I am the enemy here?
 
 > invaded, suffered major damage, had common enemy, angry reaction
 - Don't you have bigger problems then me?
@@ -325,6 +357,10 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Wow! You must really want the other guy to win.
 - Wow! How stupid of you.
 - You're making a mistake here!
+- Oh, you have got to be kidding me...
+- You sure I'm the one you want to be fighting right now?
+- Well that was dumb.
+- Seriously? This is when you choose to attack me?
 
 > invaded, suffered major damage, stronger, angry reaction
 - Ohh! Ok, let's dance!
@@ -333,11 +369,34 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Oh man, you have no idea what you just signed up for.
 - Ok, it is on now!
 - Hohoho, someone is asking for trouble!
+- I am going to make you regret this! 
+- You'll wish you had never done this!
+- Someone is asking for a world of hurt!
+- Someone is going to get a royal beating today.
+- Oh, You want to play it like that? Let's play!
+- Oh wow, tha was a terrible mistake.
+- A fateful mistake.
+- And this is where it all goes wrong for you.
+- How dare you challenge me?
+- You'll pay dearly for that.
+- You know this won't end well for you.
+- How foolish of you to challenge me.
 
 > invaded, suffered major damage, similar strength, angry reaction
 - Bastard!
 - You'll pay for that!
 - Should have seen that coming I suppose...
+- That's the best you can do?
+- Fine, let's dance.
+- Curse you!
+- You're going to regret this. 
+- Alright, you asked for it.
+- You'll pay dearly for that.
+- This won't end well for you.
+- Prepare for your doom!
+- Let the fun begin. 
+- Challenge accepted.
+- So be it.
 
 ### Minor damage
 > invaded, suffered minor damage, friendly, stronger, angry reaction
@@ -347,18 +406,45 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - You're really pushing it, you know?
 - Now you're really pushing your luck...
 - Testing my patience, are you?
+- Sure, be a nuisance, see where that gets you.
+- Last chance to behave. Don't say I didn't warn you.
+- Hey, be nice!
+- You really should stop before things get ugly.
+- You like living dangerously, huh?
+- You sure you want to make me angry?
+- Maybe you should think twice about this.
+- Don't do something you will regret.
+- I hope you realize my benevolence has limits.
+- You sure you want to poke this particular hornets nest?
+- Fancy testing the limits of my patience?
 
 > invaded, suffered minor damage, friendly, angry reaction
 - Hey! What was that for?
 - What the hell?
 - What was that?
 - Like, seriously?
+- Oh, come on...
+- Hey, cut it!
+- Stop that!
+- Hey, I needed that land!
+- Hey, that's not yours!
+- For real?
+- Hey, that's not cool!
+- That's not nice!
 
 > invaded, suffered minor damage, neutral, stronger, angry reaction
 - Hey! What do you think you're doing?!
 - I did not allow you to take that!
 - Looking for trouble, huh?
 - You're really pushing it, you know?
+- Listen here you little...
+- You have a death wish?
+- Why you little...
+- Try that again and see what happens. 
+- Think twice before you try something like that again.
+- Last warning: Back off.
+- Want me to end you?
+- One more stunt like that, and it's over for you.
 
 > invaded, suffered minor damage, hostile, stronger, angry reaction
 - You will regret that. 
