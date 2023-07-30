@@ -1452,11 +1452,32 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Good job!
 - Well done!
 - Wow, nice one!
+- Impressive!
+- Outstanding!
+- Bravo!
+- Great work!
+- Well played!
+- Wonderful!
+- Keep it up!
+- Fantastic!
+- Excellent!
+- Good work!
+- Amazing!
+- That was badass!
+- That was awesome!
+- Hell yeah!
+- That's what I'm talking about!
 
 > approving attack, not friendly
 - Hmm, not bad.
 - Huh, maybe you're not so bad after all.
 - Not bad.
+- Not half bad. Maybe I was wrong about you.
+- Keep it up and I might even like you.
+- Hmph, you're not as useless as I thought.
+- Very well, you've earned my begrudging respect.
+- You're not completely useless, I suppose.
+- Huh, that was kind of impressive.
 
 > approving non-aggression, friendly
 - Wow, thanks!
@@ -1464,9 +1485,17 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - I appreciate that!
 - Thank you!
 - Thanks!
+- You have my gratitude.
+- Thank you for your wise choice!
 
 > approving non-aggression, not friendly
 - Wait, what?
 - Huh.
-- Huh, did not expect you to hold back.
-- Huh, I guess you're not so bad after all.
+- Wow, did not expect you to hold back.
+- Hmm, maybe you're not so bad after all.
+- Huh, didn't think you had it in you.
+- Hm, wasn't expecting that from you.
+- Wait, why are you not attacking?
+- A truce? I'll consider it.
+- Wow, didn't expect you to show restraint.
+- Fine, maybe you're not as bad as I thought.
