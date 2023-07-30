@@ -139,11 +139,11 @@ These tags are mutually exclusive - precisely one of them will be active in any 
 
 During the rivals last turn, how much damage did they inflict to the player?
 
-| Tag                   | Damaged inflicted to the player                        |
-|-----------------------|--------------------------------------------------------|
-| `caused no damage`    | None.                                                  |
-| `caused minor damage` | Insignificant, like a tile or two.                     |
-| `caused major damage` | Significant damage that noticably weakened the player. | 
+| Tag                   | Damaged inflicted to the player                         |
+|-----------------------|---------------------------------------------------------|
+| `caused no damage`    | None.                                                   |
+| `caused minor damage` | Insignificant, like a tile or two.                      |
+| `caused major damage` | Significant damage that noticeably weakened the player. | 
 
 Additional tags that overlap with the ones above are:
 
@@ -211,9 +211,9 @@ What is the rivals current overall power compared to the player?
 | Tag                | Meaning                                                                                     |
 |--------------------|---------------------------------------------------------------------------------------------|
 | `much stronger`    | The player is totally insignificant compared to the rival. Active together with `stronger`. |
-| `stronger`         | The rival is noticably stronger than the player.                                            |
+| `stronger`         | The rival is noticeably stronger than the player.                                           |
 | `similar strength` | There's not a major power difference between the player and the rival.                      |
-| `weaker`           | The rival is noticably weaker than the player.                                              |
+| `weaker`           | The rival is noticeably weaker than the player.                                             |
 | `much weaker`      | The rival is totally insignificant compared to the player. Active together with `weaker`.   |
 
 You can also add `was` in front of these tags (for example `was stronger`) to refer to the balance of power during the *
@@ -235,12 +235,12 @@ Additional tags that overlap with the ones above are:
 
 ### "Trigger context" tags
 
-While the most common use of AI chatter is after the player selected a rival province, there are also other situations where the rival AI may say something proactively to the player.
+While the most common use of AI chatter is after the player selected a rival province, there are other situations where the rival ruler may say something proactively to the player.
 
 These tags do not describe the situation on the map, but rather they describe which trigger caused the AI chatter to be requested.
 
 | Tag                        | Meaning                                                                                                                         |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | `angry reaction`           | Rival is reacting to a hostile move by the player. (note this does NOT disqualify the rule from being used in other situations) |
-| `approving attack`         | Rival is reacting postively to an attack move by the player (against a third party).                                            |
-| `approving non-aggression` | Rival is reacting postively to the player choosing not to attack them                                                           |
+| `approving attack`         | Rival is reacting positively to an attack move by the player (against a third party).                                           |
+| `approving non-aggression` | Rival is reacting positively to the player choosing not to attack them                                                          |
