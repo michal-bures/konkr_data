@@ -50,7 +50,6 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - To the death then!
 - Good, I didn't REALLY want to surrender anyway!
 - Fine then. Bring it!
-- I'm gonna make you eat your own teeth!
 - Let's get on with it then.
 
 > surrender declined, much weaker, truce, not hostile
@@ -224,12 +223,12 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - Gah!
 - No! Damnit!
 - You bastard!
-- Oh no...
 - Not fair!
 - Damn you!
 - Damn it all!
 - This can't be!
 - How in the...?
+- Nooo!
 
 > furious, truce
 - Just you wait...
@@ -251,7 +250,6 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 - We're past words.
 - I'm done talking to you.
 - I'm done talking.
-- Out of my sight!
 - There's nothing left to be said.
 - I have nothing left to say.
 - We're through talking.
