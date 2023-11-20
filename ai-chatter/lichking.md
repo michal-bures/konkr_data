@@ -52,7 +52,7 @@ See [README.md](./README.md) for documentation on how you can use and customize 
 > weaker
 - You underestimate the depths of my determination. 
 - I am unyielding, undying. You cannot destroy what cannot be broken.
-- What is dead my never die.
+- What is dead may never die.
 - You'll never escape the shadow I cast upon your world.
 - You think you can vanquish the master of death? Think again.
 - I will not yield to the likes of you, even in the face of annihilation.
