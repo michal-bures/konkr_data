@@ -1,0 +1,448 @@
+{
+  "metadata": {
+    "levelId": "l-landahoy",
+    "levelName": "Land Ahoy",
+    "generatedAt": "2024-05-24T09:07:45.909Z"
+  },
+  "outcomes": {
+    "left": 20,
+    "lost": 154,
+    "won-hard": 604,
+    "won-normal": 518
+  },
+  "players": 1296,
+  "feedbacks": [
+    {
+      "feedbackMood": 1,
+      "count": "1"
+    },
+    {
+      "feedbackMood": 3,
+      "count": "3"
+    },
+    {
+      "feedbackMood": 4,
+      "count": "5"
+    },
+    {
+      "feedbackMood": 5,
+      "count": "38"
+    }
+  ],
+  "challenge": {
+    "0": 20,
+    "1": 144,
+    "2": 162,
+    "3": 367,
+    "4": 449,
+    "5": 96,
+    "6": 53,
+    "7": 5
+  },
+  "turnsToVictory": {
+    "normal": [
+      {
+        "turns": "1",
+        "players": 2
+      },
+      {
+        "turns": "2",
+        "players": 0
+      },
+      {
+        "turns": "3",
+        "players": 0
+      },
+      {
+        "turns": "4",
+        "players": 0
+      },
+      {
+        "turns": "5",
+        "players": 0
+      },
+      {
+        "turns": "6",
+        "players": 0
+      },
+      {
+        "turns": "7",
+        "players": 0
+      },
+      {
+        "turns": "8",
+        "players": 0
+      },
+      {
+        "turns": "9",
+        "players": 0
+      },
+      {
+        "turns": "10",
+        "players": 0
+      },
+      {
+        "turns": "11",
+        "players": 0
+      },
+      {
+        "turns": "12",
+        "players": 1
+      },
+      {
+        "turns": "13",
+        "players": 1
+      },
+      {
+        "turns": "14",
+        "players": 3
+      },
+      {
+        "turns": "15",
+        "players": 6
+      },
+      {
+        "turns": "16",
+        "players": 10
+      },
+      {
+        "turns": "17",
+        "players": 15
+      },
+      {
+        "turns": "18",
+        "players": 30
+      },
+      {
+        "turns": "19",
+        "players": 28
+      },
+      {
+        "turns": "20",
+        "players": 31
+      },
+      {
+        "turns": "21",
+        "players": 28
+      },
+      {
+        "turns": "22",
+        "players": 28
+      },
+      {
+        "turns": "23",
+        "players": 33
+      },
+      {
+        "turns": "24",
+        "players": 25
+      },
+      {
+        "turns": "25",
+        "players": 33
+      },
+      {
+        "turns": "26",
+        "players": 35
+      },
+      {
+        "turns": "27",
+        "players": 32
+      },
+      {
+        "turns": "28",
+        "players": 27
+      },
+      {
+        "turns": "29",
+        "players": 25
+      },
+      {
+        "turns": "30",
+        "players": 9
+      },
+      {
+        "turns": "31",
+        "players": 18
+      },
+      {
+        "turns": "32",
+        "players": 12
+      },
+      {
+        "turns": "33",
+        "players": 13
+      },
+      {
+        "turns": "34",
+        "players": 12
+      },
+      {
+        "turns": "35",
+        "players": 9
+      },
+      {
+        "turns": "36",
+        "players": 6
+      },
+      {
+        "turns": "37",
+        "players": 3
+      },
+      {
+        "turns": "38",
+        "players": 7
+      },
+      {
+        "turns": "39",
+        "players": 2
+      },
+      {
+        "turns": "40",
+        "players": 3
+      },
+      {
+        "turns": "41",
+        "players": 1
+      },
+      {
+        "turns": "42",
+        "players": 1
+      },
+      {
+        "turns": "43",
+        "players": 2
+      },
+      {
+        "turns": "44",
+        "players": 5
+      },
+      {
+        "turns": "45",
+        "players": 2
+      },
+      {
+        "turns": "46",
+        "players": 3
+      },
+      {
+        "turns": "47",
+        "players": 0
+      },
+      {
+        "turns": "48",
+        "players": 2
+      },
+      {
+        "turns": "49",
+        "players": 1
+      },
+      {
+        "turns": "50+",
+        "players": 1
+      }
+    ],
+    "hard": [
+      {
+        "turns": "1",
+        "players": 3
+      },
+      {
+        "turns": "2",
+        "players": 0
+      },
+      {
+        "turns": "3",
+        "players": 0
+      },
+      {
+        "turns": "4",
+        "players": 0
+      },
+      {
+        "turns": "5",
+        "players": 0
+      },
+      {
+        "turns": "6",
+        "players": 1
+      },
+      {
+        "turns": "7",
+        "players": 0
+      },
+      {
+        "turns": "8",
+        "players": 1
+      },
+      {
+        "turns": "9",
+        "players": 0
+      },
+      {
+        "turns": "10",
+        "players": 0
+      },
+      {
+        "turns": "11",
+        "players": 0
+      },
+      {
+        "turns": "12",
+        "players": 0
+      },
+      {
+        "turns": "13",
+        "players": 0
+      },
+      {
+        "turns": "14",
+        "players": 1
+      },
+      {
+        "turns": "15",
+        "players": 4
+      },
+      {
+        "turns": "16",
+        "players": 7
+      },
+      {
+        "turns": "17",
+        "players": 13
+      },
+      {
+        "turns": "18",
+        "players": 29
+      },
+      {
+        "turns": "19",
+        "players": 26
+      },
+      {
+        "turns": "20",
+        "players": 24
+      },
+      {
+        "turns": "21",
+        "players": 34
+      },
+      {
+        "turns": "22",
+        "players": 59
+      },
+      {
+        "turns": "23",
+        "players": 37
+      },
+      {
+        "turns": "24",
+        "players": 47
+      },
+      {
+        "turns": "25",
+        "players": 32
+      },
+      {
+        "turns": "26",
+        "players": 27
+      },
+      {
+        "turns": "27",
+        "players": 38
+      },
+      {
+        "turns": "28",
+        "players": 36
+      },
+      {
+        "turns": "29",
+        "players": 16
+      },
+      {
+        "turns": "30",
+        "players": 20
+      },
+      {
+        "turns": "31",
+        "players": 18
+      },
+      {
+        "turns": "32",
+        "players": 13
+      },
+      {
+        "turns": "33",
+        "players": 20
+      },
+      {
+        "turns": "34",
+        "players": 12
+      },
+      {
+        "turns": "35",
+        "players": 9
+      },
+      {
+        "turns": "36",
+        "players": 11
+      },
+      {
+        "turns": "37",
+        "players": 6
+      },
+      {
+        "turns": "38",
+        "players": 6
+      },
+      {
+        "turns": "39",
+        "players": 10
+      },
+      {
+        "turns": "40",
+        "players": 1
+      },
+      {
+        "turns": "41",
+        "players": 5
+      },
+      {
+        "turns": "42",
+        "players": 4
+      },
+      {
+        "turns": "43",
+        "players": 4
+      },
+      {
+        "turns": "44",
+        "players": 2
+      },
+      {
+        "turns": "45",
+        "players": 7
+      },
+      {
+        "turns": "46",
+        "players": 1
+      },
+      {
+        "turns": "47",
+        "players": 5
+      },
+      {
+        "turns": "48",
+        "players": 1
+      },
+      {
+        "turns": "49",
+        "players": 1
+      },
+      {
+        "turns": "50+",
+        "players": 2
+      }
+    ]
+  }
+}
