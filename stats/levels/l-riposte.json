@@ -2,22 +2,22 @@
   "metadata": {
     "levelId": "l-riposte",
     "levelName": "Riposte",
-    "generatedAt": "2024-06-09T13:44:15.564Z",
+    "generatedAt": "2024-06-16T08:32:19.452Z",
     "expeditionId": "x-islands-of-pain",
     "expeditionName": "Islands of Pain"
   },
   "outcomes": {
-    "lost": 479,
-    "won-hard": 1004,
-    "won-normal": 1178
+    "lost": 496,
+    "won-hard": 1039,
+    "won-normal": 1221
   },
-  "players": 2661,
+  "players": 2756,
   "feedbacks": {
     "1": 19,
     "2": 17,
     "3": 41,
     "4": 87,
-    "5": 306
+    "5": 308
   },
   "turnsToVictory": {
     "normal": [
@@ -27,31 +27,31 @@
       },
       {
         "turns": 2,
-        "players": 131
+        "players": 134
       },
       {
         "turns": 3,
-        "players": 241
+        "players": 250
       },
       {
         "turns": 4,
-        "players": 152
+        "players": 162
       },
       {
         "turns": 5,
-        "players": 190
+        "players": 199
       },
       {
         "turns": 6,
-        "players": 126
+        "players": 128
       },
       {
         "turns": 7,
-        "players": 99
+        "players": 104
       },
       {
         "turns": 8,
-        "players": 54
+        "players": 55
       },
       {
         "turns": 9,
@@ -59,11 +59,11 @@
       },
       {
         "turns": 10,
-        "players": 40
+        "players": 41
       },
       {
         "turns": 11,
-        "players": 32
+        "players": 33
       },
       {
         "turns": 12,
@@ -83,7 +83,7 @@
       },
       {
         "turns": 16,
-        "players": 6
+        "players": 8
       },
       {
         "turns": 17,
@@ -229,23 +229,23 @@
       },
       {
         "turns": 2,
-        "players": 158
-      },
-      {
-        "turns": 3,
-        "players": 250
-      },
-      {
-        "turns": 4,
         "players": 169
       },
       {
+        "turns": 3,
+        "players": 256
+      },
+      {
+        "turns": 4,
+        "players": 177
+      },
+      {
         "turns": 5,
-        "players": 131
+        "players": 134
       },
       {
         "turns": 6,
-        "players": 86
+        "players": 88
       },
       {
         "turns": 7,
@@ -253,15 +253,15 @@
       },
       {
         "turns": 8,
-        "players": 45
+        "players": 48
       },
       {
         "turns": 9,
-        "players": 28
+        "players": 29
       },
       {
         "turns": 10,
-        "players": 20
+        "players": 21
       },
       {
         "turns": 11,
