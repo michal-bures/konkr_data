@@ -2,23 +2,23 @@
   "metadata": {
     "levelId": "l-dead-islands-arrival",
     "levelName": "Arrival",
-    "generatedAt": "2024-07-07T18:33:56.286Z",
+    "generatedAt": "2024-07-14T16:43:04.944Z",
     "expeditionId": "x-dead-islands",
     "expeditionName": "Dead Islands",
     "fixedAIDifficulty": "normal"
   },
   "outcomes": {
-    "lost": 2305,
-    "won-hard": 38,
-    "won-normal": 6759
+    "lost": 2337,
+    "won-hard": 39,
+    "won-normal": 6918
   },
-  "players": 9102,
+  "players": 9294,
   "feedbacks": {
     "1": 74,
     "2": 62,
     "3": 97,
-    "4": 259,
-    "5": 586
+    "4": 262,
+    "5": 588
   },
   "turnsToVictory": {
     "normal": [
@@ -36,47 +36,47 @@
       },
       {
         "turns": 4,
-        "players": 1021
+        "players": 1039
       },
       {
         "turns": 5,
-        "players": 1627
+        "players": 1664
       },
       {
         "turns": 6,
-        "players": 722
+        "players": 739
       },
       {
         "turns": 7,
-        "players": 621
+        "players": 643
       },
       {
         "turns": 8,
-        "players": 535
+        "players": 551
       },
       {
         "turns": 9,
-        "players": 505
+        "players": 518
       },
       {
         "turns": 10,
-        "players": 373
+        "players": 382
       },
       {
         "turns": 11,
-        "players": 311
+        "players": 318
       },
       {
         "turns": 12,
-        "players": 215
+        "players": 219
       },
       {
         "turns": 13,
-        "players": 166
+        "players": 169
       },
       {
         "turns": 14,
-        "players": 106
+        "players": 109
       },
       {
         "turns": 15,
@@ -84,23 +84,23 @@
       },
       {
         "turns": 16,
-        "players": 62
-      },
-      {
-        "turns": 17,
         "players": 63
       },
       {
+        "turns": 17,
+        "players": 65
+      },
+      {
         "turns": 18,
-        "players": 54
+        "players": 55
       },
       {
         "turns": 19,
-        "players": 48
+        "players": 50
       },
       {
         "turns": 20,
-        "players": 34
+        "players": 35
       },
       {
         "turns": 21,
@@ -108,7 +108,7 @@
       },
       {
         "turns": 22,
-        "players": 16
+        "players": 18
       },
       {
         "turns": 23,
@@ -250,7 +250,7 @@
       },
       {
         "turns": 7,
-        "players": 3
+        "players": 4
       },
       {
         "turns": 8,
