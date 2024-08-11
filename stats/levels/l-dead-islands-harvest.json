@@ -2,23 +2,23 @@
   "metadata": {
     "levelId": "l-dead-islands-harvest",
     "levelName": "Harvest",
-    "generatedAt": "2024-08-04T16:20:13.307Z",
+    "generatedAt": "2024-08-11T15:33:11.900Z",
     "expeditionId": "x-dead-islands",
     "expeditionName": "Dead Islands",
     "fixedAIDifficulty": "normal"
   },
   "outcomes": {
-    "lost": 2162,
+    "lost": 2219,
     "won-hard": 82,
-    "won-normal": 4438
+    "won-normal": 4568
   },
-  "players": 6682,
+  "players": 6869,
   "feedbacks": {
     "1": 45,
     "2": 19,
     "3": 35,
-    "4": 98,
-    "5": 397
+    "4": 99,
+    "5": 399
   },
   "turnsToVictory": {
     "normal": [
@@ -60,7 +60,7 @@
       },
       {
         "turns": 10,
-        "players": 8
+        "players": 10
       },
       {
         "turns": 11,
@@ -68,115 +68,115 @@
       },
       {
         "turns": 12,
-        "players": 187
+        "players": 189
       },
       {
         "turns": 13,
-        "players": 52
+        "players": 54
       },
       {
         "turns": 14,
-        "players": 66
+        "players": 70
       },
       {
         "turns": 15,
-        "players": 109
+        "players": 117
       },
       {
         "turns": 16,
-        "players": 142
+        "players": 144
       },
       {
         "turns": 17,
-        "players": 196
+        "players": 197
       },
       {
         "turns": 18,
-        "players": 199
-      },
-      {
-        "turns": 19,
-        "players": 207
-      },
-      {
-        "turns": 20,
         "players": 205
       },
       {
+        "turns": 19,
+        "players": 211
+      },
+      {
+        "turns": 20,
+        "players": 212
+      },
+      {
         "turns": 21,
-        "players": 213
+        "players": 219
       },
       {
         "turns": 22,
-        "players": 215
+        "players": 220
       },
       {
         "turns": 23,
-        "players": 192
-      },
-      {
-        "turns": 24,
-        "players": 177
-      },
-      {
-        "turns": 25,
         "players": 194
       },
       {
+        "turns": 24,
+        "players": 184
+      },
+      {
+        "turns": 25,
+        "players": 202
+      },
+      {
         "turns": 26,
-        "players": 164
+        "players": 167
       },
       {
         "turns": 27,
-        "players": 132
+        "players": 136
       },
       {
         "turns": 28,
-        "players": 141
+        "players": 148
       },
       {
         "turns": 29,
-        "players": 119
+        "players": 122
       },
       {
         "turns": 30,
-        "players": 112
+        "players": 114
       },
       {
         "turns": 31,
-        "players": 115
+        "players": 118
       },
       {
         "turns": 32,
-        "players": 97
+        "players": 101
       },
       {
         "turns": 33,
-        "players": 86
+        "players": 93
       },
       {
         "turns": 34,
-        "players": 75
+        "players": 78
       },
       {
         "turns": 35,
-        "players": 81
+        "players": 84
       },
       {
         "turns": 36,
-        "players": 69
+        "players": 70
       },
       {
         "turns": 37,
-        "players": 72
+        "players": 74
       },
       {
         "turns": 38,
-        "players": 60
+        "players": 63
       },
       {
         "turns": 39,
-        "players": 54
+        "players": 57
       },
       {
         "turns": 40,
@@ -184,11 +184,11 @@
       },
       {
         "turns": 41,
-        "players": 40
+        "players": 41
       },
       {
         "turns": 42,
-        "players": 33
+        "players": 35
       },
       {
         "turns": 43,
@@ -196,7 +196,7 @@
       },
       {
         "turns": 44,
-        "players": 44
+        "players": 46
       },
       {
         "turns": 45,
@@ -204,11 +204,11 @@
       },
       {
         "turns": 46,
-        "players": 31
+        "players": 32
       },
       {
         "turns": 47,
-        "players": 37
+        "players": 38
       },
       {
         "turns": 48,
