@@ -2,22 +2,22 @@
   "metadata": {
     "levelId": "l-yang",
     "levelName": "Yang",
-    "generatedAt": "2024-09-07T11:12:06.278Z",
+    "generatedAt": "2024-09-15T15:15:43.418Z",
     "expeditionId": "x-old-world",
     "expeditionName": "Old World"
   },
   "outcomes": {
-    "lost": 941,
-    "won-hard": 1912,
-    "won-normal": 4057
+    "lost": 990,
+    "won-hard": 1976,
+    "won-normal": 4218
   },
-  "players": 6910,
+  "players": 7184,
   "feedbacks": {
     "1": 24,
     "2": 18,
     "3": 33,
-    "4": 106,
-    "5": 386
+    "4": 107,
+    "5": 390
   },
   "turnsToVictory": {
     "normal": [
@@ -59,107 +59,107 @@
       },
       {
         "turns": 10,
-        "players": 56
+        "players": 59
       },
       {
         "turns": 11,
-        "players": 91
+        "players": 95
       },
       {
         "turns": 12,
-        "players": 170
+        "players": 173
       },
       {
         "turns": 13,
-        "players": 233
+        "players": 238
       },
       {
         "turns": 14,
-        "players": 248
+        "players": 259
       },
       {
         "turns": 15,
-        "players": 289
-      },
-      {
-        "turns": 16,
-        "players": 294
-      },
-      {
-        "turns": 17,
         "players": 299
       },
       {
+        "turns": 16,
+        "players": 304
+      },
+      {
+        "turns": 17,
+        "players": 309
+      },
+      {
         "turns": 18,
-        "players": 263
+        "players": 277
       },
       {
         "turns": 19,
-        "players": 307
+        "players": 319
       },
       {
         "turns": 20,
-        "players": 219
+        "players": 226
       },
       {
         "turns": 21,
-        "players": 221
+        "players": 232
       },
       {
         "turns": 22,
-        "players": 159
+        "players": 166
       },
       {
         "turns": 23,
-        "players": 161
+        "players": 169
       },
       {
         "turns": 24,
-        "players": 137
+        "players": 141
       },
       {
         "turns": 25,
-        "players": 127
+        "players": 132
       },
       {
         "turns": 26,
-        "players": 84
+        "players": 88
       },
       {
         "turns": 27,
-        "players": 99
+        "players": 104
       },
       {
         "turns": 28,
-        "players": 79
+        "players": 85
       },
       {
         "turns": 29,
-        "players": 81
+        "players": 86
       },
       {
         "turns": 30,
-        "players": 67
+        "players": 71
       },
       {
         "turns": 31,
-        "players": 53
+        "players": 55
       },
       {
         "turns": 32,
-        "players": 40
+        "players": 41
       },
       {
         "turns": 33,
-        "players": 35
+        "players": 37
       },
       {
         "turns": 34,
-        "players": 33
+        "players": 35
       },
       {
         "turns": 35,
-        "players": 23
+        "players": 25
       },
       {
         "turns": 36,
@@ -199,7 +199,7 @@
       },
       {
         "turns": 45,
-        "players": 9
+        "players": 10
       },
       {
         "turns": 46,
@@ -207,7 +207,7 @@
       },
       {
         "turns": 47,
-        "players": 4
+        "players": 5
       },
       {
         "turns": 48,
@@ -219,7 +219,7 @@
       },
       {
         "turns": 50,
-        "players": 2
+        "players": 3
       }
     ],
     "hard": [
@@ -257,43 +257,43 @@
       },
       {
         "turns": 9,
-        "players": 27
+        "players": 29
       },
       {
         "turns": 10,
-        "players": 76
+        "players": 77
       },
       {
         "turns": 11,
-        "players": 79
+        "players": 84
       },
       {
         "turns": 12,
-        "players": 106
+        "players": 113
       },
       {
         "turns": 13,
-        "players": 109
+        "players": 113
       },
       {
         "turns": 14,
-        "players": 109
-      },
-      {
-        "turns": 15,
-        "players": 102
-      },
-      {
-        "turns": 16,
-        "players": 120
-      },
-      {
-        "turns": 17,
         "players": 115
       },
       {
+        "turns": 15,
+        "players": 105
+      },
+      {
+        "turns": 16,
+        "players": 121
+      },
+      {
+        "turns": 17,
+        "players": 119
+      },
+      {
         "turns": 18,
-        "players": 143
+        "players": 147
       },
       {
         "turns": 19,
@@ -301,19 +301,19 @@
       },
       {
         "turns": 20,
-        "players": 103
+        "players": 106
       },
       {
         "turns": 21,
-        "players": 88
+        "players": 91
       },
       {
         "turns": 22,
-        "players": 77
+        "players": 82
       },
       {
         "turns": 23,
-        "players": 59
+        "players": 63
       },
       {
         "turns": 24,
@@ -321,11 +321,11 @@
       },
       {
         "turns": 25,
-        "players": 64
+        "players": 67
       },
       {
         "turns": 26,
-        "players": 54
+        "players": 55
       },
       {
         "turns": 27,
@@ -333,15 +333,15 @@
       },
       {
         "turns": 28,
-        "players": 27
+        "players": 28
       },
       {
         "turns": 29,
-        "players": 33
+        "players": 34
       },
       {
         "turns": 30,
-        "players": 37
+        "players": 38
       },
       {
         "turns": 31,
@@ -349,11 +349,11 @@
       },
       {
         "turns": 32,
-        "players": 30
+        "players": 32
       },
       {
         "turns": 33,
-        "players": 15
+        "players": 16
       },
       {
         "turns": 34,
@@ -365,7 +365,7 @@
       },
       {
         "turns": 36,
-        "players": 5
+        "players": 6
       },
       {
         "turns": 37,
@@ -401,7 +401,7 @@
       },
       {
         "turns": 45,
-        "players": 2
+        "players": 3
       },
       {
         "turns": 46,
