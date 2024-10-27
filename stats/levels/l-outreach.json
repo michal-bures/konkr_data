@@ -2,22 +2,22 @@
   "metadata": {
     "levelId": "l-outreach",
     "levelName": "Outreach",
-    "generatedAt": "2024-10-11T11:47:39.064Z",
+    "generatedAt": "2024-10-27T18:48:16.760Z",
     "expeditionId": "x-old-world",
     "expeditionName": "Old World"
   },
   "outcomes": {
-    "lost": 246,
-    "won-hard": 1690,
-    "won-normal": 2804
+    "lost": 258,
+    "won-hard": 1775,
+    "won-normal": 2980
   },
-  "players": 4740,
+  "players": 5013,
   "feedbacks": {
-    "1": 13,
+    "1": 14,
     "2": 12,
-    "3": 29,
-    "4": 115,
-    "5": 347
+    "3": 30,
+    "4": 119,
+    "5": 349
   },
   "turnsToVictory": {
     "normal": [
@@ -51,7 +51,7 @@
       },
       {
         "turns": 8,
-        "players": 26
+        "players": 28
       },
       {
         "turns": 9,
@@ -59,75 +59,75 @@
       },
       {
         "turns": 10,
-        "players": 84
+        "players": 89
       },
       {
         "turns": 11,
-        "players": 134
+        "players": 140
       },
       {
         "turns": 12,
-        "players": 148
+        "players": 158
       },
       {
         "turns": 13,
-        "players": 202
+        "players": 216
       },
       {
         "turns": 14,
-        "players": 258
+        "players": 275
       },
       {
         "turns": 15,
-        "players": 256
+        "players": 278
       },
       {
         "turns": 16,
-        "players": 243
+        "players": 258
       },
       {
         "turns": 17,
-        "players": 224
+        "players": 239
       },
       {
         "turns": 18,
-        "players": 215
+        "players": 225
       },
       {
         "turns": 19,
-        "players": 180
+        "players": 189
       },
       {
         "turns": 20,
-        "players": 147
+        "players": 153
       },
       {
         "turns": 21,
-        "players": 133
+        "players": 142
       },
       {
         "turns": 22,
-        "players": 103
+        "players": 111
       },
       {
         "turns": 23,
-        "players": 82
+        "players": 88
       },
       {
         "turns": 24,
-        "players": 66
+        "players": 72
       },
       {
         "turns": 25,
-        "players": 43
+        "players": 49
       },
       {
         "turns": 26,
-        "players": 39
+        "players": 40
       },
       {
         "turns": 27,
-        "players": 23
+        "players": 24
       },
       {
         "turns": 28,
@@ -135,11 +135,11 @@
       },
       {
         "turns": 29,
-        "players": 17
+        "players": 16
       },
       {
         "turns": 30,
-        "players": 13
+        "players": 14
       },
       {
         "turns": 31,
@@ -151,11 +151,11 @@
       },
       {
         "turns": 33,
-        "players": 9
+        "players": 10
       },
       {
         "turns": 34,
-        "players": 11
+        "players": 13
       },
       {
         "turns": 35,
@@ -211,7 +211,7 @@
       },
       {
         "turns": 48,
-        "players": 2
+        "players": 3
       },
       {
         "turns": 49,
@@ -253,31 +253,31 @@
       },
       {
         "turns": 8,
-        "players": 23
+        "players": 25
       },
       {
         "turns": 9,
-        "players": 40
+        "players": 43
       },
       {
         "turns": 10,
-        "players": 41
+        "players": 43
       },
       {
         "turns": 11,
-        "players": 48
+        "players": 49
       },
       {
         "turns": 12,
-        "players": 42
+        "players": 47
       },
       {
         "turns": 13,
-        "players": 57
+        "players": 58
       },
       {
         "turns": 14,
-        "players": 48
+        "players": 52
       },
       {
         "turns": 15,
@@ -285,83 +285,83 @@
       },
       {
         "turns": 16,
-        "players": 81
+        "players": 85
       },
       {
         "turns": 17,
-        "players": 67
+        "players": 69
       },
       {
         "turns": 18,
-        "players": 90
+        "players": 93
       },
       {
         "turns": 19,
-        "players": 68
+        "players": 76
       },
       {
         "turns": 20,
-        "players": 96
+        "players": 104
       },
       {
         "turns": 21,
-        "players": 86
+        "players": 89
       },
       {
         "turns": 22,
-        "players": 91
+        "players": 95
       },
       {
         "turns": 23,
-        "players": 78
+        "players": 80
       },
       {
         "turns": 24,
-        "players": 67
+        "players": 72
       },
       {
         "turns": 25,
-        "players": 61
+        "players": 64
       },
       {
         "turns": 26,
-        "players": 59
+        "players": 65
       },
       {
         "turns": 27,
-        "players": 48
+        "players": 49
       },
       {
         "turns": 28,
-        "players": 35
+        "players": 37
       },
       {
         "turns": 29,
-        "players": 50
+        "players": 52
       },
       {
         "turns": 30,
-        "players": 34
+        "players": 35
       },
       {
         "turns": 31,
-        "players": 22
+        "players": 25
       },
       {
         "turns": 32,
-        "players": 27
-      },
-      {
-        "turns": 33,
         "players": 29
       },
       {
+        "turns": 33,
+        "players": 30
+      },
+      {
         "turns": 34,
-        "players": 33
+        "players": 36
       },
       {
         "turns": 35,
-        "players": 22
+        "players": 23
       },
       {
         "turns": 36,
@@ -369,11 +369,11 @@
       },
       {
         "turns": 37,
-        "players": 21
+        "players": 22
       },
       {
         "turns": 38,
-        "players": 12
+        "players": 13
       },
       {
         "turns": 39,
@@ -385,7 +385,7 @@
       },
       {
         "turns": 41,
-        "players": 14
+        "players": 15
       },
       {
         "turns": 42,
@@ -393,11 +393,11 @@
       },
       {
         "turns": 43,
-        "players": 9
+        "players": 8
       },
       {
         "turns": 44,
-        "players": 4
+        "players": 5
       },
       {
         "turns": 45,
