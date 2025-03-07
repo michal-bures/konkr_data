@@ -2,22 +2,22 @@
   "metadata": {
     "levelId": "l-hard-landing",
     "levelName": "Hard landing",
-    "generatedAt": "2025-02-28T17:32:40.362Z",
+    "generatedAt": "2025-03-07T08:07:04.977Z",
     "expeditionId": "x-old-world",
     "expeditionName": "Old World"
   },
   "outcomes": {
     "lost": 403,
-    "won-hard": 2934,
-    "won-normal": 5729
+    "won-hard": 2937,
+    "won-normal": 5740
   },
-  "players": 9066,
+  "players": 9080,
   "feedbacks": {
     "1": 6,
-    "2": 6,
+    "2": 7,
     "3": 33,
     "4": 142,
-    "5": 410
+    "5": 411
   },
   "turnsToVictory": {
     "normal": [
@@ -63,11 +63,11 @@
       },
       {
         "turns": 11,
-        "players": 314
+        "players": 315
       },
       {
         "turns": 12,
-        "players": 439
+        "players": 440
       },
       {
         "turns": 13,
@@ -75,19 +75,19 @@
       },
       {
         "turns": 14,
-        "players": 651
+        "players": 652
       },
       {
         "turns": 15,
-        "players": 572
+        "players": 574
       },
       {
         "turns": 16,
-        "players": 538
+        "players": 540
       },
       {
         "turns": 17,
-        "players": 454
+        "players": 456
       },
       {
         "turns": 18,
@@ -99,7 +99,7 @@
       },
       {
         "turns": 20,
-        "players": 225
+        "players": 226
       },
       {
         "turns": 21,
@@ -131,7 +131,7 @@
       },
       {
         "turns": 28,
-        "players": 43
+        "players": 44
       },
       {
         "turns": 29,
@@ -261,7 +261,7 @@
       },
       {
         "turns": 10,
-        "players": 156
+        "players": 158
       },
       {
         "turns": 11,
@@ -281,7 +281,7 @@
       },
       {
         "turns": 15,
-        "players": 285
+        "players": 286
       },
       {
         "turns": 16,

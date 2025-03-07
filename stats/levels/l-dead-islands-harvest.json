@@ -2,23 +2,23 @@
   "metadata": {
     "levelId": "l-dead-islands-harvest",
     "levelName": "Harvest",
-    "generatedAt": "2025-02-28T17:32:42.099Z",
+    "generatedAt": "2025-03-07T08:07:06.675Z",
     "expeditionId": "x-dead-islands",
     "expeditionName": "Dead Islands",
     "fixedAIDifficulty": "normal"
   },
   "outcomes": {
-    "lost": 3585,
+    "lost": 3583,
     "won-hard": 87,
-    "won-normal": 7758
+    "won-normal": 7767
   },
-  "players": 11430,
+  "players": 11437,
   "feedbacks": {
     "1": 62,
     "2": 29,
     "3": 42,
     "4": 125,
-    "5": 496
+    "5": 498
   },
   "turnsToVictory": {
     "normal": [
@@ -64,7 +64,7 @@
       },
       {
         "turns": 11,
-        "players": 28
+        "players": 29
       },
       {
         "turns": 12,
@@ -92,7 +92,7 @@
       },
       {
         "turns": 18,
-        "players": 344
+        "players": 345
       },
       {
         "turns": 19,
@@ -104,7 +104,7 @@
       },
       {
         "turns": 21,
-        "players": 402
+        "players": 403
       },
       {
         "turns": 22,
@@ -112,7 +112,7 @@
       },
       {
         "turns": 23,
-        "players": 329
+        "players": 330
       },
       {
         "turns": 24,
@@ -128,7 +128,7 @@
       },
       {
         "turns": 27,
-        "players": 238
+        "players": 240
       },
       {
         "turns": 28,
@@ -136,7 +136,7 @@
       },
       {
         "turns": 29,
-        "players": 221
+        "players": 222
       },
       {
         "turns": 30,
@@ -144,7 +144,7 @@
       },
       {
         "turns": 31,
-        "players": 207
+        "players": 208
       },
       {
         "turns": 32,
@@ -168,7 +168,7 @@
       },
       {
         "turns": 37,
-        "players": 120
+        "players": 121
       },
       {
         "turns": 38,
