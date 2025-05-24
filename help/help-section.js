@@ -35,15 +35,21 @@ function createNavigatorHeader() {
     const element = requireElementById('navigator')
     const html = `<nav>
     <a id='back-button' class='nav-button'>
-        <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" fill="none">
-            <path fill="#636b6e" fill-rule="evenodd" clip-rule="evenodd" d="M11.7071 4.29289C12.0976 4.68342 12.0976 5.31658 11.7071 5.70711L6.41421 11H20C20.5523 11 21 11.4477 21 12C21 12.5523 20.5523 13 20 13H6.41421L11.7071 18.2929C12.0976 18.6834 12.0976 19.3166 11.7071 19.7071C11.3166 20.0976 10.6834 20.0976 10.2929 19.7071L3.29289 12.7071C3.10536 12.5196 3 12.2652 3 12C3 11.7348 3.10536 11.4804 3.29289 11.2929L10.2929 4.29289C10.6834 3.90237 11.3166 3.90237 11.7071 4.29289Z"/>
+        <svg width="20px" height="20px" viewBox="0 0 24 24" fill="none">
+            <path fill="#78b1d4" d="M11.7071 4.29289C12.0976 4.68342 12.0976 5.31658 11.7071 5.70711L6.41421 11H20C20.5523 11 21 11.4477 21 12C21 12.5523 20.5523 13 20 13H6.41421L11.7071 18.2929C12.0976 18.6834 12.0976 19.3166 11.7071 19.7071C11.3166 20.0976 10.6834 20.0976 10.2929 19.7071L3.29289 12.7071C3.10536 12.5196 3 12.2652 3 12C3 11.7348 3.10536 11.4804 3.29289 11.2929L10.2929 4.29289C10.6834 3.90237 11.3166 3.90237 11.7071 4.29289Z"/>
         </svg>
     </a>
     <div id='currentPage'>
         <h1 id='currentPageText'></h1>
     </div>
-    <a href='./' class='nav-button'><svg class='svg-icon' width="17" height="17" viewBox="0 0 4.4979 4.4979" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(-97.231 -62.155)" fill="#636b6e"><path d="m97.959 64.03v2.623h1.078v-1.3229h0.81009v1.3229h1.078v-2.623z" stop-color="#000000" stroke-width=".28265" style="-inkscape-stroke:none;paint-order:stroke markers fill"/><path transform="matrix(.32946 0 0 .21753 97.238 61.632)" d="m13.624 14.214c-0.27271 0.47235-13.363 0.47235-13.636 0-0.27271-0.47235 6.2724-11.809 6.8178-11.809s7.0905 11.336 6.8178 11.809z" stop-color="#000000" stroke-width=".26458" style="-inkscape-stroke:none;paint-order:stroke markers fill"/></g></svg></a>
+    <a href='./' class='nav-button'>
+        <svg class='svg-icon' width="17" height="17" viewBox="0 0 4.4979 4.4979" xml:space="preserve">
+            <g transform="translate(-97.231 -62.155)">
+                <path fill="#78b1d4" d="m97.959 64.03v2.623h1.078v-1.3229h0.81009v1.3229h1.078v-2.623z" stroke-width=".28265"/>
+                <path fill="#78b1d4" transform="matrix(.32946 0 0 .21753 97.238 61.632)" d="m13.624 14.214c-0.27271 0.47235-13.363 0.47235-13.636 0-0.27271-0.47235 6.2724-11.809 6.8178-11.809s7.0905 11.336 6.8178 11.809z" stroke-width=".26458"/>
+            </g>
+        </svg>
+    </a>
 </nav>`
     element.innerHTML = html
     return element
