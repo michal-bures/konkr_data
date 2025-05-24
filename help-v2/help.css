@@ -12,10 +12,6 @@ dl, dd, ol, ul, figure {
     box-sizing: border-box;
 }
 
-html {
-    overflow-x: hidden;
-}
-
 /**
  * Basic styling
  */
@@ -27,6 +23,11 @@ html {
     --link-color: #b0e4ff;
     --button-color: #57acd3;
     --main-background-color: #2d7090;
+}
+
+html {
+    overflow-x: hidden;
+    scrollbar-color: var(--widget-background-color) var(--main-background-color);
 }
 
 body {
@@ -106,6 +107,9 @@ a:visited {
 
 #content {
     margin-top: 54px;
+    scrollbar-color: red orange;
+    scrollbar-width: thin;
+
 }
 
 #currentPage {
