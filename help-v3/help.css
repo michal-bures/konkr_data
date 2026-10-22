@@ -1,0 +1,345 @@
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/**
+ * Fonts: the game's text and title faces. In fonts/ when published (export-help.sh), the game's copy in dev
+ */
+@font-face {
+    font-family: 'Jost';
+    font-weight: 400 700;
+    font-display: swap;
+    src: url(fonts/jost-latin.woff2) format('woff2'), url(../../fonts/web/jost-latin.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Jost';
+    font-weight: 400 700;
+    font-display: swap;
+    src: url(fonts/jost-latin-ext.woff2) format('woff2'), url(../../fonts/web/jost-latin-ext.woff2) format('woff2');
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+    font-family: 'Spectral SC';
+    font-display: swap;
+    src: url(fonts/spectral-sc-latin.woff2) format('woff2'), url(../../fonts/web/spectral-sc-latin.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Spectral SC';
+    font-display: swap;
+    src: url(fonts/spectral-sc-latin-ext.woff2) format('woff2'), url(../../fonts/web/spectral-sc-latin-ext.woff2) format('woff2');
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/**
+ * Colors: the game's `panel` surface. These are the default ocean's, the game passes the current ones in the URL
+ * (help-section.js)
+ */
+:root {
+    --background: #2d7190;
+    --card: #286580;
+    --raised: #235870;
+    --sunken: #193f50;
+    --border: #6093aa;
+    --text: #f9f9f9;
+    --text-muted: #7ab9d6;
+    --accent: #e3ecf0;
+    /* the panel's text is always white */
+    --hover: rgba(249, 249, 249, 0.1);
+    --pressed: rgba(249, 249, 249, 0.2);
+
+    /* readable on every panel: they're all dark with light text */
+    --friendly: #64c364;
+    --danger: #ff9a9a;
+    --success: #8fdc7f;
+}
+
+html {
+    overflow-x: hidden;
+    scrollbar-color: var(--raised) var(--background);
+}
+
+body {
+    font-family: Jost, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--text);
+    background-color: var(--background);
+}
+
+b {
+    font-weight: 600;
+}
+
+a {
+    color: var(--accent);
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: var(--border);
+    text-underline-offset: 3px;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration-color: var(--accent);
+}
+
+.friendly {
+    color: var(--friendly);
+}
+
+.danger {
+    color: var(--danger);
+}
+
+.success {
+    color: var(--success);
+}
+
+/**
+ * SVG Icons
+ */
+.svg-icon {
+    display: block;
+    width: 20px;
+    height: 20px;
+    fill: var(--text);
+}
+
+/**
+ * Header and footer
+ */
+#navigator {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+#navigator nav {
+    background: var(--background);
+    border-bottom: 1px solid var(--card);
+    user-select: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+    height: 60px;
+    padding: 0 8px;
+}
+
+.nav-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 44px;
+    height: 44px;
+    padding: 0 12px;
+    border-radius: 8px;
+    color: var(--text);
+    font-weight: 400;
+    text-decoration: none;
+    cursor: pointer;
+    user-select: none;
+}
+
+@media (hover: hover) {
+    .nav-button:hover {
+        background: var(--hover);
+    }
+}
+
+.nav-button:active {
+    background: var(--pressed);
+}
+
+#currentPage {
+    flex-grow: 1;
+    min-width: 0;
+}
+
+#currentPageText {
+    font-family: 'Spectral SC', Georgia, serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.has-navigator #content {
+    margin-top: 60px;
+}
+
+#footer-navigator {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 0 16px 16px 16px;
+}
+
+#footer-navigator .nav-button {
+    border: 1px solid var(--border);
+    font-size: 14px;
+}
+
+#footer-navigator #next {
+    margin-left: auto;
+}
+
+/**
+ * Pages
+ */
+.page {
+    padding: 16px;
+    scroll-margin-top: 60px;
+}
+
+@media (min-width: 392px) {
+    .page {
+        min-width: 392px;
+    }
+}
+
+.page > p,
+.slide-content > p {
+    margin-bottom: 8px;
+}
+
+.page ul {
+    list-style: none;
+    padding-top: 8px;
+}
+
+.page li {
+    position: relative;
+    padding-left: 22px;
+    padding-bottom: 8px;
+}
+
+.page li::before {
+    content: "❖";
+    position: absolute;
+    left: 0;
+    color: var(--text-muted);
+}
+
+.page li ul {
+    padding-top: 8px;
+    padding-bottom: 0;
+}
+
+.page li li:last-child {
+    padding-bottom: 0;
+}
+
+.figure {
+    display: flex;
+    padding-bottom: 8px;
+}
+
+.main-image {
+    width: 100%;
+    margin: auto;
+    max-width: 360px;
+    min-width: 200px;
+    object-fit: contain;
+}
+
+/* board screenshots */
+.main-image.board {
+    border-radius: 16px;
+    border: 1px solid var(--border);
+}
+
+.inline-icon {
+    display: inline-block;
+    vertical-align: middle;
+    max-height: 23px;
+    padding-right: 4px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+/**
+ * Index
+ */
+.widget {
+    padding: 16px 8px 8px 8px;
+    background-color: var(--card);
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+.widget > h1 {
+    font-family: 'Spectral SC', Georgia, serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+    padding: 0 8px 8px 8px;
+}
+
+.page .widget ul {
+    padding-top: 0;
+}
+
+.page .widget li {
+    padding: 0;
+}
+
+.page .widget li::before {
+    content: none;
+}
+
+.widget a {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 0 8px;
+    border-radius: 8px;
+    color: var(--text);
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.widget a::after {
+    content: "›";
+    margin-left: auto;
+    padding-left: 8px;
+    color: var(--text-muted);
+    font-size: 20px;
+}
+
+@media (hover: hover) {
+    .widget a:hover {
+        background: var(--hover);
+    }
+}
+
+.widget a:active {
+    background: var(--pressed);
+}
+
+.widget a[target="_blank"]::after {
+    content: "↗";
+    font-size: 16px;
+}
