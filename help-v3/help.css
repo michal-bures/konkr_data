@@ -339,7 +339,14 @@ a:hover {
     background: var(--pressed);
 }
 
+/* Jost has no ↗, and the fallback fonts' one is much thinner than Jost's › */
 .widget a[target="_blank"]::after {
-    content: "↗";
-    font-size: 16px;
+    content: "";
+    box-sizing: content-box;
+    width: 9px;
+    height: 9px;
+    background-color: var(--text-muted);
+    --arrow: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M2 8 8 2M3.5 2H8V6.5'/%3E%3C/svg%3E");
+    -webkit-mask: var(--arrow) center / contain no-repeat content-box;
+    mask: var(--arrow) center / contain no-repeat content-box;
 }
