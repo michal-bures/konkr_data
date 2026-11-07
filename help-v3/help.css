@@ -133,7 +133,6 @@ a:hover {
 
 #navigator nav {
     background: var(--background);
-    border-bottom: 1px solid var(--card);
     user-select: none;
     display: flex;
     flex-direction: row;
@@ -195,13 +194,18 @@ a:hover {
     padding: 0 16px 16px 16px;
 }
 
+/* a long topic name wraps in a narrow drawer, and the button grows with it */
 #footer-navigator .nav-button {
     border: 1px solid var(--border);
     font-size: 14px;
+    height: auto;
+    min-height: 44px;
+    padding: 6px 12px;
 }
 
 #footer-navigator #next {
     margin-left: auto;
+    text-align: right;
 }
 
 /**
