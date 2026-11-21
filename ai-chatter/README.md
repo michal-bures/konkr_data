@@ -11,7 +11,7 @@ drop it into the game window on [https://www.konkr.io](www.konkr.io) and the gam
 
 The ideal way to submit a customized AI chatter for review and possible addition to the game is to [fork this repository](https://github.com/michal-bures/konkr_data/fork) and create a pull request.
 
-But if you're not that familiar with GitHub, you can also just post your chatter file to the [discord server](https://discord.com/invite/C9HucB9arH) or [mail it to me](mailto:dev@konkr.io).
+But if you're not that familiar with GitHub, you can also just post your chatter file to the [discord server](https://discord.com/invite/C9HucB9arH) or [mail it to me](mailto:mike@konkr.io).
 
 Now let's dig into it!
 
