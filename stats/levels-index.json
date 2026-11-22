@@ -12,11 +12,11 @@
           "avgFeedback": null,
           "positiveFeedbackCount": null,
           "outcomes": {
-            "lost": 279387,
+            "lost": 279775,
             "won-hard": 170,
-            "won-normal": 163769
+            "won-normal": 164071
           },
-          "totalPlayers": 443326
+          "totalPlayers": 444016
         },
         {
           "id": "l-tutorial2",
@@ -26,39 +26,39 @@
           "avgFeedback": 4.53,
           "positiveFeedbackCount": 81,
           "outcomes": {
-            "lost": 14529,
+            "lost": 14555,
             "won-hard": 138,
-            "won-normal": 131543
+            "won-normal": 131780
           },
-          "totalPlayers": 146210
+          "totalPlayers": 146473
         },
         {
           "id": "l-double-trouble",
           "name": "Double trouble",
           "numberInExpedition": 3,
-          "feedbackCount": 11517,
+          "feedbackCount": 11519,
           "avgFeedback": 4.35,
-          "positiveFeedbackCount": 9926,
+          "positiveFeedbackCount": 9928,
           "outcomes": {
-            "lost": 12686,
+            "lost": 12707,
             "won-hard": 17,
-            "won-normal": 98855
+            "won-normal": 99023
           },
-          "totalPlayers": 111558
+          "totalPlayers": 111747
         },
         {
           "id": "l-tutorial3",
           "name": "Reckoning",
           "numberInExpedition": 4,
-          "feedbackCount": 6342,
+          "feedbackCount": 6343,
           "avgFeedback": 4.54,
-          "positiveFeedbackCount": 5764,
+          "positiveFeedbackCount": 5765,
           "outcomes": {
-            "lost": 12237,
+            "lost": 12251,
             "won-hard": 14,
-            "won-normal": 76381
+            "won-normal": 76511
           },
-          "totalPlayers": 88632
+          "totalPlayers": 88776
         }
       ]
     },
@@ -70,71 +70,71 @@
           "id": "l-bottleneck",
           "name": "Bottleneck",
           "numberInExpedition": 1,
-          "feedbackCount": 3380,
+          "feedbackCount": 3381,
           "avgFeedback": 4.51,
-          "positiveFeedbackCount": 3037,
+          "positiveFeedbackCount": 3038,
           "outcomes": {
-            "lost": 7439,
-            "won-hard": 12606,
-            "won-normal": 47264
+            "lost": 7442,
+            "won-hard": 12630,
+            "won-normal": 47333
           },
-          "totalPlayers": 67309
+          "totalPlayers": 67405
         },
         {
           "id": "l-golden-lake",
           "name": "Glittering Lake",
           "numberInExpedition": 2,
-          "feedbackCount": 2687,
+          "feedbackCount": 2688,
           "avgFeedback": 4.54,
-          "positiveFeedbackCount": 2431,
+          "positiveFeedbackCount": 2432,
           "outcomes": {
-            "lost": 13104,
-            "won-hard": 11816,
-            "won-normal": 46850
+            "lost": 13120,
+            "won-hard": 11841,
+            "won-normal": 46930
           },
-          "totalPlayers": 71770
+          "totalPlayers": 71891
         },
         {
           "id": "l-ten-paces",
           "name": "Ten Paces",
           "numberInExpedition": 3,
-          "feedbackCount": 1899,
+          "feedbackCount": 1900,
           "avgFeedback": 4.16,
-          "positiveFeedbackCount": 1467,
+          "positiveFeedbackCount": 1468,
           "outcomes": {
-            "lost": 11555,
-            "won-hard": 11584,
-            "won-normal": 38131
+            "lost": 11566,
+            "won-hard": 11608,
+            "won-normal": 38189
           },
-          "totalPlayers": 61270
+          "totalPlayers": 61363
         },
         {
           "id": "l-heritage",
           "name": "Heritage",
           "numberInExpedition": 4,
-          "feedbackCount": 2729,
+          "feedbackCount": 2730,
           "avgFeedback": 4.38,
-          "positiveFeedbackCount": 2336,
+          "positiveFeedbackCount": 2337,
           "outcomes": {
-            "lost": 12710,
-            "won-hard": 11063,
-            "won-normal": 38890
+            "lost": 12722,
+            "won-hard": 11083,
+            "won-normal": 38963
           },
-          "totalPlayers": 62663
+          "totalPlayers": 62768
         },
         {
           "id": "l-intro2",
           "name": "Unity",
           "numberInExpedition": 5,
-          "feedbackCount": 4207,
+          "feedbackCount": 4208,
           "avgFeedback": 4.46,
-          "positiveFeedbackCount": 3711,
+          "positiveFeedbackCount": 3712,
           "outcomes": {
-            "lost": 12890,
-            "won-hard": 14492,
-            "won-normal": 62247
+            "lost": 12910,
+            "won-hard": 14519,
+            "won-normal": 62349
           },
-          "totalPlayers": 89629
+          "totalPlayers": 89778
         },
         {
           "id": "l-khiro",
@@ -144,11 +144,11 @@
           "avgFeedback": 4.45,
           "positiveFeedbackCount": 1543,
           "outcomes": {
-            "lost": 4118,
-            "won-hard": 8088,
-            "won-normal": 21557
+            "lost": 4121,
+            "won-hard": 8097,
+            "won-normal": 21584
           },
-          "totalPlayers": 33763
+          "totalPlayers": 33802
         },
         {
           "id": "l-rising-sun",
@@ -158,25 +158,25 @@
           "avgFeedback": 4.61,
           "positiveFeedbackCount": 1631,
           "outcomes": {
-            "lost": 3628,
-            "won-hard": 7835,
-            "won-normal": 19504
+            "lost": 3634,
+            "won-hard": 7846,
+            "won-normal": 19531
           },
-          "totalPlayers": 30967
+          "totalPlayers": 31011
         },
         {
           "id": "l-riverlands",
           "name": "Riverlands",
           "numberInExpedition": 8,
-          "feedbackCount": 1703,
+          "feedbackCount": 1704,
           "avgFeedback": 4.56,
-          "positiveFeedbackCount": 1563,
+          "positiveFeedbackCount": 1564,
           "outcomes": {
-            "lost": 4924,
-            "won-hard": 10245,
-            "won-normal": 33350
+            "lost": 4929,
+            "won-hard": 10267,
+            "won-normal": 33403
           },
-          "totalPlayers": 48519
+          "totalPlayers": 48599
         },
         {
           "id": "l-natives",
@@ -186,11 +186,11 @@
           "avgFeedback": 4.54,
           "positiveFeedbackCount": 1469,
           "outcomes": {
-            "lost": 4508,
-            "won-hard": 8053,
-            "won-normal": 21158
+            "lost": 4515,
+            "won-hard": 8062,
+            "won-normal": 21185
           },
-          "totalPlayers": 33719
+          "totalPlayers": 33762
         },
         {
           "id": "l-hinterlands",
@@ -200,25 +200,25 @@
           "avgFeedback": 4.31,
           "positiveFeedbackCount": 1335,
           "outcomes": {
-            "lost": 4236,
-            "won-hard": 7293,
-            "won-normal": 16358
+            "lost": 4242,
+            "won-hard": 7301,
+            "won-normal": 16385
           },
-          "totalPlayers": 27887
+          "totalPlayers": 27928
         },
         {
           "id": "l-crusade",
           "name": "Crusade",
           "numberInExpedition": 11,
-          "feedbackCount": 1910,
-          "avgFeedback": 4.17,
+          "feedbackCount": 1912,
+          "avgFeedback": 4.16,
           "positiveFeedbackCount": 1492,
           "outcomes": {
-            "lost": 10487,
-            "won-hard": 9027,
-            "won-normal": 24826
+            "lost": 10505,
+            "won-hard": 9047,
+            "won-normal": 24861
           },
-          "totalPlayers": 44340
+          "totalPlayers": 44413
         },
         {
           "id": "l-chalki",
@@ -228,11 +228,11 @@
           "avgFeedback": 4.4,
           "positiveFeedbackCount": 1196,
           "outcomes": {
-            "lost": 4617,
-            "won-hard": 7455,
-            "won-normal": 18142
+            "lost": 4623,
+            "won-hard": 7466,
+            "won-normal": 18166
           },
-          "totalPlayers": 30214
+          "totalPlayers": 30255
         },
         {
           "id": "l-bohemia",
@@ -242,11 +242,11 @@
           "avgFeedback": 4.6,
           "positiveFeedbackCount": 1295,
           "outcomes": {
-            "lost": 4100,
-            "won-hard": 8225,
-            "won-normal": 23484
+            "lost": 4109,
+            "won-hard": 8238,
+            "won-normal": 23523
           },
-          "totalPlayers": 35809
+          "totalPlayers": 35870
         },
         {
           "id": "l-breakthrough",
@@ -256,11 +256,11 @@
           "avgFeedback": 4.41,
           "positiveFeedbackCount": 1491,
           "outcomes": {
-            "lost": 3543,
-            "won-hard": 7389,
-            "won-normal": 18057
+            "lost": 3550,
+            "won-hard": 7402,
+            "won-normal": 18087
           },
-          "totalPlayers": 28989
+          "totalPlayers": 29039
         },
         {
           "id": "l-hideouts",
@@ -270,11 +270,11 @@
           "avgFeedback": 4.58,
           "positiveFeedbackCount": 1179,
           "outcomes": {
-            "lost": 3688,
-            "won-hard": 7696,
-            "won-normal": 21528
+            "lost": 3695,
+            "won-hard": 7708,
+            "won-normal": 21562
           },
-          "totalPlayers": 32912
+          "totalPlayers": 32965
         },
         {
           "id": "l-meadows",
@@ -284,11 +284,11 @@
           "avgFeedback": 4.55,
           "positiveFeedbackCount": 1228,
           "outcomes": {
-            "lost": 3704,
-            "won-hard": 7544,
-            "won-normal": 21376
+            "lost": 3713,
+            "won-hard": 7555,
+            "won-normal": 21411
           },
-          "totalPlayers": 32624
+          "totalPlayers": 32679
         },
         {
           "id": "l-midas",
@@ -298,11 +298,11 @@
           "avgFeedback": 4.46,
           "positiveFeedbackCount": 1171,
           "outcomes": {
-            "lost": 5625,
-            "won-hard": 7050,
-            "won-normal": 16577
+            "lost": 5639,
+            "won-hard": 7059,
+            "won-normal": 16599
           },
-          "totalPlayers": 29252
+          "totalPlayers": 29297
         },
         {
           "id": "l-maze",
@@ -312,11 +312,11 @@
           "avgFeedback": 4.28,
           "positiveFeedbackCount": 1087,
           "outcomes": {
-            "lost": 5951,
-            "won-hard": 7003,
-            "won-normal": 17976
+            "lost": 5964,
+            "won-hard": 7010,
+            "won-normal": 18002
           },
-          "totalPlayers": 30930
+          "totalPlayers": 30976
         },
         {
           "id": "l-geryon",
@@ -326,11 +326,11 @@
           "avgFeedback": 4.55,
           "positiveFeedbackCount": 975,
           "outcomes": {
-            "lost": 2658,
-            "won-hard": 6683,
-            "won-normal": 14585
+            "lost": 2663,
+            "won-hard": 6689,
+            "won-normal": 14605
           },
-          "totalPlayers": 23926
+          "totalPlayers": 23957
         },
         {
           "id": "l-soleada",
@@ -340,11 +340,11 @@
           "avgFeedback": 4.5,
           "positiveFeedbackCount": 994,
           "outcomes": {
-            "lost": 1838,
-            "won-hard": 6263,
-            "won-normal": 12823
+            "lost": 1839,
+            "won-hard": 6271,
+            "won-normal": 12834
           },
-          "totalPlayers": 20924
+          "totalPlayers": 20944
         },
         {
           "id": "l-yang",
@@ -355,10 +355,10 @@
           "positiveFeedbackCount": 964,
           "outcomes": {
             "lost": 3469,
-            "won-hard": 6722,
-            "won-normal": 15992
+            "won-hard": 6733,
+            "won-normal": 16016
           },
-          "totalPlayers": 26183
+          "totalPlayers": 26218
         },
         {
           "id": "l-divide-and-konkr",
@@ -368,11 +368,11 @@
           "avgFeedback": 4.36,
           "positiveFeedbackCount": 954,
           "outcomes": {
-            "lost": 3548,
-            "won-hard": 6145,
-            "won-normal": 11913
+            "lost": 3551,
+            "won-hard": 6154,
+            "won-normal": 11926
           },
-          "totalPlayers": 21606
+          "totalPlayers": 21631
         },
         {
           "id": "l-port-royale",
@@ -382,11 +382,11 @@
           "avgFeedback": 4.55,
           "positiveFeedbackCount": 956,
           "outcomes": {
-            "lost": 2932,
-            "won-hard": 6792,
-            "won-normal": 15416
+            "lost": 2929,
+            "won-hard": 6806,
+            "won-normal": 15440
           },
-          "totalPlayers": 25140
+          "totalPlayers": 25175
         },
         {
           "id": "l-rekonkrista",
@@ -397,10 +397,10 @@
           "positiveFeedbackCount": 1047,
           "outcomes": {
             "lost": 1794,
-            "won-hard": 6776,
-            "won-normal": 14689
+            "won-hard": 6786,
+            "won-normal": 14711
           },
-          "totalPlayers": 23259
+          "totalPlayers": 23291
         },
         {
           "id": "l-canyonero",
@@ -410,11 +410,11 @@
           "avgFeedback": 4.67,
           "positiveFeedbackCount": 898,
           "outcomes": {
-            "lost": 865,
-            "won-hard": 6171,
-            "won-normal": 11882
+            "lost": 868,
+            "won-hard": 6185,
+            "won-normal": 11895
           },
-          "totalPlayers": 18918
+          "totalPlayers": 18948
         },
         {
           "id": "l-great-lakes",
@@ -424,11 +424,11 @@
           "avgFeedback": 4.57,
           "positiveFeedbackCount": 905,
           "outcomes": {
-            "lost": 2825,
-            "won-hard": 6316,
-            "won-normal": 14256
+            "lost": 2829,
+            "won-hard": 6326,
+            "won-normal": 14280
           },
-          "totalPlayers": 23397
+          "totalPlayers": 23435
         },
         {
           "id": "l-dansui",
@@ -438,11 +438,11 @@
           "avgFeedback": 4.46,
           "positiveFeedbackCount": 857,
           "outcomes": {
-            "lost": 2575,
-            "won-hard": 5961,
-            "won-normal": 11840
+            "lost": 2579,
+            "won-hard": 5969,
+            "won-normal": 11856
           },
-          "totalPlayers": 20376
+          "totalPlayers": 20404
         },
         {
           "id": "l-tricero",
@@ -452,11 +452,11 @@
           "avgFeedback": 4.31,
           "positiveFeedbackCount": 993,
           "outcomes": {
-            "lost": 5480,
-            "won-hard": 5968,
-            "won-normal": 11735
+            "lost": 5495,
+            "won-hard": 5974,
+            "won-normal": 11746
           },
-          "totalPlayers": 23183
+          "totalPlayers": 23215
         },
         {
           "id": "l-furor",
@@ -466,11 +466,11 @@
           "avgFeedback": 4.61,
           "positiveFeedbackCount": 952,
           "outcomes": {
-            "lost": 1233,
-            "won-hard": 6405,
-            "won-normal": 13963
+            "lost": 1234,
+            "won-hard": 6412,
+            "won-normal": 13986
           },
-          "totalPlayers": 21601
+          "totalPlayers": 21632
         },
         {
           "id": "l-gladius",
@@ -480,11 +480,11 @@
           "avgFeedback": 4.66,
           "positiveFeedbackCount": 1009,
           "outcomes": {
-            "lost": 1140,
-            "won-hard": 5965,
-            "won-normal": 11499
+            "lost": 1145,
+            "won-hard": 5972,
+            "won-normal": 11513
           },
-          "totalPlayers": 18604
+          "totalPlayers": 18630
         },
         {
           "id": "l-orchard",
@@ -494,11 +494,11 @@
           "avgFeedback": 4.53,
           "positiveFeedbackCount": 794,
           "outcomes": {
-            "lost": 1818,
-            "won-hard": 5397,
-            "won-normal": 10012
+            "lost": 1825,
+            "won-hard": 5401,
+            "won-normal": 10027
           },
-          "totalPlayers": 17227
+          "totalPlayers": 17253
         },
         {
           "id": "l-strife",
@@ -508,11 +508,11 @@
           "avgFeedback": 4.61,
           "positiveFeedbackCount": 853,
           "outcomes": {
-            "lost": 1498,
-            "won-hard": 6167,
-            "won-normal": 13167
+            "lost": 1503,
+            "won-hard": 6173,
+            "won-normal": 13188
           },
-          "totalPlayers": 20832
+          "totalPlayers": 20864
         },
         {
           "id": "l-elvenpath",
@@ -523,10 +523,10 @@
           "positiveFeedbackCount": 751,
           "outcomes": {
             "lost": 2561,
-            "won-hard": 5193,
-            "won-normal": 10142
+            "won-hard": 5201,
+            "won-normal": 10153
           },
-          "totalPlayers": 17896
+          "totalPlayers": 17915
         },
         {
           "id": "l-swordclash",
@@ -536,11 +536,11 @@
           "avgFeedback": 4.64,
           "positiveFeedbackCount": 827,
           "outcomes": {
-            "lost": 911,
-            "won-hard": 5890,
-            "won-normal": 11185
+            "lost": 910,
+            "won-hard": 5894,
+            "won-normal": 11202
           },
-          "totalPlayers": 17986
+          "totalPlayers": 18006
         },
         {
           "id": "l-balanguera",
@@ -550,11 +550,11 @@
           "avgFeedback": 4.49,
           "positiveFeedbackCount": 804,
           "outcomes": {
-            "lost": 2267,
-            "won-hard": 7064,
-            "won-normal": 12771
+            "lost": 2271,
+            "won-hard": 7069,
+            "won-normal": 12788
           },
-          "totalPlayers": 22102
+          "totalPlayers": 22128
         },
         {
           "id": "l-wandering-knight",
@@ -564,11 +564,11 @@
           "avgFeedback": 4.5,
           "positiveFeedbackCount": 844,
           "outcomes": {
-            "lost": 757,
-            "won-hard": 5983,
-            "won-normal": 11504
+            "lost": 760,
+            "won-hard": 5987,
+            "won-normal": 11521
           },
-          "totalPlayers": 18244
+          "totalPlayers": 18268
         },
         {
           "id": "l-sherwood",
@@ -578,11 +578,11 @@
           "avgFeedback": 4.47,
           "positiveFeedbackCount": 853,
           "outcomes": {
-            "lost": 2826,
-            "won-hard": 5637,
-            "won-normal": 11597
+            "lost": 2835,
+            "won-hard": 5641,
+            "won-normal": 11612
           },
-          "totalPlayers": 20060
+          "totalPlayers": 20088
         },
         {
           "id": "l-hard-landing",
@@ -592,25 +592,25 @@
           "avgFeedback": 4.59,
           "positiveFeedbackCount": 789,
           "outcomes": {
-            "lost": 1001,
-            "won-hard": 6070,
-            "won-normal": 12470
+            "lost": 1006,
+            "won-hard": 6073,
+            "won-normal": 12483
           },
-          "totalPlayers": 19541
+          "totalPlayers": 19562
         },
         {
           "id": "l-fjords",
           "name": "Fjords",
           "numberInExpedition": 39,
-          "feedbackCount": 796,
+          "feedbackCount": 797,
           "avgFeedback": 4.55,
-          "positiveFeedbackCount": 724,
+          "positiveFeedbackCount": 725,
           "outcomes": {
-            "lost": 945,
-            "won-hard": 5648,
-            "won-normal": 10433
+            "lost": 944,
+            "won-hard": 5657,
+            "won-normal": 10450
           },
-          "totalPlayers": 17026
+          "totalPlayers": 17051
         },
         {
           "id": "l-takiko",
@@ -620,25 +620,25 @@
           "avgFeedback": 4.45,
           "positiveFeedbackCount": 761,
           "outcomes": {
-            "lost": 2202,
-            "won-hard": 5595,
-            "won-normal": 11600
+            "lost": 2199,
+            "won-hard": 5603,
+            "won-normal": 11619
           },
-          "totalPlayers": 19397
+          "totalPlayers": 19421
         },
         {
           "id": "l-ashes",
           "name": "From Ashes",
           "numberInExpedition": 41,
-          "feedbackCount": 886,
+          "feedbackCount": 887,
           "avgFeedback": 4.6,
-          "positiveFeedbackCount": 822,
+          "positiveFeedbackCount": 823,
           "outcomes": {
             "lost": 912,
-            "won-hard": 5523,
-            "won-normal": 10535
+            "won-hard": 5532,
+            "won-normal": 10550
           },
-          "totalPlayers": 16970
+          "totalPlayers": 16994
         },
         {
           "id": "l-winter-is-coming",
@@ -648,25 +648,25 @@
           "avgFeedback": 4.32,
           "positiveFeedbackCount": 833,
           "outcomes": {
-            "lost": 3011,
-            "won-hard": 5251,
-            "won-normal": 9204
+            "lost": 3015,
+            "won-hard": 5253,
+            "won-normal": 9217
           },
-          "totalPlayers": 17466
+          "totalPlayers": 17485
         },
         {
           "id": "l-desert",
           "name": "Desert rush",
           "numberInExpedition": 43,
-          "feedbackCount": 835,
+          "feedbackCount": 836,
           "avgFeedback": 4.49,
-          "positiveFeedbackCount": 736,
+          "positiveFeedbackCount": 737,
           "outcomes": {
-            "lost": 1663,
-            "won-hard": 5534,
-            "won-normal": 10531
+            "lost": 1664,
+            "won-hard": 5540,
+            "won-normal": 10548
           },
-          "totalPlayers": 17728
+          "totalPlayers": 17752
         },
         {
           "id": "l-end-times",
@@ -676,11 +676,11 @@
           "avgFeedback": 4.63,
           "positiveFeedbackCount": 792,
           "outcomes": {
-            "lost": 1035,
-            "won-hard": 5296,
-            "won-normal": 9037
+            "lost": 1033,
+            "won-hard": 5299,
+            "won-normal": 9053
           },
-          "totalPlayers": 15368
+          "totalPlayers": 15385
         },
         {
           "id": "megamap",
@@ -690,25 +690,25 @@
           "avgFeedback": 4.61,
           "positiveFeedbackCount": 835,
           "outcomes": {
-            "lost": 2031,
-            "won-hard": 5189,
-            "won-normal": 10556
+            "lost": 2032,
+            "won-hard": 5193,
+            "won-normal": 10575
           },
-          "totalPlayers": 17776
+          "totalPlayers": 17800
         },
         {
           "id": "l-hourglass",
           "name": "Hourglass",
           "numberInExpedition": 46,
-          "feedbackCount": 954,
+          "feedbackCount": 955,
           "avgFeedback": 4.41,
-          "positiveFeedbackCount": 829,
+          "positiveFeedbackCount": 830,
           "outcomes": {
-            "lost": 2365,
-            "won-hard": 5228,
-            "won-normal": 9476
+            "lost": 2367,
+            "won-hard": 5236,
+            "won-normal": 9498
           },
-          "totalPlayers": 17069
+          "totalPlayers": 17101
         },
         {
           "id": "l-outreach",
@@ -718,11 +718,11 @@
           "avgFeedback": 4.5,
           "positiveFeedbackCount": 760,
           "outcomes": {
-            "lost": 859,
-            "won-hard": 4947,
-            "won-normal": 9207
+            "lost": 856,
+            "won-hard": 4958,
+            "won-normal": 9221
           },
-          "totalPlayers": 15013
+          "totalPlayers": 15035
         },
         {
           "id": "l-entrenchment",
@@ -732,25 +732,25 @@
           "avgFeedback": 4.5,
           "positiveFeedbackCount": 727,
           "outcomes": {
-            "lost": 1341,
-            "won-hard": 5305,
-            "won-normal": 10421
+            "lost": 1340,
+            "won-hard": 5309,
+            "won-normal": 10445
           },
-          "totalPlayers": 17067
+          "totalPlayers": 17094
         },
         {
           "id": "l-unrest",
           "name": "Unrest",
           "numberInExpedition": 49,
-          "feedbackCount": 824,
+          "feedbackCount": 825,
           "avgFeedback": 4.62,
-          "positiveFeedbackCount": 763,
+          "positiveFeedbackCount": 764,
           "outcomes": {
-            "lost": 1592,
-            "won-hard": 4989,
-            "won-normal": 9248
+            "lost": 1594,
+            "won-hard": 4998,
+            "won-normal": 9265
           },
-          "totalPlayers": 15829
+          "totalPlayers": 15857
         },
         {
           "id": "l-fiefdoms",
@@ -760,25 +760,25 @@
           "avgFeedback": 4.58,
           "positiveFeedbackCount": 713,
           "outcomes": {
-            "lost": 941,
-            "won-hard": 5345,
-            "won-normal": 10639
+            "lost": 945,
+            "won-hard": 5350,
+            "won-normal": 10657
           },
-          "totalPlayers": 16925
+          "totalPlayers": 16952
         },
         {
           "id": "l-triage",
           "name": "Triage",
           "numberInExpedition": 51,
-          "feedbackCount": 719,
+          "feedbackCount": 720,
           "avgFeedback": 4.62,
-          "positiveFeedbackCount": 664,
+          "positiveFeedbackCount": 665,
           "outcomes": {
-            "lost": 958,
-            "won-hard": 5097,
-            "won-normal": 9200
+            "lost": 961,
+            "won-hard": 5106,
+            "won-normal": 9217
           },
-          "totalPlayers": 15255
+          "totalPlayers": 15284
         },
         {
           "id": "l-red-river",
@@ -788,11 +788,11 @@
           "avgFeedback": 4.51,
           "positiveFeedbackCount": 659,
           "outcomes": {
-            "lost": 689,
-            "won-hard": 4984,
-            "won-normal": 8912
+            "lost": 688,
+            "won-hard": 4996,
+            "won-normal": 8925
           },
-          "totalPlayers": 14585
+          "totalPlayers": 14609
         },
         {
           "id": "l-spoils-of-war",
@@ -802,25 +802,25 @@
           "avgFeedback": 4.39,
           "positiveFeedbackCount": 640,
           "outcomes": {
-            "lost": 1667,
-            "won-hard": 4857,
-            "won-normal": 8751
+            "lost": 1670,
+            "won-hard": 4865,
+            "won-normal": 8761
           },
-          "totalPlayers": 15275
+          "totalPlayers": 15296
         },
         {
           "id": "l-orissia",
           "name": "Orissia",
           "numberInExpedition": 54,
-          "feedbackCount": 810,
-          "avgFeedback": 4.61,
-          "positiveFeedbackCount": 754,
+          "feedbackCount": 811,
+          "avgFeedback": 4.62,
+          "positiveFeedbackCount": 755,
           "outcomes": {
-            "lost": 1335,
-            "won-hard": 5303,
-            "won-normal": 10228
+            "lost": 1337,
+            "won-hard": 5310,
+            "won-normal": 10245
           },
-          "totalPlayers": 16866
+          "totalPlayers": 16892
         },
         {
           "id": "l-wotje",
@@ -830,11 +830,11 @@
           "avgFeedback": 4.47,
           "positiveFeedbackCount": 646,
           "outcomes": {
-            "lost": 1121,
-            "won-hard": 4894,
-            "won-normal": 8959
+            "lost": 1123,
+            "won-hard": 4903,
+            "won-normal": 8969
           },
-          "totalPlayers": 14974
+          "totalPlayers": 14995
         },
         {
           "id": "l-expansion",
@@ -844,25 +844,25 @@
           "avgFeedback": 4.58,
           "positiveFeedbackCount": 661,
           "outcomes": {
-            "lost": 1128,
-            "won-hard": 4796,
-            "won-normal": 8822
+            "lost": 1131,
+            "won-hard": 4803,
+            "won-normal": 8830
           },
-          "totalPlayers": 14746
+          "totalPlayers": 14764
         },
         {
           "id": "l-enclaves",
           "name": "Enclaves",
           "numberInExpedition": 57,
-          "feedbackCount": 786,
+          "feedbackCount": 787,
           "avgFeedback": 4.48,
-          "positiveFeedbackCount": 694,
+          "positiveFeedbackCount": 695,
           "outcomes": {
-            "lost": 1597,
-            "won-hard": 5082,
-            "won-normal": 10097
+            "lost": 1599,
+            "won-hard": 5087,
+            "won-normal": 10108
           },
-          "totalPlayers": 16776
+          "totalPlayers": 16794
         },
         {
           "id": "l-ride-out",
@@ -872,11 +872,11 @@
           "avgFeedback": 4.49,
           "positiveFeedbackCount": 645,
           "outcomes": {
-            "lost": 852,
-            "won-hard": 4899,
-            "won-normal": 8883
+            "lost": 853,
+            "won-hard": 4908,
+            "won-normal": 8893
           },
-          "totalPlayers": 14634
+          "totalPlayers": 14654
         },
         {
           "id": "l-humbridge",
@@ -886,11 +886,11 @@
           "avgFeedback": 4.42,
           "positiveFeedbackCount": 627,
           "outcomes": {
-            "lost": 1293,
-            "won-hard": 4736,
-            "won-normal": 8283
+            "lost": 1298,
+            "won-hard": 4745,
+            "won-normal": 8292
           },
-          "totalPlayers": 14312
+          "totalPlayers": 14335
         },
         {
           "id": "l-hillfort-v2",
@@ -901,24 +901,24 @@
           "positiveFeedbackCount": 699,
           "outcomes": {
             "lost": 1113,
-            "won-hard": 4853,
-            "won-normal": 9042
+            "won-hard": 4860,
+            "won-normal": 9051
           },
-          "totalPlayers": 15008
+          "totalPlayers": 15024
         },
         {
           "id": "l-pelleas",
           "name": "Pelleas",
           "numberInExpedition": 61,
-          "feedbackCount": 821,
+          "feedbackCount": 822,
           "avgFeedback": 4.57,
-          "positiveFeedbackCount": 754,
+          "positiveFeedbackCount": 755,
           "outcomes": {
-            "lost": 1474,
-            "won-hard": 5055,
-            "won-normal": 9750
+            "lost": 1475,
+            "won-hard": 5061,
+            "won-normal": 9762
           },
-          "totalPlayers": 16279
+          "totalPlayers": 16298
         },
         {
           "id": "l-jotunheim-v2",
@@ -928,11 +928,11 @@
           "avgFeedback": 4.52,
           "positiveFeedbackCount": 706,
           "outcomes": {
-            "lost": 1374,
-            "won-hard": 4961,
-            "won-normal": 9759
+            "lost": 1373,
+            "won-hard": 4967,
+            "won-normal": 9770
           },
-          "totalPlayers": 16094
+          "totalPlayers": 16110
         },
         {
           "id": "l-silkroad",
@@ -942,11 +942,11 @@
           "avgFeedback": 4.61,
           "positiveFeedbackCount": 687,
           "outcomes": {
-            "lost": 1511,
-            "won-hard": 4809,
-            "won-normal": 9007
+            "lost": 1510,
+            "won-hard": 4817,
+            "won-normal": 9018
           },
-          "totalPlayers": 15327
+          "totalPlayers": 15345
         },
         {
           "id": "l-graggle",
@@ -956,11 +956,11 @@
           "avgFeedback": 4.58,
           "positiveFeedbackCount": 709,
           "outcomes": {
-            "lost": 1792,
-            "won-hard": 4828,
-            "won-normal": 8743
+            "lost": 1796,
+            "won-hard": 4833,
+            "won-normal": 8751
           },
-          "totalPlayers": 15363
+          "totalPlayers": 15380
         },
         {
           "id": "l-promised-land",
@@ -970,11 +970,11 @@
           "avgFeedback": 4.55,
           "positiveFeedbackCount": 770,
           "outcomes": {
-            "lost": 2461,
-            "won-hard": 5083,
-            "won-normal": 9252
+            "lost": 2466,
+            "won-hard": 5089,
+            "won-normal": 9261
           },
-          "totalPlayers": 16796
+          "totalPlayers": 16816
         }
       ]
     },
@@ -990,11 +990,11 @@
           "avgFeedback": 4.11,
           "positiveFeedbackCount": 1003,
           "outcomes": {
-            "lost": 13150,
-            "won-hard": 6282,
-            "won-normal": 13133
+            "lost": 13163,
+            "won-hard": 6289,
+            "won-normal": 13152
           },
-          "totalPlayers": 32565
+          "totalPlayers": 32604
         },
         {
           "id": "l-parched-empire",
@@ -1004,11 +1004,11 @@
           "avgFeedback": 4.52,
           "positiveFeedbackCount": 742,
           "outcomes": {
-            "lost": 2240,
-            "won-hard": 5204,
-            "won-normal": 8608
+            "lost": 2244,
+            "won-hard": 5208,
+            "won-normal": 8617
           },
-          "totalPlayers": 16052
+          "totalPlayers": 16069
         },
         {
           "id": "l-resistance",
@@ -1018,11 +1018,11 @@
           "avgFeedback": 4.47,
           "positiveFeedbackCount": 710,
           "outcomes": {
-            "lost": 3448,
-            "won-hard": 5386,
-            "won-normal": 9951
+            "lost": 3455,
+            "won-hard": 5389,
+            "won-normal": 9963
           },
-          "totalPlayers": 18785
+          "totalPlayers": 18807
         },
         {
           "id": "l-sedition",
@@ -1032,11 +1032,11 @@
           "avgFeedback": 4.2,
           "positiveFeedbackCount": 636,
           "outcomes": {
-            "lost": 2935,
-            "won-hard": 4750,
-            "won-normal": 6857
+            "lost": 2937,
+            "won-hard": 4751,
+            "won-normal": 6867
           },
-          "totalPlayers": 14542
+          "totalPlayers": 14555
         },
         {
           "id": "l-uprising2",
@@ -1046,11 +1046,11 @@
           "avgFeedback": 4.5,
           "positiveFeedbackCount": 723,
           "outcomes": {
-            "lost": 2925,
-            "won-hard": 4741,
-            "won-normal": 8595
+            "lost": 2929,
+            "won-hard": 4744,
+            "won-normal": 8605
           },
-          "totalPlayers": 16261
+          "totalPlayers": 16278
         },
         {
           "id": "l-new-world",
@@ -1060,11 +1060,11 @@
           "avgFeedback": 4.42,
           "positiveFeedbackCount": 658,
           "outcomes": {
-            "lost": 3041,
-            "won-hard": 4445,
-            "won-normal": 7119
+            "lost": 3048,
+            "won-hard": 4449,
+            "won-normal": 7125
           },
-          "totalPlayers": 14605
+          "totalPlayers": 14622
         },
         {
           "id": "l-greed",
@@ -1074,11 +1074,11 @@
           "avgFeedback": 4.35,
           "positiveFeedbackCount": 501,
           "outcomes": {
-            "lost": 2861,
-            "won-hard": 4874,
-            "won-normal": 5296
+            "lost": 2863,
+            "won-hard": 4878,
+            "won-normal": 5301
           },
-          "totalPlayers": 13031
+          "totalPlayers": 13042
         },
         {
           "id": "l-riposte",
@@ -1088,11 +1088,11 @@
           "avgFeedback": 4.38,
           "positiveFeedbackCount": 700,
           "outcomes": {
-            "lost": 2125,
-            "won-hard": 4398,
-            "won-normal": 6264
+            "lost": 2126,
+            "won-hard": 4402,
+            "won-normal": 6272
           },
-          "totalPlayers": 12787
+          "totalPlayers": 12800
         },
         {
           "id": "l-orris",
@@ -1102,11 +1102,11 @@
           "avgFeedback": 4.64,
           "positiveFeedbackCount": 529,
           "outcomes": {
-            "lost": 1234,
-            "won-hard": 4642,
-            "won-normal": 6132
+            "lost": 1235,
+            "won-hard": 4645,
+            "won-normal": 6139
           },
-          "totalPlayers": 12008
+          "totalPlayers": 12019
         },
         {
           "id": "l-snail",
@@ -1116,11 +1116,11 @@
           "avgFeedback": 4.31,
           "positiveFeedbackCount": 616,
           "outcomes": {
-            "lost": 2009,
-            "won-hard": 4330,
-            "won-normal": 6554
+            "lost": 2011,
+            "won-hard": 4334,
+            "won-normal": 6562
           },
-          "totalPlayers": 12893
+          "totalPlayers": 12907
         },
         {
           "id": "l-badlands",
@@ -1130,11 +1130,11 @@
           "avgFeedback": 4.61,
           "positiveFeedbackCount": 618,
           "outcomes": {
-            "lost": 1822,
-            "won-hard": 4511,
-            "won-normal": 7515
+            "lost": 1825,
+            "won-hard": 4514,
+            "won-normal": 7525
           },
-          "totalPlayers": 13848
+          "totalPlayers": 13864
         },
         {
           "id": "l-mortis",
@@ -1144,11 +1144,11 @@
           "avgFeedback": 4.4,
           "positiveFeedbackCount": 649,
           "outcomes": {
-            "lost": 1764,
-            "won-hard": 4442,
-            "won-normal": 5844
+            "lost": 1765,
+            "won-hard": 4448,
+            "won-normal": 5854
           },
-          "totalPlayers": 12050
+          "totalPlayers": 12067
         },
         {
           "id": "l-overcrest",
@@ -1158,11 +1158,11 @@
           "avgFeedback": 4.63,
           "positiveFeedbackCount": 616,
           "outcomes": {
-            "lost": 648,
-            "won-hard": 3942,
-            "won-normal": 5894
+            "lost": 647,
+            "won-hard": 3946,
+            "won-normal": 5902
           },
-          "totalPlayers": 10484
+          "totalPlayers": 10495
         },
         {
           "id": "l-strongholds",
@@ -1172,11 +1172,11 @@
           "avgFeedback": 4.3,
           "positiveFeedbackCount": 584,
           "outcomes": {
-            "lost": 2731,
-            "won-hard": 4114,
-            "won-normal": 6821
+            "lost": 2730,
+            "won-hard": 4116,
+            "won-normal": 6827
           },
-          "totalPlayers": 13666
+          "totalPlayers": 13673
         },
         {
           "id": "l-spica",
@@ -1186,11 +1186,11 @@
           "avgFeedback": 4.57,
           "positiveFeedbackCount": 591,
           "outcomes": {
-            "lost": 1346,
-            "won-hard": 4461,
-            "won-normal": 6434
+            "lost": 1348,
+            "won-hard": 4466,
+            "won-normal": 6439
           },
-          "totalPlayers": 12241
+          "totalPlayers": 12253
         },
         {
           "id": "l-thrakia",
@@ -1200,11 +1200,11 @@
           "avgFeedback": 4.47,
           "positiveFeedbackCount": 592,
           "outcomes": {
-            "lost": 1953,
-            "won-hard": 4066,
-            "won-normal": 5169
+            "lost": 1957,
+            "won-hard": 4069,
+            "won-normal": 5176
           },
-          "totalPlayers": 11188
+          "totalPlayers": 11202
         },
         {
           "id": "l-decadence",
@@ -1214,11 +1214,11 @@
           "avgFeedback": 4.46,
           "positiveFeedbackCount": 547,
           "outcomes": {
-            "lost": 1775,
-            "won-hard": 3856,
-            "won-normal": 5521
+            "lost": 1785,
+            "won-hard": 3864,
+            "won-normal": 5529
           },
-          "totalPlayers": 11152
+          "totalPlayers": 11178
         },
         {
           "id": "l-kippi",
@@ -1229,10 +1229,10 @@
           "positiveFeedbackCount": 668,
           "outcomes": {
             "lost": 1627,
-            "won-hard": 3815,
-            "won-normal": 5276
+            "won-hard": 3821,
+            "won-normal": 5283
           },
-          "totalPlayers": 10718
+          "totalPlayers": 10731
         },
         {
           "id": "l-wildfire",
@@ -1242,11 +1242,11 @@
           "avgFeedback": 4.07,
           "positiveFeedbackCount": 561,
           "outcomes": {
-            "lost": 3284,
-            "won-hard": 3482,
-            "won-normal": 4424
+            "lost": 3290,
+            "won-hard": 3489,
+            "won-normal": 4428
           },
-          "totalPlayers": 11190
+          "totalPlayers": 11207
         },
         {
           "id": "l-zanahary",
@@ -1256,11 +1256,11 @@
           "avgFeedback": 4.5,
           "positiveFeedbackCount": 600,
           "outcomes": {
-            "lost": 1768,
-            "won-hard": 3839,
-            "won-normal": 5974
+            "lost": 1769,
+            "won-hard": 3843,
+            "won-normal": 5980
           },
-          "totalPlayers": 11581
+          "totalPlayers": 11592
         },
         {
           "id": "l-salmo",
@@ -1270,11 +1270,11 @@
           "avgFeedback": 4.46,
           "positiveFeedbackCount": 514,
           "outcomes": {
-            "lost": 1021,
-            "won-hard": 3782,
-            "won-normal": 5181
+            "lost": 1023,
+            "won-hard": 3792,
+            "won-normal": 5187
           },
-          "totalPlayers": 9984
+          "totalPlayers": 10002
         },
         {
           "id": "l-romula",
@@ -1284,11 +1284,11 @@
           "avgFeedback": 4.58,
           "positiveFeedbackCount": 567,
           "outcomes": {
-            "lost": 1037,
-            "won-hard": 3780,
-            "won-normal": 5756
+            "lost": 1035,
+            "won-hard": 3784,
+            "won-normal": 5763
           },
-          "totalPlayers": 10573
+          "totalPlayers": 10582
         },
         {
           "id": "l-valor",
@@ -1299,10 +1299,10 @@
           "positiveFeedbackCount": 730,
           "outcomes": {
             "lost": 3008,
-            "won-hard": 3943,
-            "won-normal": 5413
+            "won-hard": 3949,
+            "won-normal": 5420
           },
-          "totalPlayers": 12364
+          "totalPlayers": 12377
         },
         {
           "id": "l-spiral",
@@ -1312,11 +1312,11 @@
           "avgFeedback": 4.53,
           "positiveFeedbackCount": 618,
           "outcomes": {
-            "lost": 1365,
-            "won-hard": 3546,
-            "won-normal": 4824
+            "lost": 1367,
+            "won-hard": 3549,
+            "won-normal": 4830
           },
-          "totalPlayers": 9735
+          "totalPlayers": 9746
         },
         {
           "id": "l-heist",
@@ -1326,11 +1326,11 @@
           "avgFeedback": 4.32,
           "positiveFeedbackCount": 563,
           "outcomes": {
-            "lost": 2184,
-            "won-hard": 3751,
-            "won-normal": 5359
+            "lost": 2185,
+            "won-hard": 3753,
+            "won-normal": 5366
           },
-          "totalPlayers": 11294
+          "totalPlayers": 11304
         },
         {
           "id": "l-gloria",
@@ -1340,11 +1340,11 @@
           "avgFeedback": 4.35,
           "positiveFeedbackCount": 579,
           "outcomes": {
-            "lost": 1852,
-            "won-hard": 3734,
-            "won-normal": 4713
+            "lost": 1854,
+            "won-hard": 3739,
+            "won-normal": 4719
           },
-          "totalPlayers": 10299
+          "totalPlayers": 10312
         },
         {
           "id": "l-korvu",
@@ -1354,11 +1354,11 @@
           "avgFeedback": 4.49,
           "positiveFeedbackCount": 484,
           "outcomes": {
-            "lost": 983,
-            "won-hard": 3883,
-            "won-normal": 5354
+            "lost": 985,
+            "won-hard": 3888,
+            "won-normal": 5361
           },
-          "totalPlayers": 10220
+          "totalPlayers": 10234
         },
         {
           "id": "l-orchid",
@@ -1368,11 +1368,11 @@
           "avgFeedback": 4.62,
           "positiveFeedbackCount": 515,
           "outcomes": {
-            "lost": 596,
-            "won-hard": 3506,
-            "won-normal": 4680
+            "lost": 597,
+            "won-hard": 3512,
+            "won-normal": 4687
           },
-          "totalPlayers": 8782
+          "totalPlayers": 8796
         },
         {
           "id": "l-jailbreak",
@@ -1382,11 +1382,11 @@
           "avgFeedback": 4.47,
           "positiveFeedbackCount": 554,
           "outcomes": {
-            "lost": 1526,
-            "won-hard": 3486,
-            "won-normal": 4561
+            "lost": 1529,
+            "won-hard": 3490,
+            "won-normal": 4568
           },
-          "totalPlayers": 9573
+          "totalPlayers": 9587
         },
         {
           "id": "l-valhalla",
@@ -1396,11 +1396,11 @@
           "avgFeedback": 3.95,
           "positiveFeedbackCount": 532,
           "outcomes": {
-            "lost": 3705,
-            "won-hard": 3619,
-            "won-normal": 4735
+            "lost": 3710,
+            "won-hard": 3626,
+            "won-normal": 4740
           },
-          "totalPlayers": 12059
+          "totalPlayers": 12076
         },
         {
           "id": "l-guardia",
@@ -1410,11 +1410,11 @@
           "avgFeedback": 4.43,
           "positiveFeedbackCount": 484,
           "outcomes": {
-            "lost": 2363,
-            "won-hard": 3550,
-            "won-normal": 4122
+            "lost": 2369,
+            "won-hard": 3556,
+            "won-normal": 4127
           },
-          "totalPlayers": 10035
+          "totalPlayers": 10052
         },
         {
           "id": "l-underdog",
@@ -1424,11 +1424,11 @@
           "avgFeedback": 4.61,
           "positiveFeedbackCount": 567,
           "outcomes": {
-            "lost": 562,
-            "won-hard": 3909,
-            "won-normal": 5397
+            "lost": 561,
+            "won-hard": 3915,
+            "won-normal": 5404
           },
-          "totalPlayers": 9868
+          "totalPlayers": 9880
         },
         {
           "id": "l-supression",
@@ -1438,11 +1438,11 @@
           "avgFeedback": 4.56,
           "positiveFeedbackCount": 564,
           "outcomes": {
-            "lost": 897,
-            "won-hard": 3614,
-            "won-normal": 4925
+            "lost": 901,
+            "won-hard": 3619,
+            "won-normal": 4929
           },
-          "totalPlayers": 9436
+          "totalPlayers": 9449
         },
         {
           "id": "l-trinity",
@@ -1453,10 +1453,10 @@
           "positiveFeedbackCount": 514,
           "outcomes": {
             "lost": 859,
-            "won-hard": 3860,
-            "won-normal": 5422
+            "won-hard": 3865,
+            "won-normal": 5429
           },
-          "totalPlayers": 10141
+          "totalPlayers": 10153
         },
         {
           "id": "l-borrowed-time",
@@ -1466,11 +1466,11 @@
           "avgFeedback": 4.61,
           "positiveFeedbackCount": 588,
           "outcomes": {
-            "lost": 1193,
-            "won-hard": 3810,
-            "won-normal": 5207
+            "lost": 1192,
+            "won-hard": 3815,
+            "won-normal": 5217
           },
-          "totalPlayers": 10210
+          "totalPlayers": 10224
         },
         {
           "id": "l-ashstorm",
@@ -1480,11 +1480,11 @@
           "avgFeedback": 4.54,
           "positiveFeedbackCount": 540,
           "outcomes": {
-            "lost": 1170,
-            "won-hard": 3659,
-            "won-normal": 4668
+            "lost": 1171,
+            "won-hard": 3666,
+            "won-normal": 4672
           },
-          "totalPlayers": 9497
+          "totalPlayers": 9509
         },
         {
           "id": "l-anarchy",
@@ -1494,11 +1494,11 @@
           "avgFeedback": 4.65,
           "positiveFeedbackCount": 574,
           "outcomes": {
-            "lost": 941,
-            "won-hard": 3904,
-            "won-normal": 5328
+            "lost": 944,
+            "won-hard": 3906,
+            "won-normal": 5336
           },
-          "totalPlayers": 10173
+          "totalPlayers": 10186
         },
         {
           "id": "l-obsidio",
@@ -1508,11 +1508,11 @@
           "avgFeedback": 4.34,
           "positiveFeedbackCount": 559,
           "outcomes": {
-            "lost": 2493,
-            "won-hard": 3865,
-            "won-normal": 4941
+            "lost": 2487,
+            "won-hard": 3872,
+            "won-normal": 4951
           },
-          "totalPlayers": 11299
+          "totalPlayers": 11310
         },
         {
           "id": "l-landahoy",
@@ -1523,10 +1523,10 @@
           "positiveFeedbackCount": 587,
           "outcomes": {
             "lost": 1106,
-            "won-hard": 3600,
-            "won-normal": 4410
+            "won-hard": 3607,
+            "won-normal": 4413
           },
-          "totalPlayers": 9116
+          "totalPlayers": 9126
         },
         {
           "id": "l-foccacia",
@@ -1536,11 +1536,11 @@
           "avgFeedback": 3.68,
           "positiveFeedbackCount": 464,
           "outcomes": {
-            "lost": 6524,
-            "won-hard": 3018,
-            "won-normal": 3007
+            "lost": 6532,
+            "won-hard": 3025,
+            "won-normal": 3013
           },
-          "totalPlayers": 12549
+          "totalPlayers": 12570
         }
       ]
     },
@@ -1556,11 +1556,11 @@
           "avgFeedback": 4.1,
           "positiveFeedbackCount": 1487,
           "outcomes": {
-            "lost": 8094,
+            "lost": 8101,
             "won-hard": 146,
-            "won-normal": 25256
+            "won-normal": 25279
           },
-          "totalPlayers": 33496
+          "totalPlayers": 33526
         },
         {
           "id": "l-dead-islands-hammer-of-faith",
@@ -1570,11 +1570,11 @@
           "avgFeedback": 4.43,
           "positiveFeedbackCount": 1090,
           "outcomes": {
-            "lost": 3953,
+            "lost": 3954,
             "won-hard": 120,
-            "won-normal": 21008
+            "won-normal": 21028
           },
-          "totalPlayers": 25081
+          "totalPlayers": 25102
         },
         {
           "id": "l-dead-islands-harvest",
@@ -1584,11 +1584,11 @@
           "avgFeedback": 4.23,
           "positiveFeedbackCount": 873,
           "outcomes": {
-            "lost": 6892,
+            "lost": 6901,
             "won-hard": 88,
-            "won-normal": 15069
+            "won-normal": 15083
           },
-          "totalPlayers": 22049
+          "totalPlayers": 22072
         },
         {
           "id": "l-dead-islands-city-of-the-dead",
@@ -1598,11 +1598,11 @@
           "avgFeedback": 3.85,
           "positiveFeedbackCount": 638,
           "outcomes": {
-            "lost": 4673,
+            "lost": 4671,
             "won-hard": 82,
-            "won-normal": 12057
+            "won-normal": 12074
           },
-          "totalPlayers": 16812
+          "totalPlayers": 16827
         },
         {
           "id": "l-dead-islands-heart-of-darkness",
@@ -1612,11 +1612,11 @@
           "avgFeedback": 4.6,
           "positiveFeedbackCount": 823,
           "outcomes": {
-            "lost": 2477,
+            "lost": 2482,
             "won-hard": 82,
-            "won-normal": 11043
+            "won-normal": 11058
           },
-          "totalPlayers": 13602
+          "totalPlayers": 13622
         }
       ]
     },
@@ -1628,15 +1628,15 @@
           "id": "l-small-world",
           "name": "Small World",
           "numberInExpedition": 1,
-          "feedbackCount": 844,
+          "feedbackCount": 846,
           "avgFeedback": 4.18,
-          "positiveFeedbackCount": 663,
+          "positiveFeedbackCount": 664,
           "outcomes": {
-            "lost": 5055,
-            "won-hard": 5718,
-            "won-normal": 7711
+            "lost": 5061,
+            "won-hard": 5723,
+            "won-normal": 7715
           },
-          "totalPlayers": 18484
+          "totalPlayers": 18499
         },
         {
           "id": "l-vassalage",
@@ -1646,11 +1646,11 @@
           "avgFeedback": 4.39,
           "positiveFeedbackCount": 562,
           "outcomes": {
-            "lost": 1702,
-            "won-hard": 5511,
-            "won-normal": 7681
+            "lost": 1707,
+            "won-hard": 5517,
+            "won-normal": 7689
           },
-          "totalPlayers": 14894
+          "totalPlayers": 14913
         },
         {
           "id": "l-life-and-death",
@@ -1661,10 +1661,10 @@
           "positiveFeedbackCount": 537,
           "outcomes": {
             "lost": 2357,
-            "won-hard": 5182,
-            "won-normal": 5828
+            "won-hard": 5185,
+            "won-normal": 5838
           },
-          "totalPlayers": 13367
+          "totalPlayers": 13380
         },
         {
           "id": "l-ally",
@@ -1674,25 +1674,25 @@
           "avgFeedback": 3.97,
           "positiveFeedbackCount": 506,
           "outcomes": {
-            "lost": 5698,
-            "won-hard": 4764,
-            "won-normal": 4916
+            "lost": 5707,
+            "won-hard": 4766,
+            "won-normal": 4921
           },
-          "totalPlayers": 15378
+          "totalPlayers": 15394
         },
         {
           "id": "l-oasis",
           "name": "Oasis",
           "numberInExpedition": 5,
-          "feedbackCount": 556,
+          "feedbackCount": 557,
           "avgFeedback": 4.48,
-          "positiveFeedbackCount": 492,
+          "positiveFeedbackCount": 493,
           "outcomes": {
             "lost": 1675,
-            "won-hard": 5085,
-            "won-normal": 6112
+            "won-hard": 5087,
+            "won-normal": 6117
           },
-          "totalPlayers": 12872
+          "totalPlayers": 12879
         },
         {
           "id": "l-rawr",
@@ -1702,11 +1702,11 @@
           "avgFeedback": 4.39,
           "positiveFeedbackCount": 433,
           "outcomes": {
-            "lost": 1818,
-            "won-hard": 4812,
-            "won-normal": 5584
+            "lost": 1817,
+            "won-hard": 4815,
+            "won-normal": 5594
           },
-          "totalPlayers": 12214
+          "totalPlayers": 12226
         },
         {
           "id": "l-knights-before-christmas",
@@ -1716,11 +1716,11 @@
           "avgFeedback": 4.12,
           "positiveFeedbackCount": 384,
           "outcomes": {
-            "lost": 3610,
-            "won-hard": 4119,
-            "won-normal": 3516
+            "lost": 3612,
+            "won-hard": 4125,
+            "won-normal": 3520
           },
-          "totalPlayers": 11245
+          "totalPlayers": 11257
         },
         {
           "id": "l-first-down",
@@ -1730,39 +1730,39 @@
           "avgFeedback": 4.03,
           "positiveFeedbackCount": 494,
           "outcomes": {
-            "lost": 2237,
-            "won-hard": 5363,
-            "won-normal": 6771
+            "lost": 2239,
+            "won-hard": 5365,
+            "won-normal": 6776
           },
-          "totalPlayers": 14371
+          "totalPlayers": 14380
         },
         {
           "id": "l-desert-prowl",
           "name": "Desert Prowl",
           "numberInExpedition": 9,
-          "feedbackCount": 746,
+          "feedbackCount": 747,
           "avgFeedback": 3.85,
           "positiveFeedbackCount": 522,
           "outcomes": {
-            "lost": 4358,
-            "won-hard": 5110,
-            "won-normal": 5293
+            "lost": 4368,
+            "won-hard": 5116,
+            "won-normal": 5302
           },
-          "totalPlayers": 14761
+          "totalPlayers": 14786
         },
         {
           "id": "l-backstab",
           "name": "Backstab",
           "numberInExpedition": 10,
-          "feedbackCount": 554,
-          "avgFeedback": 4.25,
-          "positiveFeedbackCount": 445,
+          "feedbackCount": 555,
+          "avgFeedback": 4.26,
+          "positiveFeedbackCount": 446,
           "outcomes": {
-            "lost": 3350,
-            "won-hard": 4697,
-            "won-normal": 5503
+            "lost": 3354,
+            "won-hard": 4702,
+            "won-normal": 5512
           },
-          "totalPlayers": 13550
+          "totalPlayers": 13568
         },
         {
           "id": "l-lazania",
@@ -1772,11 +1772,11 @@
           "avgFeedback": 4.32,
           "positiveFeedbackCount": 442,
           "outcomes": {
-            "lost": 2676,
-            "won-hard": 4738,
-            "won-normal": 6167
+            "lost": 2677,
+            "won-hard": 4742,
+            "won-normal": 6169
           },
-          "totalPlayers": 13581
+          "totalPlayers": 13588
         },
         {
           "id": "l-iron-butterfly",
@@ -1786,25 +1786,25 @@
           "avgFeedback": 4.39,
           "positiveFeedbackCount": 418,
           "outcomes": {
-            "lost": 1129,
-            "won-hard": 4514,
-            "won-normal": 4845
+            "lost": 1132,
+            "won-hard": 4517,
+            "won-normal": 4850
           },
-          "totalPlayers": 10488
+          "totalPlayers": 10499
         },
         {
           "id": "l-colonial-competition",
           "name": "Colonial Competition",
           "numberInExpedition": 13,
-          "feedbackCount": 1016,
+          "feedbackCount": 1018,
           "avgFeedback": 4.12,
-          "positiveFeedbackCount": 786,
+          "positiveFeedbackCount": 788,
           "outcomes": {
-            "lost": 9334,
-            "won-hard": 5341,
-            "won-normal": 7898
+            "lost": 9349,
+            "won-hard": 5349,
+            "won-normal": 7905
           },
-          "totalPlayers": 22573
+          "totalPlayers": 22603
         },
         {
           "id": "l-mines-conquest",
@@ -1814,11 +1814,11 @@
           "avgFeedback": 4.23,
           "positiveFeedbackCount": 405,
           "outcomes": {
-            "lost": 3291,
-            "won-hard": 3954,
-            "won-normal": 3810
+            "lost": 3297,
+            "won-hard": 3956,
+            "won-normal": 3816
           },
-          "totalPlayers": 11055
+          "totalPlayers": 11069
         },
         {
           "id": "l-knight-cove",
@@ -1828,11 +1828,11 @@
           "avgFeedback": 4.47,
           "positiveFeedbackCount": 485,
           "outcomes": {
-            "lost": 1674,
-            "won-hard": 4669,
-            "won-normal": 5691
+            "lost": 1675,
+            "won-hard": 4673,
+            "won-normal": 5697
           },
-          "totalPlayers": 12034
+          "totalPlayers": 12045
         },
         {
           "id": "l-builder-war",
@@ -1843,24 +1843,24 @@
           "positiveFeedbackCount": 409,
           "outcomes": {
             "lost": 1453,
-            "won-hard": 4608,
-            "won-normal": 5147
+            "won-hard": 4611,
+            "won-normal": 5152
           },
-          "totalPlayers": 11208
+          "totalPlayers": 11216
         },
         {
           "id": "l-crowded",
           "name": "Crowded",
           "numberInExpedition": 17,
-          "feedbackCount": 429,
+          "feedbackCount": 430,
           "avgFeedback": 4.34,
-          "positiveFeedbackCount": 361,
+          "positiveFeedbackCount": 362,
           "outcomes": {
-            "lost": 2341,
-            "won-hard": 4246,
-            "won-normal": 3708
+            "lost": 2342,
+            "won-hard": 4252,
+            "won-normal": 3712
           },
-          "totalPlayers": 10295
+          "totalPlayers": 10306
         },
         {
           "id": "l-gravesor",
@@ -1870,39 +1870,39 @@
           "avgFeedback": 4.53,
           "positiveFeedbackCount": 518,
           "outcomes": {
-            "lost": 1044,
-            "won-hard": 5301,
-            "won-normal": 6492
+            "lost": 1045,
+            "won-hard": 5305,
+            "won-normal": 6498
           },
-          "totalPlayers": 12837
+          "totalPlayers": 12848
         },
         {
           "id": "l-death-play",
           "name": "Death Play",
           "numberInExpedition": 19,
-          "feedbackCount": 527,
-          "avgFeedback": 4.11,
-          "positiveFeedbackCount": 404,
+          "feedbackCount": 529,
+          "avgFeedback": 4.12,
+          "positiveFeedbackCount": 406,
           "outcomes": {
             "lost": 1604,
-            "won-hard": 4837,
-            "won-normal": 4762
+            "won-hard": 4840,
+            "won-normal": 4769
           },
-          "totalPlayers": 11203
+          "totalPlayers": 11213
         },
         {
           "id": "l-ruined-kingdom",
           "name": "Ruined Kingdom",
           "numberInExpedition": 20,
-          "feedbackCount": 524,
+          "feedbackCount": 525,
           "avgFeedback": 4.55,
-          "positiveFeedbackCount": 477,
+          "positiveFeedbackCount": 478,
           "outcomes": {
-            "lost": 975,
-            "won-hard": 4806,
-            "won-normal": 5306
+            "lost": 977,
+            "won-hard": 4810,
+            "won-normal": 5313
           },
-          "totalPlayers": 11087
+          "totalPlayers": 11100
         },
         {
           "id": "l-pondfair",
@@ -1912,53 +1912,53 @@
           "avgFeedback": 4.47,
           "positiveFeedbackCount": 488,
           "outcomes": {
-            "lost": 919,
-            "won-hard": 5263,
-            "won-normal": 5913
+            "lost": 918,
+            "won-hard": 5268,
+            "won-normal": 5921
           },
-          "totalPlayers": 12095
+          "totalPlayers": 12107
         },
         {
           "id": "l-insomnia",
           "name": "Insomnia",
           "numberInExpedition": 22,
-          "feedbackCount": 531,
+          "feedbackCount": 532,
           "avgFeedback": 4.25,
-          "positiveFeedbackCount": 433,
+          "positiveFeedbackCount": 434,
           "outcomes": {
-            "lost": 3577,
-            "won-hard": 4325,
-            "won-normal": 4124
+            "lost": 3578,
+            "won-hard": 4327,
+            "won-normal": 4128
           },
-          "totalPlayers": 12026
+          "totalPlayers": 12033
         },
         {
           "id": "l-heroic-blunder",
           "name": "Heroic Blunder",
           "numberInExpedition": 23,
-          "feedbackCount": 641,
+          "feedbackCount": 642,
           "avgFeedback": 3.93,
-          "positiveFeedbackCount": 451,
+          "positiveFeedbackCount": 452,
           "outcomes": {
-            "lost": 5579,
-            "won-hard": 4055,
-            "won-normal": 4359
+            "lost": 5584,
+            "won-hard": 4061,
+            "won-normal": 4366
           },
-          "totalPlayers": 13993
+          "totalPlayers": 14011
         },
         {
           "id": "l-art-of-war",
           "name": "Art of War",
           "numberInExpedition": 24,
-          "feedbackCount": 412,
-          "avgFeedback": 4.18,
-          "positiveFeedbackCount": 313,
+          "feedbackCount": 414,
+          "avgFeedback": 4.19,
+          "positiveFeedbackCount": 315,
           "outcomes": {
-            "lost": 1503,
-            "won-hard": 4129,
-            "won-normal": 3782
+            "lost": 1502,
+            "won-hard": 4131,
+            "won-normal": 3787
           },
-          "totalPlayers": 9414
+          "totalPlayers": 9420
         },
         {
           "id": "l-waiting-for-help",
@@ -1968,11 +1968,11 @@
           "avgFeedback": 3.84,
           "positiveFeedbackCount": 351,
           "outcomes": {
-            "lost": 3005,
-            "won-hard": 3424,
-            "won-normal": 2696
+            "lost": 3009,
+            "won-hard": 3425,
+            "won-normal": 2700
           },
-          "totalPlayers": 9125
+          "totalPlayers": 9134
         },
         {
           "id": "l-big-nations",
@@ -1982,67 +1982,67 @@
           "avgFeedback": 4.53,
           "positiveFeedbackCount": 429,
           "outcomes": {
-            "lost": 1410,
-            "won-hard": 4702,
-            "won-normal": 5007
+            "lost": 1411,
+            "won-hard": 4707,
+            "won-normal": 5010
           },
-          "totalPlayers": 11119
+          "totalPlayers": 11128
         },
         {
           "id": "l-bandicoot",
           "name": "Bandicoot",
           "numberInExpedition": 27,
-          "feedbackCount": 596,
+          "feedbackCount": 597,
           "avgFeedback": 4.04,
-          "positiveFeedbackCount": 418,
+          "positiveFeedbackCount": 419,
           "outcomes": {
-            "lost": 922,
-            "won-hard": 5217,
-            "won-normal": 7056
+            "lost": 924,
+            "won-hard": 5226,
+            "won-normal": 7062
           },
-          "totalPlayers": 13195
+          "totalPlayers": 13212
         },
         {
           "id": "l-redeemer",
           "name": "Redeemer of Souls",
           "numberInExpedition": 28,
-          "feedbackCount": 467,
+          "feedbackCount": 468,
           "avgFeedback": 4.32,
-          "positiveFeedbackCount": 390,
+          "positiveFeedbackCount": 391,
           "outcomes": {
-            "lost": 2576,
-            "won-hard": 4305,
-            "won-normal": 3925
+            "lost": 2577,
+            "won-hard": 4308,
+            "won-normal": 3929
           },
-          "totalPlayers": 10806
+          "totalPlayers": 10814
         },
         {
           "id": "l-jericho",
           "name": "Walls of Jericho",
           "numberInExpedition": 29,
-          "feedbackCount": 502,
+          "feedbackCount": 503,
           "avgFeedback": 4.19,
-          "positiveFeedbackCount": 388,
+          "positiveFeedbackCount": 389,
           "outcomes": {
-            "lost": 1548,
-            "won-hard": 4600,
-            "won-normal": 4121
+            "lost": 1552,
+            "won-hard": 4602,
+            "won-normal": 4123
           },
-          "totalPlayers": 10269
+          "totalPlayers": 10277
         },
         {
           "id": "l-envelopment",
           "name": "Envelopment",
           "numberInExpedition": 30,
-          "feedbackCount": 526,
+          "feedbackCount": 527,
           "avgFeedback": 4.44,
-          "positiveFeedbackCount": 461,
+          "positiveFeedbackCount": 462,
           "outcomes": {
-            "lost": 965,
-            "won-hard": 5091,
-            "won-normal": 5740
+            "lost": 966,
+            "won-hard": 5092,
+            "won-normal": 5750
           },
-          "totalPlayers": 11796
+          "totalPlayers": 11808
         },
         {
           "id": "l-native-resolution",
@@ -2053,10 +2053,10 @@
           "positiveFeedbackCount": 451,
           "outcomes": {
             "lost": 3270,
-            "won-hard": 4016,
-            "won-normal": 4257
+            "won-hard": 4024,
+            "won-normal": 4262
           },
-          "totalPlayers": 11543
+          "totalPlayers": 11556
         },
         {
           "id": "l-gray-horizons",
@@ -2066,11 +2066,11 @@
           "avgFeedback": 4.46,
           "positiveFeedbackCount": 430,
           "outcomes": {
-            "lost": 1207,
-            "won-hard": 4861,
-            "won-normal": 5173
+            "lost": 1208,
+            "won-hard": 4863,
+            "won-normal": 5182
           },
-          "totalPlayers": 11241
+          "totalPlayers": 11253
         },
         {
           "id": "l-key",
@@ -2080,11 +2080,11 @@
           "avgFeedback": 4.29,
           "positiveFeedbackCount": 376,
           "outcomes": {
-            "lost": 1968,
-            "won-hard": 4451,
-            "won-normal": 4952
+            "lost": 1972,
+            "won-hard": 4455,
+            "won-normal": 4958
           },
-          "totalPlayers": 11371
+          "totalPlayers": 11385
         },
         {
           "id": "l-fortsigil",
@@ -2094,25 +2094,25 @@
           "avgFeedback": 4.16,
           "positiveFeedbackCount": 468,
           "outcomes": {
-            "lost": 2272,
-            "won-hard": 5144,
-            "won-normal": 5585
+            "lost": 2275,
+            "won-hard": 5150,
+            "won-normal": 5593
           },
-          "totalPlayers": 13001
+          "totalPlayers": 13018
         },
         {
           "id": "l-knight-stalemate",
           "name": "Knight Stalemate",
           "numberInExpedition": 35,
-          "feedbackCount": 625,
+          "feedbackCount": 626,
           "avgFeedback": 4.36,
-          "positiveFeedbackCount": 527,
+          "positiveFeedbackCount": 528,
           "outcomes": {
-            "lost": 3196,
-            "won-hard": 4534,
-            "won-normal": 5617
+            "lost": 3199,
+            "won-hard": 4539,
+            "won-normal": 5624
           },
-          "totalPlayers": 13347
+          "totalPlayers": 13362
         },
         {
           "id": "l-dream-big",
@@ -2122,11 +2122,11 @@
           "avgFeedback": 4.43,
           "positiveFeedbackCount": 438,
           "outcomes": {
-            "lost": 1604,
-            "won-hard": 4578,
-            "won-normal": 4705
+            "lost": 1605,
+            "won-hard": 4580,
+            "won-normal": 4715
           },
-          "totalPlayers": 10887
+          "totalPlayers": 10900
         },
         {
           "id": "l-before-the-bad",
@@ -2137,10 +2137,10 @@
           "positiveFeedbackCount": 428,
           "outcomes": {
             "lost": 1299,
-            "won-hard": 4583,
-            "won-normal": 4532
+            "won-hard": 4585,
+            "won-normal": 4542
           },
-          "totalPlayers": 10414
+          "totalPlayers": 10426
         },
         {
           "id": "l-king-under-the-mountain",
@@ -2150,39 +2150,39 @@
           "avgFeedback": 3.61,
           "positiveFeedbackCount": 322,
           "outcomes": {
-            "lost": 3337,
-            "won-hard": 3842,
-            "won-normal": 3107
+            "lost": 3344,
+            "won-hard": 3843,
+            "won-normal": 3109
           },
-          "totalPlayers": 10286
+          "totalPlayers": 10296
         },
         {
           "id": "l-invasion",
           "name": "Invasion",
           "numberInExpedition": 39,
-          "feedbackCount": 618,
+          "feedbackCount": 619,
           "avgFeedback": 4.04,
-          "positiveFeedbackCount": 462,
+          "positiveFeedbackCount": 463,
           "outcomes": {
-            "lost": 4790,
-            "won-hard": 4265,
-            "won-normal": 3990
+            "lost": 4793,
+            "won-hard": 4273,
+            "won-normal": 3998
           },
-          "totalPlayers": 13045
+          "totalPlayers": 13064
         },
         {
           "id": "l-airstrip-1",
           "name": "Airstrip One",
           "numberInExpedition": 40,
-          "feedbackCount": 475,
+          "feedbackCount": 476,
           "avgFeedback": 4.52,
-          "positiveFeedbackCount": 426,
+          "positiveFeedbackCount": 427,
           "outcomes": {
-            "lost": 1118,
-            "won-hard": 4394,
-            "won-normal": 4342
+            "lost": 1120,
+            "won-hard": 4396,
+            "won-normal": 4349
           },
-          "totalPlayers": 9854
+          "totalPlayers": 9865
         },
         {
           "id": "l-equal-chances",
@@ -2192,53 +2192,53 @@
           "avgFeedback": 4.61,
           "positiveFeedbackCount": 338,
           "outcomes": {
-            "lost": 564,
-            "won-hard": 3427,
-            "won-normal": 2663
+            "lost": 565,
+            "won-hard": 3429,
+            "won-normal": 2668
           },
-          "totalPlayers": 6654
+          "totalPlayers": 6662
         },
         {
           "id": "l-colony-trouble",
           "name": "Colony Trouble",
           "numberInExpedition": 42,
-          "feedbackCount": 442,
+          "feedbackCount": 443,
           "avgFeedback": 4.28,
-          "positiveFeedbackCount": 367,
+          "positiveFeedbackCount": 368,
           "outcomes": {
             "lost": 1531,
-            "won-hard": 3959,
-            "won-normal": 3336
+            "won-hard": 3963,
+            "won-normal": 3341
           },
-          "totalPlayers": 8826
+          "totalPlayers": 8835
         },
         {
           "id": "l-government-change",
           "name": "Government Change",
           "numberInExpedition": 43,
-          "feedbackCount": 471,
+          "feedbackCount": 473,
           "avgFeedback": 4.48,
-          "positiveFeedbackCount": 412,
+          "positiveFeedbackCount": 414,
           "outcomes": {
-            "lost": 814,
-            "won-hard": 4497,
-            "won-normal": 4968
+            "lost": 816,
+            "won-hard": 4498,
+            "won-normal": 4976
           },
-          "totalPlayers": 10279
+          "totalPlayers": 10290
         },
         {
           "id": "l-spider",
           "name": "Spider's Web",
           "numberInExpedition": 44,
-          "feedbackCount": 547,
+          "feedbackCount": 548,
           "avgFeedback": 4.56,
-          "positiveFeedbackCount": 493,
+          "positiveFeedbackCount": 494,
           "outcomes": {
-            "lost": 1153,
-            "won-hard": 4847,
-            "won-normal": 4933
+            "lost": 1154,
+            "won-hard": 4853,
+            "won-normal": 4939
           },
-          "totalPlayers": 10933
+          "totalPlayers": 10946
         },
         {
           "id": "l-grinch",
@@ -2249,52 +2249,52 @@
           "positiveFeedbackCount": 436,
           "outcomes": {
             "lost": 940,
-            "won-hard": 4695,
-            "won-normal": 4938
+            "won-hard": 4699,
+            "won-normal": 4945
           },
-          "totalPlayers": 10573
+          "totalPlayers": 10584
         },
         {
           "id": "l-surrounded",
           "name": "Surrounded",
           "numberInExpedition": 46,
-          "feedbackCount": 575,
-          "avgFeedback": 3.9,
+          "feedbackCount": 576,
+          "avgFeedback": 3.89,
           "positiveFeedbackCount": 401,
           "outcomes": {
-            "lost": 3882,
-            "won-hard": 4063,
-            "won-normal": 3607
+            "lost": 3895,
+            "won-hard": 4069,
+            "won-normal": 3613
           },
-          "totalPlayers": 11552
+          "totalPlayers": 11577
         },
         {
           "id": "l-invader",
           "name": "Invader",
           "numberInExpedition": 47,
-          "feedbackCount": 444,
+          "feedbackCount": 445,
           "avgFeedback": 4.54,
-          "positiveFeedbackCount": 396,
+          "positiveFeedbackCount": 397,
           "outcomes": {
-            "lost": 1449,
-            "won-hard": 4359,
-            "won-normal": 4443
+            "lost": 1453,
+            "won-hard": 4362,
+            "won-normal": 4450
           },
-          "totalPlayers": 10251
+          "totalPlayers": 10265
         },
         {
           "id": "l-uprising3",
           "name": "Uprising",
           "numberInExpedition": 48,
-          "feedbackCount": 554,
+          "feedbackCount": 555,
           "avgFeedback": 3.57,
           "positiveFeedbackCount": 338,
           "outcomes": {
-            "lost": 6732,
-            "won-hard": 3367,
-            "won-normal": 2516
+            "lost": 6734,
+            "won-hard": 3370,
+            "won-normal": 2522
           },
-          "totalPlayers": 12615
+          "totalPlayers": 12626
         },
         {
           "id": "l-siege-wall",
@@ -2304,25 +2304,25 @@
           "avgFeedback": 4.26,
           "positiveFeedbackCount": 391,
           "outcomes": {
-            "lost": 3850,
-            "won-hard": 3781,
-            "won-normal": 3788
+            "lost": 3859,
+            "won-hard": 3788,
+            "won-normal": 3792
           },
-          "totalPlayers": 11419
+          "totalPlayers": 11439
         },
         {
           "id": "l-from-all-sides",
           "name": "From All Sides",
           "numberInExpedition": 50,
-          "feedbackCount": 498,
+          "feedbackCount": 499,
           "avgFeedback": 4.4,
-          "positiveFeedbackCount": 432,
+          "positiveFeedbackCount": 433,
           "outcomes": {
-            "lost": 2384,
-            "won-hard": 3428,
-            "won-normal": 4336
+            "lost": 2389,
+            "won-hard": 3435,
+            "won-normal": 4339
           },
-          "totalPlayers": 10148
+          "totalPlayers": 10163
         },
         {
           "id": "l-mitsumata",
@@ -2332,39 +2332,39 @@
           "avgFeedback": 4.41,
           "positiveFeedbackCount": 530,
           "outcomes": {
-            "lost": 1741,
-            "won-hard": 4914,
-            "won-normal": 5958
+            "lost": 1742,
+            "won-hard": 4917,
+            "won-normal": 5970
           },
-          "totalPlayers": 12613
+          "totalPlayers": 12629
         },
         {
           "id": "l-assasins",
           "name": "Assasins",
           "numberInExpedition": 52,
-          "feedbackCount": 503,
+          "feedbackCount": 504,
           "avgFeedback": 3.92,
-          "positiveFeedbackCount": 359,
+          "positiveFeedbackCount": 360,
           "outcomes": {
-            "lost": 5413,
-            "won-hard": 3305,
-            "won-normal": 3149
+            "lost": 5421,
+            "won-hard": 3306,
+            "won-normal": 3153
           },
-          "totalPlayers": 11867
+          "totalPlayers": 11880
         },
         {
           "id": "l-locked-in",
           "name": "Locked In",
           "numberInExpedition": 53,
-          "feedbackCount": 595,
+          "feedbackCount": 596,
           "avgFeedback": 4.35,
-          "positiveFeedbackCount": 509,
+          "positiveFeedbackCount": 510,
           "outcomes": {
-            "lost": 2245,
-            "won-hard": 4883,
-            "won-normal": 5242
+            "lost": 2240,
+            "won-hard": 4889,
+            "won-normal": 5252
           },
-          "totalPlayers": 12370
+          "totalPlayers": 12381
         },
         {
           "id": "l-norman-conquest",
@@ -2374,11 +2374,11 @@
           "avgFeedback": 4.48,
           "positiveFeedbackCount": 556,
           "outcomes": {
-            "lost": 4036,
-            "won-hard": 4559,
-            "won-normal": 4933
+            "lost": 4043,
+            "won-hard": 4560,
+            "won-normal": 4937
           },
-          "totalPlayers": 13528
+          "totalPlayers": 13540
         },
         {
           "id": "l-gold-swamp",
@@ -2388,25 +2388,25 @@
           "avgFeedback": 4.52,
           "positiveFeedbackCount": 355,
           "outcomes": {
-            "lost": 818,
-            "won-hard": 3811,
-            "won-normal": 3430
+            "lost": 820,
+            "won-hard": 3814,
+            "won-normal": 3437
           },
-          "totalPlayers": 8059
+          "totalPlayers": 8071
         },
         {
           "id": "l-chinese-checkers",
           "name": "Chinese Checkers",
           "numberInExpedition": 56,
-          "feedbackCount": 696,
-          "avgFeedback": 4.41,
-          "positiveFeedbackCount": 597,
+          "feedbackCount": 698,
+          "avgFeedback": 4.42,
+          "positiveFeedbackCount": 599,
           "outcomes": {
-            "lost": 2246,
-            "won-hard": 4656,
-            "won-normal": 5715
+            "lost": 2249,
+            "won-hard": 4663,
+            "won-normal": 5725
           },
-          "totalPlayers": 12617
+          "totalPlayers": 12637
         },
         {
           "id": "l-theory-of-colors",
@@ -2416,11 +2416,11 @@
           "avgFeedback": 4.11,
           "positiveFeedbackCount": 535,
           "outcomes": {
-            "lost": 2878,
-            "won-hard": 4054,
-            "won-normal": 4576
+            "lost": 2883,
+            "won-hard": 4056,
+            "won-normal": 4578
           },
-          "totalPlayers": 11508
+          "totalPlayers": 11517
         },
         {
           "id": "l-swamp-camp",
@@ -2430,11 +2430,11 @@
           "avgFeedback": 4.42,
           "positiveFeedbackCount": 450,
           "outcomes": {
-            "lost": 2187,
-            "won-hard": 4121,
-            "won-normal": 4309
+            "lost": 2188,
+            "won-hard": 4124,
+            "won-normal": 4318
           },
-          "totalPlayers": 10617
+          "totalPlayers": 10630
         },
         {
           "id": "l-last-hope",
@@ -2444,25 +2444,25 @@
           "avgFeedback": 4.48,
           "positiveFeedbackCount": 306,
           "outcomes": {
-            "lost": 1869,
-            "won-hard": 3389,
-            "won-normal": 3008
+            "lost": 1874,
+            "won-hard": 3395,
+            "won-normal": 3009
           },
-          "totalPlayers": 8266
+          "totalPlayers": 8278
         },
         {
           "id": "l-farmers-army",
           "name": "Farmers Army",
           "numberInExpedition": 60,
-          "feedbackCount": 402,
+          "feedbackCount": 403,
           "avgFeedback": 3.8,
           "positiveFeedbackCount": 274,
           "outcomes": {
-            "lost": 3167,
-            "won-hard": 2921,
-            "won-normal": 2229
+            "lost": 3171,
+            "won-hard": 2924,
+            "won-normal": 2232
           },
-          "totalPlayers": 8317
+          "totalPlayers": 8327
         },
         {
           "id": "l-hex",
@@ -2472,11 +2472,11 @@
           "avgFeedback": 4.55,
           "positiveFeedbackCount": 456,
           "outcomes": {
-            "lost": 888,
-            "won-hard": 4177,
-            "won-normal": 4784
+            "lost": 890,
+            "won-hard": 4179,
+            "won-normal": 4796
           },
-          "totalPlayers": 9849
+          "totalPlayers": 9865
         },
         {
           "id": "l-okinawa",
@@ -2486,11 +2486,11 @@
           "avgFeedback": 4.31,
           "positiveFeedbackCount": 422,
           "outcomes": {
-            "lost": 2971,
-            "won-hard": 4386,
-            "won-normal": 3817
+            "lost": 2981,
+            "won-hard": 4387,
+            "won-normal": 3822
           },
-          "totalPlayers": 11174
+          "totalPlayers": 11190
         },
         {
           "id": "l-hexed-forest",
@@ -2500,11 +2500,11 @@
           "avgFeedback": 4.33,
           "positiveFeedbackCount": 445,
           "outcomes": {
-            "lost": 2099,
-            "won-hard": 3501,
-            "won-normal": 3191
+            "lost": 2101,
+            "won-hard": 3508,
+            "won-normal": 3199
           },
-          "totalPlayers": 8791
+          "totalPlayers": 8808
         },
         {
           "id": "l-imbalance",
@@ -2514,25 +2514,25 @@
           "avgFeedback": 4.29,
           "positiveFeedbackCount": 346,
           "outcomes": {
-            "lost": 2988,
+            "lost": 2994,
             "won-hard": 3295,
-            "won-normal": 2889
+            "won-normal": 2893
           },
-          "totalPlayers": 9172
+          "totalPlayers": 9182
         },
         {
           "id": "l-savage-woods",
           "name": "Savage Woods",
           "numberInExpedition": 65,
-          "feedbackCount": 468,
+          "feedbackCount": 469,
           "avgFeedback": 4.54,
-          "positiveFeedbackCount": 420,
+          "positiveFeedbackCount": 421,
           "outcomes": {
-            "lost": 1535,
-            "won-hard": 4120,
-            "won-normal": 4012
+            "lost": 1534,
+            "won-hard": 4124,
+            "won-normal": 4021
           },
-          "totalPlayers": 9667
+          "totalPlayers": 9679
         },
         {
           "id": "l-cashflow",
@@ -2544,9 +2544,9 @@
           "outcomes": {
             "lost": 1400,
             "won-hard": 3249,
-            "won-normal": 2675
+            "won-normal": 2680
           },
-          "totalPlayers": 7324
+          "totalPlayers": 7329
         },
         {
           "id": "l-guerilla",
@@ -2556,11 +2556,11 @@
           "avgFeedback": 4.48,
           "positiveFeedbackCount": 374,
           "outcomes": {
-            "lost": 1063,
-            "won-hard": 4065,
-            "won-normal": 3997
+            "lost": 1065,
+            "won-hard": 4067,
+            "won-normal": 4002
           },
-          "totalPlayers": 9125
+          "totalPlayers": 9134
         },
         {
           "id": "l-inside-a-house",
@@ -2570,11 +2570,11 @@
           "avgFeedback": 4.32,
           "positiveFeedbackCount": 401,
           "outcomes": {
-            "lost": 1409,
-            "won-hard": 4221,
-            "won-normal": 4291
+            "lost": 1416,
+            "won-hard": 4227,
+            "won-normal": 4298
           },
-          "totalPlayers": 9921
+          "totalPlayers": 9941
         },
         {
           "id": "l-moldova-1829",
@@ -2584,11 +2584,11 @@
           "avgFeedback": 4.37,
           "positiveFeedbackCount": 421,
           "outcomes": {
-            "lost": 2764,
-            "won-hard": 3908,
-            "won-normal": 3588
+            "lost": 2770,
+            "won-hard": 3912,
+            "won-normal": 3591
           },
-          "totalPlayers": 10260
+          "totalPlayers": 10273
         },
         {
           "id": "l-hispanola",
@@ -2598,11 +2598,11 @@
           "avgFeedback": 4.44,
           "positiveFeedbackCount": 359,
           "outcomes": {
-            "lost": 1204,
+            "lost": 1208,
             "won-hard": 4136,
-            "won-normal": 3902
+            "won-normal": 3904
           },
-          "totalPlayers": 9242
+          "totalPlayers": 9248
         },
         {
           "id": "l-cursed-city",
@@ -2612,25 +2612,25 @@
           "avgFeedback": 4.46,
           "positiveFeedbackCount": 456,
           "outcomes": {
-            "lost": 1644,
-            "won-hard": 4134,
-            "won-normal": 4025
+            "lost": 1647,
+            "won-hard": 4135,
+            "won-normal": 4032
           },
-          "totalPlayers": 9803
+          "totalPlayers": 9814
         },
         {
           "id": "l-china-1937",
           "name": "China 1937",
           "numberInExpedition": 72,
-          "feedbackCount": 541,
-          "avgFeedback": 4.21,
+          "feedbackCount": 542,
+          "avgFeedback": 4.2,
           "positiveFeedbackCount": 434,
           "outcomes": {
-            "lost": 3629,
-            "won-hard": 2926,
-            "won-normal": 2350
+            "lost": 3639,
+            "won-hard": 2927,
+            "won-normal": 2355
           },
-          "totalPlayers": 8905
+          "totalPlayers": 8921
         },
         {
           "id": "l-d-day",
@@ -2640,25 +2640,25 @@
           "avgFeedback": 4.11,
           "positiveFeedbackCount": 345,
           "outcomes": {
-            "lost": 3185,
-            "won-hard": 3863,
-            "won-normal": 2921
+            "lost": 3194,
+            "won-hard": 3864,
+            "won-normal": 2922
           },
-          "totalPlayers": 9969
+          "totalPlayers": 9980
         },
         {
           "id": "l-happy-present",
           "name": "Happy Present",
           "numberInExpedition": 74,
-          "feedbackCount": 406,
-          "avgFeedback": 4.23,
-          "positiveFeedbackCount": 330,
+          "feedbackCount": 407,
+          "avgFeedback": 4.24,
+          "positiveFeedbackCount": 331,
           "outcomes": {
-            "lost": 1518,
-            "won-hard": 3604,
-            "won-normal": 3326
+            "lost": 1520,
+            "won-hard": 3610,
+            "won-normal": 3331
           },
-          "totalPlayers": 8448
+          "totalPlayers": 8461
         },
         {
           "id": "l-rotting-cake",
@@ -2668,11 +2668,11 @@
           "avgFeedback": 4.42,
           "positiveFeedbackCount": 355,
           "outcomes": {
-            "lost": 1624,
-            "won-hard": 3617,
-            "won-normal": 3271
+            "lost": 1627,
+            "won-hard": 3621,
+            "won-normal": 3277
           },
-          "totalPlayers": 8512
+          "totalPlayers": 8525
         },
         {
           "id": "l-conquistador",
@@ -2682,11 +2682,11 @@
           "avgFeedback": 4.52,
           "positiveFeedbackCount": 401,
           "outcomes": {
-            "lost": 542,
-            "won-hard": 4285,
-            "won-normal": 4324
+            "lost": 543,
+            "won-hard": 4292,
+            "won-normal": 4330
           },
-          "totalPlayers": 9151
+          "totalPlayers": 9165
         },
         {
           "id": "l-spider-2",
@@ -2696,11 +2696,11 @@
           "avgFeedback": 4.4,
           "positiveFeedbackCount": 376,
           "outcomes": {
-            "lost": 885,
-            "won-hard": 4043,
-            "won-normal": 3949
+            "lost": 883,
+            "won-hard": 4045,
+            "won-normal": 3954
           },
-          "totalPlayers": 8877
+          "totalPlayers": 8882
         },
         {
           "id": "l-thailand",
@@ -2710,11 +2710,11 @@
           "avgFeedback": 4.47,
           "positiveFeedbackCount": 392,
           "outcomes": {
-            "lost": 825,
-            "won-hard": 3951,
-            "won-normal": 3756
+            "lost": 824,
+            "won-hard": 3957,
+            "won-normal": 3760
           },
-          "totalPlayers": 8532
+          "totalPlayers": 8541
         },
         {
           "id": "l-nitro",
@@ -2724,25 +2724,25 @@
           "avgFeedback": 4.37,
           "positiveFeedbackCount": 315,
           "outcomes": {
-            "lost": 424,
-            "won-hard": 3815,
-            "won-normal": 3427
+            "lost": 427,
+            "won-hard": 3817,
+            "won-normal": 3433
           },
-          "totalPlayers": 7666
+          "totalPlayers": 7677
         },
         {
           "id": "l-splitted",
           "name": "Splitted",
           "numberInExpedition": 80,
-          "feedbackCount": 377,
-          "avgFeedback": 4.11,
+          "feedbackCount": 378,
+          "avgFeedback": 4.1,
           "positiveFeedbackCount": 290,
           "outcomes": {
-            "lost": 2506,
-            "won-hard": 3020,
+            "lost": 2519,
+            "won-hard": 3022,
             "won-normal": 2478
           },
-          "totalPlayers": 8004
+          "totalPlayers": 8019
         },
         {
           "id": "l-antractica",
@@ -2752,11 +2752,11 @@
           "avgFeedback": 3.87,
           "positiveFeedbackCount": 305,
           "outcomes": {
-            "lost": 3217,
-            "won-hard": 3393,
-            "won-normal": 2786
+            "lost": 3219,
+            "won-hard": 3395,
+            "won-normal": 2791
           },
-          "totalPlayers": 9396
+          "totalPlayers": 9405
         },
         {
           "id": "l-partizan",
@@ -2767,10 +2767,10 @@
           "positiveFeedbackCount": 356,
           "outcomes": {
             "lost": 2069,
-            "won-hard": 3688,
-            "won-normal": 3110
+            "won-hard": 3692,
+            "won-normal": 3117
           },
-          "totalPlayers": 8867
+          "totalPlayers": 8878
         },
         {
           "id": "l-up",
@@ -2780,11 +2780,11 @@
           "avgFeedback": 4.3,
           "positiveFeedbackCount": 391,
           "outcomes": {
-            "lost": 1206,
-            "won-hard": 3814,
-            "won-normal": 3460
+            "lost": 1209,
+            "won-hard": 3816,
+            "won-normal": 3464
           },
-          "totalPlayers": 8480
+          "totalPlayers": 8489
         },
         {
           "id": "l-constantinople",
@@ -2794,25 +2794,25 @@
           "avgFeedback": 4.2,
           "positiveFeedbackCount": 378,
           "outcomes": {
-            "lost": 1938,
-            "won-hard": 3862,
-            "won-normal": 3800
+            "lost": 1937,
+            "won-hard": 3866,
+            "won-normal": 3805
           },
-          "totalPlayers": 9600
+          "totalPlayers": 9608
         },
         {
           "id": "l-treble",
           "name": "Treble",
           "numberInExpedition": 85,
-          "feedbackCount": 390,
+          "feedbackCount": 391,
           "avgFeedback": 4.26,
-          "positiveFeedbackCount": 323,
+          "positiveFeedbackCount": 324,
           "outcomes": {
             "lost": 1352,
-            "won-hard": 3355,
-            "won-normal": 3039
+            "won-hard": 3359,
+            "won-normal": 3046
           },
-          "totalPlayers": 7746
+          "totalPlayers": 7757
         },
         {
           "id": "l-bulldozer",
@@ -2822,11 +2822,11 @@
           "avgFeedback": 4.38,
           "positiveFeedbackCount": 381,
           "outcomes": {
-            "lost": 1973,
-            "won-hard": 3260,
-            "won-normal": 2872
+            "lost": 1978,
+            "won-hard": 3261,
+            "won-normal": 2876
           },
-          "totalPlayers": 8105
+          "totalPlayers": 8115
         },
         {
           "id": "l-nyc",
@@ -2837,10 +2837,10 @@
           "positiveFeedbackCount": 363,
           "outcomes": {
             "lost": 959,
-            "won-hard": 3867,
-            "won-normal": 3652
+            "won-hard": 3871,
+            "won-normal": 3657
           },
-          "totalPlayers": 8478
+          "totalPlayers": 8487
         },
         {
           "id": "l-one-memory",
@@ -2850,11 +2850,11 @@
           "avgFeedback": 4.46,
           "positiveFeedbackCount": 341,
           "outcomes": {
-            "lost": 920,
-            "won-hard": 3625,
-            "won-normal": 3393
+            "lost": 921,
+            "won-hard": 3626,
+            "won-normal": 3396
           },
-          "totalPlayers": 7938
+          "totalPlayers": 7943
         }
       ]
     },
@@ -2870,11 +2870,11 @@
           "avgFeedback": 4.4,
           "positiveFeedbackCount": 591,
           "outcomes": {
-            "lost": 3320,
-            "won-hard": 5690,
-            "won-normal": 7362
+            "lost": 3323,
+            "won-hard": 5692,
+            "won-normal": 7373
           },
-          "totalPlayers": 16372
+          "totalPlayers": 16388
         },
         {
           "id": "l-sir-robin",
@@ -2884,11 +2884,11 @@
           "avgFeedback": 4.37,
           "positiveFeedbackCount": 528,
           "outcomes": {
-            "lost": 2509,
-            "won-hard": 5438,
-            "won-normal": 7155
+            "lost": 2507,
+            "won-hard": 5442,
+            "won-normal": 7162
           },
-          "totalPlayers": 15102
+          "totalPlayers": 15111
         },
         {
           "id": "l-knightfight",
@@ -2898,11 +2898,11 @@
           "avgFeedback": 4.29,
           "positiveFeedbackCount": 551,
           "outcomes": {
-            "lost": 4647,
-            "won-hard": 5403,
-            "won-normal": 6598
+            "lost": 4650,
+            "won-hard": 5407,
+            "won-normal": 6608
           },
-          "totalPlayers": 16648
+          "totalPlayers": 16665
         },
         {
           "id": "l-nomad",
@@ -2912,11 +2912,11 @@
           "avgFeedback": 4.21,
           "positiveFeedbackCount": 583,
           "outcomes": {
-            "lost": 9460,
-            "won-hard": 5025,
-            "won-normal": 5577
+            "lost": 9464,
+            "won-hard": 5032,
+            "won-normal": 5585
           },
-          "totalPlayers": 20062
+          "totalPlayers": 20081
         },
         {
           "id": "l-swamped",
@@ -2926,11 +2926,11 @@
           "avgFeedback": 4.38,
           "positiveFeedbackCount": 537,
           "outcomes": {
-            "lost": 2717,
-            "won-hard": 5043,
-            "won-normal": 6374
+            "lost": 2721,
+            "won-hard": 5048,
+            "won-normal": 6386
           },
-          "totalPlayers": 14134
+          "totalPlayers": 14155
         },
         {
           "id": "l-occupation",
@@ -2940,11 +2940,11 @@
           "avgFeedback": 4.08,
           "positiveFeedbackCount": 531,
           "outcomes": {
-            "lost": 6332,
-            "won-hard": 4992,
-            "won-normal": 5653
+            "lost": 6337,
+            "won-hard": 4996,
+            "won-normal": 5664
           },
-          "totalPlayers": 16977
+          "totalPlayers": 16997
         },
         {
           "id": "l-gold-rush",
@@ -2954,11 +2954,11 @@
           "avgFeedback": 4.45,
           "positiveFeedbackCount": 610,
           "outcomes": {
-            "lost": 3486,
-            "won-hard": 5068,
-            "won-normal": 7274
+            "lost": 3484,
+            "won-hard": 5072,
+            "won-normal": 7287
           },
-          "totalPlayers": 15828
+          "totalPlayers": 15843
         },
         {
           "id": "l-xmas-1",
@@ -2968,11 +2968,11 @@
           "avgFeedback": 4.15,
           "positiveFeedbackCount": 749,
           "outcomes": {
-            "lost": 10802,
+            "lost": 10808,
             "won-hard": 101,
-            "won-normal": 10691
+            "won-normal": 10703
           },
-          "totalPlayers": 21594
+          "totalPlayers": 21612
         },
         {
           "id": "l-easter-egg",
@@ -2982,11 +2982,11 @@
           "avgFeedback": 4.24,
           "positiveFeedbackCount": 482,
           "outcomes": {
-            "lost": 3523,
-            "won-hard": 5848,
-            "won-normal": 8773
+            "lost": 3527,
+            "won-hard": 5854,
+            "won-normal": 8783
           },
-          "totalPlayers": 18144
+          "totalPlayers": 18164
         },
         {
           "id": "l-regicide",
@@ -2996,16 +2996,16 @@
           "avgFeedback": 4.06,
           "positiveFeedbackCount": 534,
           "outcomes": {
-            "lost": 10087,
-            "won-hard": 4696,
-            "won-normal": 6471
+            "lost": 10096,
+            "won-hard": 4702,
+            "won-normal": 6479
           },
-          "totalPlayers": 21254
+          "totalPlayers": 21277
         }
       ]
     }
   ],
   "metadata": {
-    "generatedAt": "2026-11-20T06:18:15.542Z"
+    "generatedAt": "2026-11-22T05:50:20.088Z"
   }
 }
