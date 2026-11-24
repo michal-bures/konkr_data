@@ -2,21 +2,21 @@
   "metadata": {
     "levelId": "l-knightfight",
     "levelName": "Knight Fight",
-    "generatedAt": "2026-11-23T03:29:11.732Z",
+    "generatedAt": "2026-11-24T06:43:02.879Z",
     "expeditionId": "x-experimental",
     "expeditionName": "Unstable Vortex"
   },
   "outcomes": {
-    "lost": 4651,
+    "lost": 4652,
     "won-hard": 5414,
-    "won-normal": 6613
+    "won-normal": 6614
   },
-  "players": 16678,
+  "players": 16680,
   "feedbacks": {
     "1": 48,
     "2": 17,
     "3": 50,
-    "4": 133,
+    "4": 134,
     "5": 420
   },
   "turnsToVictory": {
@@ -119,7 +119,7 @@
       },
       {
         "turns": 25,
-        "players": 413
+        "players": 414
       },
       {
         "turns": 26,

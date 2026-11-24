@@ -2,23 +2,23 @@
   "metadata": {
     "levelId": "l-dead-islands-arrival",
     "levelName": "Arrival",
-    "generatedAt": "2026-11-23T03:29:11.732Z",
+    "generatedAt": "2026-11-24T06:43:02.879Z",
     "expeditionId": "x-dead-islands",
     "expeditionName": "Dead Islands",
     "fixedAIDifficulty": "normal"
   },
   "outcomes": {
-    "lost": 8106,
+    "lost": 8108,
     "won-hard": 146,
-    "won-normal": 25300
+    "won-normal": 25305
   },
-  "players": 33552,
+  "players": 33559,
   "feedbacks": {
     "1": 162,
     "2": 91,
     "3": 186,
     "4": 437,
-    "5": 1051
+    "5": 1052
   },
   "turnsToVictory": {
     "normal": [
@@ -36,19 +36,19 @@
       },
       {
         "turns": 4,
-        "players": 3796
+        "players": 3797
       },
       {
         "turns": 5,
-        "players": 5983
+        "players": 5984
       },
       {
         "turns": 6,
-        "players": 2654
+        "players": 2655
       },
       {
         "turns": 7,
-        "players": 2346
+        "players": 2348
       },
       {
         "turns": 8,
